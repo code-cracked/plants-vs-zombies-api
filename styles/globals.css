@@ -1,3 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-white;
+    @apply text-black;
+    @apply dark:bg-black;
+    @apply dark:text-neutral-100;
+  }
+}
+
 html,
 body {
   padding: 0;
