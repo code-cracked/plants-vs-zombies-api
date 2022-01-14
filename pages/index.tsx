@@ -16,7 +16,7 @@ const Home: NextPage = () => {
         <div
           className={`flex flex-col w-3/4 h-3/4 items-center justify-center ${styles.searchContainer}`}
         >
-          <div className="relative w-full max-w-sm ">
+          <div className={`relative w-full max-w-sm ${styles.img}`}>
             <Image
               src={"/assets/header_image.png"}
               layout="responsive"

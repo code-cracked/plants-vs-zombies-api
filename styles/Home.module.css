@@ -3,3 +3,8 @@
   position: relative;
   bottom: 3.125rem;
 }
+
+.img:hover {
+  transform: scale(1.03);
+  transition: transform 300ms;
+}
