@@ -3,11 +3,13 @@
 @tailwind utilities;
 
 @layer base {
-  body {
+  body,
+  html {
     @apply bg-white;
     @apply text-black;
     @apply dark:bg-black;
     @apply dark:text-neutral-100;
+    @apply scroll-smooth;
   }
 }
 
