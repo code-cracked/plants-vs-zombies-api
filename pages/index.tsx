@@ -64,7 +64,7 @@ const Home: NextPage = () => {
           About us
         </h2>
         <div
-          className={` flex items-center flex-col w-full justify-evenly ${styles.aboutContainer} h-fit`}
+          className={` flex items-center flex-col w-full justify-evenly ${styles.aboutContainer} h-fit sm:px-12`}
         >
           <AboutCard
             title={"Ridiculously fast."}
@@ -74,6 +74,7 @@ const Home: NextPage = () => {
             image={"/assets/ridiculously-fast.png"}
             color={"text-red-700"}
             border="hover:border-red-700 dark:hover:border-red-500 hover:shadow-sm dark:hover:shadow-red-700 hover:shadow-red-400"
+            className="sm:self-start"
           />
           <AboutCard
             title={"Clean UI."}
@@ -83,6 +84,7 @@ const Home: NextPage = () => {
             image={"/assets/clean-ui.png"}
             color={"text-yellow-500"}
             border="hover:border-yellow-700 dark:hover:border-yellow-500 hover:shadow-sm dark:hover:shadow-yellow-700 hover:shadow-yellow-400"
+            className="sm:self-end"
           />
           <AboutCard
             title={"Extremely resourceful."}
@@ -92,6 +94,7 @@ const Home: NextPage = () => {
             image={"/assets/extremely-resourceful.jpg"}
             color={"text-green-400"}
             border="hover:border-green-700 dark:hover:border-green-500 hover:shadow-sm dark:hover:shadow-green-700 hover:shadow-green-400"
+            className="sm:self-start"
           />
         </div>
       </div>
