@@ -11,6 +11,7 @@
       "  \"range\": \"${6:null}\",",
       "  \"powerup\": \"${7:null}\",",
       "  \"family\": \"${8:null}\",",
+      "  \"description\": \"${9:null}\",",
       "  \"image\": \"/assets/plants/${1:name}.png\"",
       "}"
     ],
