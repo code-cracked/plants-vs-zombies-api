@@ -57,13 +57,15 @@ const Home: NextPage = () => {
         </div>
       </div>
       <div
-        className="bg-gray-100 dark:bg-zinc-900 min-h-fit h-screen w-full "
+        className="bg-gray-100 dark:bg-zinc-900  h-fit min-h-screen w-full "
         id="about"
       >
-        <h2 className="text-center font-display font-medium text-3xl md:text-4xl lg:text-5xl lg:font-normal py-6">
+        <h2 className="text-center font-display font-medium text-3xl md:text-4xl lg:text-5xl lg:font-normal py-6 md:pt-10">
           About us
         </h2>
-        <div className=" flex items-center flex-col w-full justify-around h-5/6">
+        <div
+          className={` flex items-center flex-col w-full justify-evenly ${styles.aboutContainer} h-fit`}
+        >
           <AboutCard
             title={"Ridiculously fast."}
             detail={
@@ -71,7 +73,7 @@ const Home: NextPage = () => {
             }
             image={"/assets/ridiculously-fast.png"}
             color={"text-red-700"}
-            border="hover:border-red-700 dark:hover:border-red-500 hover:shadow-sm hover:shadow-red-700"
+            border="hover:border-red-700 dark:hover:border-red-500 hover:shadow-sm dark:hover:shadow-red-700 hover:shadow-red-400"
           />
           <AboutCard
             title={"Clean UI."}
@@ -80,7 +82,7 @@ const Home: NextPage = () => {
             }
             image={"/assets/clean-ui.png"}
             color={"text-yellow-500"}
-            border="hover:border-yellow-700 dark:hover:border-yellow-500 hover:shadow-sm hover:shadow-yellow-700"
+            border="hover:border-yellow-700 dark:hover:border-yellow-500 hover:shadow-sm dark:hover:shadow-yellow-700 hover:shadow-yellow-400"
           />
           <AboutCard
             title={"Extremely resourceful."}
@@ -89,7 +91,7 @@ const Home: NextPage = () => {
             }
             image={"/assets/extremely-resourceful.jpg"}
             color={"text-green-400"}
-            border="hover:border-green-700 dark:hover:border-green-500 hover:shadow-sm hover:shadow-green-700"
+            border="hover:border-green-700 dark:hover:border-green-500 hover:shadow-sm dark:hover:shadow-green-700 hover:shadow-green-400"
           />
         </div>
       </div>

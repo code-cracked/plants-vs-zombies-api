@@ -22,3 +22,7 @@
     transform: scale(1.03);
   }
 }
+
+.aboutContainer {
+  min-height: 91vh;
+}

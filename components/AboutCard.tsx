@@ -24,7 +24,7 @@ const AboutCard: FunctionComponent<AboutCardProps> = ({
 
   return (
     <div
-      className={`flex dark:border-gray-300 dark:bg-inherit w-3/4 max-w-md rounded-lg p-2  mt-2  min-h-fit h-auto border border-gray-600 items-center ${border} hover:cursor-default ${styles.aboutCard} `}
+      className={`flex dark:border-gray-300 dark:bg-inherit w-3/4 max-w-md rounded-lg p-2  my-auto md:my-3  min-h-fit border border-gray-600 items-center ${border} hover:cursor-default ${styles.aboutCard} `}
       onMouseOver={onMouseOver}
       onMouseOut={() => setOnHover(false)}
     >
@@ -33,7 +33,7 @@ const AboutCard: FunctionComponent<AboutCardProps> = ({
       </div>
       <div className="flex flex-col h-fit  justify-around">
         <div
-          className={`text-base sm:text-lg font-medium ${
+          className={`text-base sm:text-lg md:text-2xl md:m-3 font-medium ${
             onHover ? color : "dark:text-gray-200 text-gray-900"
           }`}
         >
@@ -41,7 +41,7 @@ const AboutCard: FunctionComponent<AboutCardProps> = ({
         </div>
         <hr className="border-gray-500 " />
         <div
-          className={`text-sm sm:text-base ${
+          className={`text-sm sm:text-base md:text-lg md:m-3  ${
             onHover
               ? "dark:text-gray-300 text-gray-700"
               : "dark:text-gray-400 text-gray-900"
