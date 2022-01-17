@@ -52,7 +52,7 @@
     "Damage": "15 DPS per bomblet",
     "Family": "Arma-mint"
   },
-  "Bloomerang_(PvZ2)": {},
+  "Bloomerang": {},
   "Blooming_Heart": {
     "Sun cost": "150",
     "Recharge": "5 seconds",
@@ -60,7 +60,7 @@
     "Range": "Lobbed",
     "Family": "Ail-mint"
   },
-  "Blover_(PvZ2)": {
+  "Blover": {
     "Sun cost": "50",
     "Recharge": "5 seconds",
     "Range": "Full Board",
@@ -75,7 +75,7 @@
     "Duration": "6 seconds",
     "Family": "Bombard-mint"
   },
-  "Bonk_Choy_(PvZ2)": {},
+  "Bonk_Choy": {},
   "Boom_Balloon_Flower": {
     "Sun cost": "350",
     "Recharge": "5",
@@ -93,7 +93,7 @@
     "Damage details": "Larger bulbs do more damage",
     "Family": "Appease-mint"
   },
-  "Cabbage-pult_(PvZ2)": {
+  "Cabbage-pult": {
     "Sun cost": "100",
     "Recharge": "5 seconds",
     "Damage": "40 damage per shot (Normal in Chinese version)",
@@ -124,7 +124,7 @@
     "Special": "Hurls zombies back (x3)",
     "Family": "Reinforce-mint"
   },
-  "Cherry_Bomb_(PvZ2)": {
+  "Cherry_Bomb": {
     "Sun cost": "150",
     "Recharge": "35 seconds",
     "Damage": "Massive",
@@ -141,15 +141,15 @@
     "Special": "Eating zombie is destroyed and releases stunning gas",
     "Family": "Ail-mint"
   },
-  "Chomper_(PvZ2)": {},
-  "Citron_(PvZ2)": {
+  "Chomper": {},
+  "Citron": {
     "Sun cost": "350",
     "Recharge": "5 seconds",
     "Damage": "800 damage per shot",
     "Area": "Single",
     "Family": "Fila-mint"
   },
-  "Coconut_Cannon_(PvZ2)": {
+  "Coconut_Cannon": {
     "Sun cost": "400",
     "Recharge": "5 seconds",
     "Damage": "900 damage per shot",
@@ -213,7 +213,7 @@
     "Range": "Lobbed",
     "Family": "Conceal-mint"
   },
-  "E.M.Peach_(PvZ2)": {
+  "E.M.Peach": {
     "Sun cost": "25",
     "Recharge": "25 seconds",
     "Radius": "200 (5x5)",
@@ -238,7 +238,7 @@
     "Duration": "11 seconds",
     "Family": "Enchant-mint"
   },
-  "Endurian_(PvZ2)": {
+  "Endurian": {
     "Sun cost": "100",
     "Recharge": "15 seconds",
     "Damage": "20 damage per shot every second",
@@ -263,7 +263,7 @@
     "Usage": "Instant",
     "Family": "Bombard-mint"
   },
-  "Explode-O-Nut_(PvZ2)": {
+  "Explode-O-Nut": {
     "Sun cost": "50",
     "Recharge": "10 seconds",
     "Toughness": "3000 damage per shot",
@@ -286,14 +286,14 @@
     "Family": "Fila-mint"
   },
   "Frostbite_Caves": {},
-  "Fume-shroom_(PvZ2)": {
+  "Fume-shroom": {
     "Sun cost": "125",
     "Recharge": "5 seconds",
     "Damage": "40 damage per shot",
     "Area": "1x4",
     "Family": "Ail-mint"
   },
-  "Garlic_(PvZ2)": {
+  "Garlic": {
     "Sun cost": "50",
     "Recharge": "20 seconds",
     "Toughness": "600 damage per shot",
@@ -340,7 +340,7 @@
     "(deflects grapes)": "(Immune to explosion)",
     "Family": "Bombard-mint"
   },
-  "Grave_Buster_(PvZ2)": {
+  "Grave_Buster": {
     "Sun cost": "0",
     "Recharge": "10 seconds",
     "Toughness": "Normal",
@@ -449,7 +449,7 @@
     "Weakness": "(Immune to fire)",
     "Family": "Pepper-mint"
   },
-  "Jalapeno_(PvZ2)": {
+  "Jalapeno": {
     "Sun cost": "125",
     "Recharge": "35 seconds",
     "Damage": "1800 damage per shot to every affected enemy",
@@ -459,7 +459,7 @@
     "Family": "Pepper-mint"
   },
   "Jurassic_Marsh": {},
-  "Kernel-pult_(PvZ2)": {
+  "Kernel-pult": {
     "Sun cost": "100",
     "Recharge": "5 seconds",
     "Range": "Lobbed",
@@ -477,7 +477,7 @@
     "3x3 (second stage)": "5x5 (third stage)",
     "Family": "Enforce-mint"
   },
-  "Laser_Bean_(PvZ2)": {
+  "Laser_Bean": {
     "Sun cost": "200",
     "Recharge": "5 seconds",
     "Damage": "40 damage per shot",
@@ -497,7 +497,7 @@
     "Weakness": "(Immune to fire)",
     "Family": "Pepper-mint"
   },
-  "Lightning_Reed_(PvZ2)": {
+  "Lightning_Reed": {
     "Sun cost": "125",
     "Recharge": "5 seconds",
     "Damage": "10 damage per shot, with 10 damage per shot splash damage.",
@@ -505,22 +505,22 @@
     "Special": "Chain attacks to multiple targets",
     "Family": "Fila-mint"
   },
-  "Lily_Pad_(PvZ2)": {
+  "Lily_Pad": {
     "Sun cost": "25",
     "Recharge": "5 seconds",
     "Toughness": "300 damage per shot",
     "Usage": "Can also be planted under non-aquatic plants"
   },
   "Lost_City": {},
-  "Magnet-shroom_(PvZ2)": {
+  "Magnet-shroom": {
     "Sun cost": "100",
     "Recharge": "15 seconds",
     "Range": "Multi-Lane",
     "Special": "Removes metal objects from zombies",
     "Family": "Contain-mint"
   },
-  "Marigold_(PvZ2)": { "Sun cost": "N/A" },
-  "Melon-pult_(PvZ2)": {
+  "Marigold": { "Sun cost": "N/A" },
+  "Melon-pult": {
     "Sun cost": "325",
     "Recharge": "5 seconds",
     "Damage": "80 damage per shot every 3 seconds, with 40 damage per shot splash damage in a 3x3 area.",
@@ -603,7 +603,7 @@
     "Special": "Boosts Appease-mint Family plants",
     "Family": "Appease-mint"
   },
-  "Peashooter_(PvZ2)": {},
+  "Peashooter": {},
   "Pepper-mint": {
     "Sun cost": "0",
     "Recharge": "85 seconds",
@@ -617,8 +617,8 @@
     "Usage": "Hypnotizes all dinosaurs in a lane"
   },
   "Pirate_Seas": {},
-  "Player%27s_House_(PvZ2)": {},
-  "Potato_Mine_(PvZ2)": {
+  "Player%27s_House": {},
+  "Potato_Mine": {
     "Sun cost": "25",
     "Recharge": "20 seconds",
     "Damage": "1800 damage per shot (Massive in Chinese version)",
@@ -668,7 +668,7 @@
     "Toughness": "4000 damage per shot",
     "Family": "Reinforce-mint"
   },
-  "Puff-shroom_(PvZ2)": {
+  "Puff-shroom": {
     "Sun cost": "0",
     "Recharge": "5 seconds",
     "Damage": "20 damage per shot",
@@ -683,7 +683,7 @@
     "Usage": "Repeated Puffball explosions add to the poison",
     "Family": "Ail-mint"
   },
-  "Pumpkin_(PvZ2)": {
+  "Pumpkin": {
     "Sun cost": "150",
     "Recharge": "12 seconds",
     "Toughness": "4000 damage per shot",
@@ -704,7 +704,7 @@
     "Special": "Knockback",
     "Family": "Reinforce-mint"
   },
-  "Repeater_(PvZ2)": {
+  "Repeater": {
     "Sun cost": "200",
     "Recharge": "5 seconds",
     "Damage": "Moderate (normal for each pea)",
@@ -773,7 +773,7 @@
     "Special": "Stun",
     "Family": "Enlighten-mint"
   },
-  "Spikerock_(PvZ2)": {
+  "Spikerock": {
     "Sun cost": "250",
     "Recharge": "5 seconds",
     "Damage": "20 damage per shot (Moderate in Chinese version)",
@@ -782,7 +782,7 @@
     "Weakness": "Can take three hits from rolling zombies,",
     "Family": "Spear-mint"
   },
-  "Spikeweed_(PvZ2)": {
+  "Spikeweed": {
     "Sun cost": "100",
     "Recharge": "5 seconds",
     "Damage": "10 damage per shot (Normal in Chinese version)",
@@ -791,7 +791,7 @@
     "Weakness": "Crushed by rolling zombies",
     "Family": "Spear-mint"
   },
-  "Split_Pea_(PvZ2)": {
+  "Split_Pea": {
     "Sun cost": "125",
     "Recharge": "5 seconds",
     "Damage": "20 DPS",
@@ -814,7 +814,7 @@
     "Weakness": "Gets sleepy after springing",
     "Family": "Contain-mint"
   },
-  "Squash_(PvZ2)": {
+  "Squash": {
     "Sun cost": "50, 125 (China)",
     "Recharge": "20 seconds",
     "Damage": "1800 damage per shot to each affected enemy",
@@ -833,7 +833,7 @@
     "Special": "Slows nearby zombies",
     "Family": "Contain-mint"
   },
-  "Starfruit_(PvZ2)": {
+  "Starfruit": {
     "Sun cost": "150",
     "Recharge": "5 seconds",
     "Damage": "20 damage per shot per star",
@@ -857,7 +857,7 @@
     "Special": "Stuns nearby zombies",
     "Family": "Contain-mint"
   },
-  "Sun-shroom_(PvZ2)": {
+  "Sun-shroom": {
     "Sun cost": "25",
     "Recharge": "5 seconds",
     "Toughness": "Typical",
@@ -870,21 +870,21 @@
     "Usage": "Single use, on contact",
     "Family": "Enlighten-mint"
   },
-  "Sunflower_(PvZ2)": {},
-  "Sweet_Potato_(PvZ2)": {
+  "Sunflower": {},
+  "Sweet_Potato": {
     "Sun cost": "150 (300 in China)",
     "Recharge": "20 seconds",
     "Toughness": "4000 damage per shot",
     "Family": "Reinforce-mint"
   },
-  "Tall-nut_(PvZ2)": {
+  "Tall-nut": {
     "Sun cost": "125",
     "Recharge": "20 seconds",
     "Toughness": "8000 damage per shot",
     "Special": "Blocks launched imps",
     "Family": "Reinforce-mint"
   },
-  "Tangle_Kelp_(PvZ2)": {
+  "Tangle_Kelp": {
     "Sun cost": "25",
     "Recharge": "20 seconds",
     "Area": "Single",
@@ -900,7 +900,7 @@
     "Usage": "Instant",
     "Family": "Bombard-mint"
   },
-  "Threepeater_(PvZ2)": {
+  "Threepeater": {
     "Sun cost": "300",
     "Recharge": "5 seconds",
     "Damage": "Normal (for each pea)",
@@ -937,13 +937,13 @@
     "Special": "Set aflame by Torchwood",
     "Family": "Appease-mint"
   },
-  "Twin_Sunflower_(PvZ2)": {
+  "Twin_Sunflower": {
     "Sun cost": "125 sun",
     "Recharge": "10 seconds",
     "Toughness": "300 damage per shot (Typical in Chinese version)",
     "Family": "Enlighten-mint"
   },
-  "Wall-nut_(PvZ2)": {},
+  "Wall-nut": {},
   "Wasabi_Whip": {
     "Sun cost": "150",
     "Recharge": "5 seconds",
@@ -960,7 +960,7 @@
     "Duration": "10 seconds",
     "Family": "Winter-mint"
   },
-  "Winter_Melon_(PvZ2)": {
+  "Winter_Melon": {
     "Sun cost": "500",
     "Recharge": "5 seconds",
     "Damage": "80 damage per shot, with 40 damage per shot splash damage in a 3x3 area",
@@ -968,7 +968,7 @@
     "Special": "Damaged enemies are also chilled",
     "Family": "Winter-mint"
   },
-  "Witch_Hazel_(PvZ2)": {
+  "Witch_Hazel": {
     "Sun cost": "200",
     "Recharge": "30 seconds",
     "Special": "Prefers to target Wizard Zombies",

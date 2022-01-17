@@ -461,6 +461,802 @@
       "usage": "Single use, instant",
       "description": "Tile Turnips create a Power Tile on planting.",
       "image": "/assets/plants/Tile Turnip.png"
+    },
+    {
+      "name": "Ail-mint",
+      "Sun cost": "0",
+      "Recharge": "85 seconds",
+      "Duration": "11 seconds",
+      "Weakness": "(immune to poison effect)",
+      "Family": "Ail-mint"
+    },
+    {
+      "name": "Aloe",
+      "Sun cost": "75",
+      "Recharge": "20 seconds",
+      "Toughness": "Normal",
+      "Family": "Reinforce-mint"
+    },
+    {
+      "name": "Apple Mortar",
+      "Sun cost": "250",
+      "Recharge": "8 seconds",
+      "Damage": "30 damage per shot",
+      "Area": "3x3",
+      "Range": "Lobbed",
+      "Family": "Arma-mint"
+    },
+    {
+      "name": "Arma-mint",
+      "Sun cost": "0",
+      "Recharge": "85 seconds",
+      "Damage": "1200 dps",
+      "Duration": "6 seconds",
+      "Family": "Arma-mint"
+    },
+    {
+      "name": "Banana Launcher",
+      "Sun cost": "500",
+      "Recharge": "5 seconds",
+      "Damage": "1200 damage per shot in a 1x3 area",
+      "Area": "Tile",
+      "Range": "Anywhere on lawn",
+      "Usage": "Tap to arm, tap on target tile to fire",
+      "Special": "On impact, explodes in small area",
+      "Family": "Arma-mint"
+    },
+    {
+      "name": "Blastberry Vine",
+      "Sun cost": "175",
+      "Recharge": "10 seconds",
+      "Damage": "15 DPS per bomblet",
+      "Family": "Arma-mint"
+    },
+    {
+      "name": "Blooming Heart",
+      "Sun cost": "150",
+      "Recharge": "5 seconds",
+      "Damage": "40 damage per shot, increases by 10 with each attack hitting a single zombie, up to 5 times",
+      "Range": "Lobbed",
+      "Family": "Ail-mint"
+    },
+    {
+      "name": "Bombard-mint",
+      "Sun cost": "0",
+      "Recharge": "85 seconds",
+      "Damage": "1800 damage per shot",
+      "Duration": "6 seconds",
+      "Family": "Bombard-mint"
+    },
+    {
+      "name": "Boom Balloon Flower",
+      "Sun cost": "350",
+      "Recharge": "5",
+      "Damage": "575 (per balloon)",
+      "Toughness": "300",
+      "Usage": "Tap or drag from Boom Balloon Flower to move a balloon to a tile",
+      "Family": "Bombard-mint"
+    },
+    {
+      "name": "Bowling Bulb",
+      "Sun cost": "200",
+      "Recharge": "5 seconds",
+      "Damage": "40 damage per shot (aquamarine bulb)",
+      "120 damage per shot (blue bulb)": "180 damage per shot (orange bulb)",
+      "Range": "Multi-Hit",
+      "Damage details": "Larger bulbs do more damage",
+      "Family": "Appease-mint"
+    },
+    {
+      "name": "Caulipower",
+      "Sun cost": "250 (300 in Chinese version)",
+      "Recharge": "45 seconds",
+      "Toughness": "300 damage per shot",
+      "Range": "Full Board",
+      "Special": "Hovers above ground or water",
+      "Family": "Enchant-mint"
+    },
+    {
+      "name": "Celery Stalker",
+      "Sun cost": "50",
+      "Recharge": "15 seconds",
+      "Damage": "100 damage per shot every 0.5 seconds",
+      "Toughness": "1200 damage per shot",
+      "Special": "Waits until zombies pass over it, then pops up and attacks",
+      "Weakness": "(instantly kills it)",
+      "Family": "Enforce-mint"
+    },
+    {
+      "name": "Cold Snapdragon",
+      "Sun cost": "150, 250 (China)",
+      "Recharge": "5 seconds",
+      "Damage": "30 damage per shot (60 in the Chinese version)",
+      "Range": "Close",
+      "Special": "Slows and damages zombies in the 6 tiles in front of it",
+      "Family": "Winter-mint"
+    },
+    {
+      "name": "Conceal-mint",
+      "Sun cost": "0",
+      "Recharge": "85 seconds",
+      "Duration": "6 seconds",
+      "Family": "Conceal-mint"
+    },
+    {
+      "name": "Contain-mint",
+      "Sun cost": "0",
+      "Recharge": "85",
+      "Duration": "10 seconds",
+      "Special": "Stun",
+      "Family": "Contain-mint"
+    },
+    {
+      "name": "Dartichoke",
+      "Sun cost": "225",
+      "Recharge": "8.5 seconds",
+      "Damage": "75 damage per shot",
+      "Range": "Straight",
+      "Usage": "Has a limited supply of darts, then must recharge",
+      "Special": "Each shot has a chance to do critical damage",
+      "Family": "Spear-mint"
+    },
+    {
+      "name": "Dazey Chain",
+      "Sun cost": "150",
+      "Recharge": "5 seconds",
+      "Damage": "20 damage per shot per open flower",
+      "Family": "Contain-mint"
+    },
+    {
+      "name": "Draftodil",
+      "Sun cost": "100",
+      "Recharge": "5 seconds",
+      "Damage": "15 damage per shot",
+      "Toughness": "300 damage per shot",
+      "Usage": "Briefly stuns non-flying zombies",
+      "Special": "Air cannon knocks critters, imps and shrunken zombies off the lawn",
+      "Family": "Contain-mint"
+    },
+    {
+      "name": "Dusk Lobber",
+      "Sun cost": "150 (200 in China)",
+      "Recharge": "10 seconds",
+      "Damage": "30 damage per shot, with 25 damage per shot splash damage in a 3x3 area",
+      "Area": "3x3",
+      "Range": "Lobbed",
+      "Family": "Conceal-mint"
+    },
+    {
+      "name": "Electrici-tea",
+      "Sun cost": "125",
+      "Recharge": "15 seconds",
+      "Damage": "950 damage per shot (explosion)",
+      "3 damage per shot (passive electric zaps)": "Range",
+      "Multi-Hit": "Special",
+      "Zombies Zapped": "Weakness",
+      "(Can crush, burn, pushback, scoop up, transform into Sheep/Octopus instead of eating)": "(Will pushback or destroy when their Jam is activated)",
+      "Family": "Fila-mint"
+    },
+    {
+      "name": "Enchant-mint",
+      "Sun cost": "0",
+      "Recharge": "85 seconds",
+      "Duration": "11 seconds",
+      "Family": "Enchant-mint"
+    },
+    {
+      "name": "Enforce-mint",
+      "Sun cost": "0",
+      "Recharge": "85 seconds",
+      "Duration": "8 seconds",
+      "Family": "Enforce-mint"
+    },
+    {
+      "name": "Enlighten-mint",
+      "Sun cost": "0",
+      "Recharge": "85 seconds",
+      "Duration": "5 seconds",
+      "Family": "Enlighten-mint"
+    },
+    {
+      "name": "Escape Root",
+      "Sun cost": "50",
+      "Recharge": "20 seconds",
+      "Usage": "Instant",
+      "Family": "Bombard-mint"
+    },
+    {
+      "name": "Explode-O-Nut",
+      "Sun cost": "50",
+      "Recharge": "10 seconds",
+      "Toughness": "3000 damage per shot",
+      "Weakness": "(Immune to explosion)",
+      "Family": "Bombard-mint"
+    },
+    {
+      "name": "Explode-o-Vine",
+      "Sun cost": "150",
+      "Recharge": "10 seconds",
+      "Toughness": "1500 damage per shot",
+      "Usage": "can be planted on top of non-vine plants",
+      "Family": "Bombard-mint"
+    },
+    {
+      "name": "Fila-mint",
+      "Sun cost": "0",
+      "Recharge": "85 seconds",
+      "Damage": "150 damage per shot",
+      "Duration": "6 seconds",
+      "Family": "Fila-mint"
+    },
+    {
+      "name": "Fume-shroom",
+      "Sun cost": "125",
+      "Recharge": "5 seconds",
+      "Damage": "40 damage per shot",
+      "Area": "1x4",
+      "Family": "Ail-mint"
+    },
+    {
+      "name": "Garlic",
+      "Sun cost": "50",
+      "Recharge": "20 seconds",
+      "Toughness": "600 damage per shot",
+      "Area": "Single",
+      "Range": "Touch",
+      "Special": "Diverts zombies into other lanes",
+      "Family": "Ail-mint"
+    },
+    {
+      "name": "Ghost Pepper",
+      "Sun cost": "75, 100 (China)",
+      "Recharge": "15 seconds",
+      "Damage": "30 damage per shot every 0.5 seconds",
+      "Range": "Front & Back",
+      "Family": "Pepper-mint"
+    },
+    {
+      "name": "Gloom Vine",
+      "Sun cost": "125",
+      "Recharge": "5 seconds",
+      "Damage": "45 damage per shot",
+      "Toughness": "250 damage per shot",
+      "Range": "3x3",
+      "Special": "Powers shadow plants within",
+      "Family": "Conceal-mint"
+    },
+    {
+      "name": "Gold Bloom",
+      "Sun cost": "0",
+      "Recharge": "75 seconds",
+      "Usage": "Instant",
+      "Family": "Enlighten-mint"
+    },
+    {
+      "name": "Grapeshot",
+      "Sun cost": "150",
+      "Recharge": "35 seconds",
+      "Damage": "1800 damage per shot (explosion)",
+      "200 damage per shot (grapes)": "Area",
+      "3x3": "Usage",
+      "Instant": "Weakness",
+      "(deflects grapes)": "(Immune to explosion)",
+      "Family": "Bombard-mint"
+    },
+    {
+      "name": "Grimrose",
+      "Sun cost": "75",
+      "Recharge": "20 seconds",
+      "Range": "Lane",
+      "Usage": "Single",
+      "Family": "Conceal-mint"
+    },
+    {
+      "name": "Gumnut",
+      "Sun cost": "125",
+      "Recharge": "12",
+      "Usage": "Best used against Gargantuars & Football Mechs",
+      "Special": "Stronger zombies form stronger barriers",
+      "Weakness": "(can easily remove gum from gummed zombies when teleporting them)",
+      "Family": "Reinforce-mint"
+    },
+    {
+      "name": "Headbutter Lettuce",
+      "Sun cost": "175",
+      "Recharge": "7 seconds",
+      "Damage": "100 damage per shot",
+      "Toughness": "900 damage per shot",
+      "Usage": "Resists damage with high health",
+      "Family": "Enforce-mint"
+    },
+    {
+      "name": "Heath Seeker",
+      "Sun cost": "125",
+      "Recharge": "20",
+      "Damage": "560 dps",
+      "Range": "Full Board",
+      "Special": "can target from anywhere on the lawn",
+      "Family": "Spear-mint"
+    },
+    {
+      "name": "Hocus Crocus",
+      "Sun cost": "200",
+      "Recharge": "20 seconds",
+      "Damage": "100 damage per shot",
+      "Special": "Each teleportation also does damage",
+      "Family": "Enchant-mint"
+    },
+    {
+      "name": "Holly Barrier",
+      "Sun cost": "150",
+      "Recharge": "15 seconds",
+      "Damage": "20 damage per shot (plant and barriers)",
+      "Toughness": "3000 dps",
+      "Area": "Tile",
+      "Usage": "Tap to arm, tap on target tile to fire",
+      "Family": "Reinforce-mint"
+    },
+    {
+      "name": "Homing Thistle",
+      "Sun cost": "250",
+      "Recharge": "15 seconds",
+      "Damage": "40 damage per shot",
+      "Range": "Full board",
+      "Family": "Spear-mint"
+    },
+    {
+      "name": "Imp Pear",
+      "Sun cost": "0",
+      "Recharge": "5 seconds",
+      "Damage": "10%",
+      "Toughness": "300",
+      "Family": "Ail-mint"
+    },
+    {
+      "name": "Intensive Carrot",
+      "Sun cost": "100",
+      "Recharge": "20 seconds",
+      "Area": "Tile",
+      "Usage": "Single use, instant",
+      "Family": "Enchant-mint"
+    },
+    {
+      "name": "Jack O%27 Lantern",
+      "Sun cost": "225",
+      "Recharge": "20 seconds",
+      "Damage": "300 damage per shot per second",
+      "Area": "1x3",
+      "Special": "Fire recharges over time",
+      "Weakness": "(Immune to fire)",
+      "Family": "Pepper-mint"
+    },
+    {
+      "name": "Jalapeno",
+      "Sun cost": "125",
+      "Recharge": "35 seconds",
+      "Damage": "1800 damage per shot to every affected enemy",
+      "Area": "Lane",
+      "Usage": "Single use, instant",
+      "Weakness": "(Immune to fire)",
+      "Family": "Pepper-mint"
+    },
+    {
+      "name": "Kiwibeast",
+      "Sun cost": "175",
+      "Recharge": "15 seconds",
+      "Damage": "40 damage per shot (first stage)",
+      "50 damage per shot (second stage)": "70 damage per shot (third stage)",
+      "Toughness": "Elevated",
+      "Area": "1x1 (first stage)",
+      "3x3 (second stage)": "5x5 (third stage)",
+      "Family": "Enforce-mint"
+    },
+    {
+      "name": "Lava Guava",
+      "Sun cost": "75",
+      "Recharge": "15 seconds",
+      "Damage": "200 damage per shot in a 3x3 area (initial eruption)",
+      "100 damage per shot every 1 second (lava tile)": "Area",
+      "3x3 (initial eruption)": "Single tile (lava tile)",
+      "Range": "Touch",
+      "Usage": "Single use, on contact",
+      "Special": "Creates a burning lava pool in its tile",
+      "Weakness": "(Immune to fire)",
+      "Family": "Pepper-mint"
+    },
+    {
+      "name": "Lily Pad",
+      "Sun cost": "25",
+      "Recharge": "5 seconds",
+      "Toughness": "300 damage per shot",
+      "Usage": "Can also be planted under non-aquatic plants"
+    },
+    {
+      "name": "Magnet-shroom",
+      "Sun cost": "100",
+      "Recharge": "15 seconds",
+      "Range": "Multi-Lane",
+      "Special": "Removes metal objects from zombies",
+      "Family": "Contain-mint"
+    },
+    { "name": "Marigold", "Sun cost": "N/A" },
+    {
+      "name": "Missile Toe",
+      "Sun cost": "500",
+      "400 (China)": "Recharge",
+      "5 seconds": "Damage",
+      "1200 damage per shot in a 1x3 area (Huge in China)": "Area",
+      "Tile": "3x3 (China)",
+      "Usage": "Tap to arm, tap on target tile to fire",
+      "Family": "Winter-mint"
+    },
+    {
+      "name": "Moonflower",
+      "Sun cost": "50",
+      "Recharge": "10 seconds (Mediocre in China)",
+      "Toughness": "Typical",
+      "Area": "3x3",
+      "Special": "Produces 25 more sun for each shadow plant nearby up to four.",
+      "Family": "Conceal-mint"
+    },
+    {
+      "name": "Murkadamia Nut",
+      "Sun cost": "100",
+      "Recharge": "10 seconds",
+      "Toughness": "2500 damage per shot",
+      "Usage": "Damaged murk regrows over time",
+      "Family": "Conceal-mint"
+    },
+    {
+      "name": "Nightshade",
+      "Sun cost": "75 (50 in Chinese version)",
+      "Recharge": "5 seconds",
+      "Damage": "100 damage per shot in 4 seconds (long range, powered)",
+      "200 damage per shot in 4 seconds (close range)": "150 damage per shot in 4 seconds (long range, boosted)",
+      "600 damage per shot in 4 seconds (close range, boosted)": "Toughness",
+      "300 DPS": "Range",
+      "Straight": "Range details",
+      "Close (not powered)": "Straight (powered)",
+      "Family": "Conceal-mint"
+    },
+    {
+      "name": "Olive Pit",
+      "Sun cost": "175",
+      "Recharge": "7 seconds",
+      "Usage": "Can swallow multiple zombies at a time",
+      "Special": "Spits out zombie-slowing olive oil",
+      "Family": "Contain-mint"
+    },
+    {
+      "name": "Parsnip",
+      "Sun cost": "150",
+      "125 (China)": "Recharge",
+      "5 seconds": "Damage",
+      "80 damage per shot": "300 damage per shot (while rushing, every 0.2 seconds)",
+      "Range": "Close",
+      "Special": "Rushes at the last moment.",
+      "Family": "Enforce-mint"
+    },
+    {
+      "name": "Pea-nut",
+      "Sun cost": "150",
+      "Recharge": "15 seconds",
+      "Damage": "20 damage per shot",
+      "Toughness": "4000 damage per shot",
+      "Family": "Reinforce-mint"
+    },
+    {
+      "name": "Pea Vine",
+      "Sun cost": "125",
+      "Recharge": "5",
+      "Damage": "20",
+      "Special": "Boosts Appease-mint Family plants",
+      "Family": "Appease-mint"
+    },
+    {
+      "name": "Pepper-mint",
+      "Sun cost": "0",
+      "Recharge": "85 seconds",
+      "Duration": "6 seconds",
+      "Weakness": "(immune to fire)",
+      "Family": "Pepper-mint"
+    },
+    {
+      "name": "Perfume-shroom",
+      "Sun cost": "150",
+      "Recharge": "30 seconds",
+      "Usage": "Hypnotizes all dinosaurs in a lane"
+    },
+    {
+      "name": "Power Lily",
+      "Sun cost": "175",
+      "Recharge": "60 seconds",
+      "Usage": "Single use, instant",
+      "Special": "Creates one Plant Food"
+    },
+    {
+      "name": "Power Vine",
+      "Sun cost": "150",
+      "Recharge": "5 seconds",
+      "Damage": "10 DPS per laser bolt",
+      "Special": "Power Vines horizontally or vertically adjacent to other Power Vines form a network",
+      "Family": "Fila-mint"
+    },
+    {
+      "name": "Primal Peashooter",
+      "Sun cost": "175",
+      "Recharge": "5 seconds",
+      "Damage": "50 damage per shot",
+      "Special": "Rock-like peas occasionally knock zombies back (in the Chinese version, his projectiles can stun or knockback zombies)",
+      "Family": "Appease-mint"
+    },
+    {
+      "name": "Primal Potato Mine",
+      "Sun cost": "50 (25 in Chinese version)",
+      "Recharge": "25 seconds",
+      "Damage": "2400 damage per shot",
+      "Area": "3x3",
+      "Range": "Contact",
+      "Usage": "Single use",
+      "Family": "Bombard-mint"
+    },
+    {
+      "name": "Primal Sunflower",
+      "Sun cost": "75",
+      "Recharge": "5 seconds",
+      "Toughness": "300",
+      "Family": "Enlighten-mint"
+    },
+    {
+      "name": "Primal Wall-nut",
+      "Sun cost": "75",
+      "Recharge": "Fast",
+      "Toughness": "4000 damage per shot",
+      "Family": "Reinforce-mint"
+    },
+    {
+      "name": "Puff-shroom",
+      "Sun cost": "0",
+      "Recharge": "5 seconds",
+      "Damage": "20 damage per shot",
+      "Range": "3 Tiles",
+      "Special": "Lives for a limited time",
+      "Family": "Ail-mint"
+    },
+    {
+      "name": "Puffball",
+      "Sun cost": "150",
+      "Recharge": "20 seconds",
+      "Area": "3x5",
+      "Usage": "Repeated Puffball explosions add to the poison",
+      "Family": "Ail-mint"
+    },
+    {
+      "name": "Pumpkin",
+      "Sun cost": "150",
+      "Recharge": "12 seconds",
+      "Toughness": "4000 damage per shot",
+      "Weakness": "(Can crush it)",
+      "Family": "Reinforce-mint"
+    },
+    {
+      "name": "Pyre Vine",
+      "Sun cost": "125",
+      "Recharge": "10 seconds",
+      "Damage": "30 DPS",
+      "Weakness": "(Immune to fire)",
+      "Family": "Pepper-mint"
+    },
+    {
+      "name": "Reinforce-mint",
+      "Sun cost": "0",
+      "Recharge": "85 seconds",
+      "Duration": "8 seconds",
+      "Special": "Knockback",
+      "Family": "Reinforce-mint"
+    },
+    {
+      "name": "Sap-fling",
+      "Sun cost": "75 (150 in Chinese Version)",
+      "Recharge": "5 seconds",
+      "Area": "Tile",
+      "Range": "Lobbed",
+      "Damage details": "Does no damage on impact, but creates sap puddle",
+      "Special": "Slows zombies who walk in puddle",
+      "Family": "Contain-mint"
+    },
+    {
+      "name": "Shadow-shroom",
+      "Sun cost": "50",
+      "Recharge": "10 seconds (Mediocre in China)",
+      "Damage": "900 damage per shot over 30 seconds",
+      "Range": "Touch",
+      "Family": "Conceal-mint"
+    },
+    {
+      "name": "Shadow Peashooter",
+      "Sun cost": "125",
+      "200 (Chinese version)": "Recharge",
+      "5 seconds": "Fast (Chinese version)",
+      "Damage": "30 damage per shot (peas)",
+      "70 damage per shot (beam)": "Heavy (Chinese version)",
+      "Family": "Conceal-mint"
+    },
+    {
+      "name": "Shine Vine",
+      "Sun cost": "75",
+      "Recharge": "5",
+      "Damage": "5",
+      "Usage": "Best used on sun producer plants",
+      "Special": "Doesn't amplify Moonflower's sun production",
+      "Family": "Enlighten-mint"
+    },
+    {
+      "name": "Shrinking Violet",
+      "Sun cost": "50",
+      "Recharge": "15 seconds",
+      "Area": "3x3",
+      "Usage": "Single use, activates when zombies are close",
+      "Special": "Shrinks Imps to oblivion",
+      "Family": "Enchant-mint"
+    },
+    {
+      "name": "Solar Sage",
+      "Sun cost": "0",
+      "Recharge": "20",
+      "Weakness": "Vulnerable to critters and mechs",
+      "Family": "Enlighten-mint"
+    },
+    {
+      "name": "Solar Tomato",
+      "Sun cost": "100",
+      "Recharge": "25 seconds",
+      "Toughness": "Typical",
+      "Area": "3x3",
+      "Special": "Stun",
+      "Family": "Enlighten-mint"
+    },
+    {
+      "name": "Spore-shroom",
+      "Sun cost": "150",
+      "Recharge": "5 seconds",
+      "Damage": "50 damage per shot",
+      "Range": "Lobbed",
+      "Family": "Ail-mint"
+    },
+    {
+      "name": "Squash",
+      "Sun cost": "50, 125 (China)",
+      "Recharge": "20 seconds",
+      "Damage": "1800 damage per shot to each affected enemy",
+      "Toughness": "Elevated",
+      "Area": "All zombies around target",
+      "Range": "Close",
+      "Usage": "Single-use",
+      "Family": "Enforce-mint"
+    },
+    {
+      "name": "Starfruit",
+      "Sun cost": "150",
+      "Recharge": "5 seconds",
+      "Damage": "20 damage per shot per star",
+      "Toughness": "Normal",
+      "Range": "5 Way",
+      "Range details": "Fires in five directions",
+      "Family": "Appease-mint"
+    },
+    {
+      "name": "Stickybomb Rice",
+      "Sun cost": "225",
+      "Recharge": "10 seconds",
+      "Damage": "40 damage per shot",
+      "Special": "Exploding sticky bombs trigger other sticky bombs",
+      "Family": "Arma-mint"
+    },
+    {
+      "name": "Sun-shroom",
+      "Sun cost": "25",
+      "Recharge": "5 seconds",
+      "Toughness": "Typical",
+      "Family": "Enlighten-mint"
+    },
+    {
+      "name": "Sun Bean",
+      "Sun cost": "50",
+      "Recharge": "20 seconds",
+      "Area": "Single",
+      "Usage": "Single use, on contact",
+      "Family": "Enlighten-mint"
+    },
+    {
+      "name": "Sweet Potato",
+      "Sun cost": "150 (300 in China)",
+      "Recharge": "20 seconds",
+      "Toughness": "4000 damage per shot",
+      "Family": "Reinforce-mint"
+    },
+    {
+      "name": "Tangle Kelp",
+      "Sun cost": "25",
+      "Recharge": "20 seconds",
+      "Area": "Single",
+      "Range": "Touch",
+      "Family": "Enforce-mint"
+    },
+    {
+      "name": "Teleportato Mine",
+      "Sun cost": "75",
+      "Recharge": "20 seconds",
+      "Damage": "2200",
+      "Toughness": "300",
+      "Area": "3x3",
+      "Usage": "Instant",
+      "Family": "Bombard-mint"
+    },
+    {
+      "name": "Thyme Warp",
+      "Sun cost": "75",
+      "Recharge": "60 seconds",
+      "Area": "Full Board",
+      "Usage": "Single use, instant",
+      "Special": "Rewound zombies have restored health"
+    },
+    {
+      "name": "Tiger Grass",
+      "Sun cost": "150",
+      "Recharge": "7 seconds",
+      "Toughness": "40",
+      "Special": "Grass tiger grows over time",
+      "Family": "Enforce-mint"
+    },
+    {
+      "name": "Toadstool",
+      "Sun cost": "200",
+      "Recharge": "5 seconds",
+      "Area": "Single",
+      "Range": "Close",
+      "Weakness": "Vulnerable while chewing",
+      "Family": "Enlighten-mint"
+    },
+    {
+      "name": "Tumbleweed",
+      "Sun cost": "50",
+      "Recharge": "5.5 seconds",
+      "Damage": "15",
+      "Range": "Straight",
+      "Special": "Set aflame by Torchwood",
+      "Family": "Appease-mint"
+    },
+    {
+      "name": "Wasabi Whip",
+      "Sun cost": "150",
+      "Recharge": "5 seconds",
+      "Damage": "40 damage per shot",
+      "Range": "Close",
+      "Special": "Resists cold and warms plants around it",
+      "Weakness": "(Immune to fire)",
+      "Family": "Enforce-mint"
+    },
+    {
+      "name": "Winter-mint",
+      "Sun cost": "0",
+      "Recharge": "85 seconds",
+      "Duration": "10 seconds",
+      "Family": "Winter-mint"
+    },
+    {
+      "name": "Witch Hazel",
+      "Sun cost": "200",
+      "Recharge": "30 seconds",
+      "Special": "Prefers to target Wizard Zombies",
+      "Weakness": "(Cannot be turned into a mushroom)",
+      "Family": "Enchant-mint"
+    },
+    {
+      "name": "Zoybean Pod",
+      "Sun cost": "200",
+      "Recharge": "20 seconds",
+      "Family": "Enchant-mint"
     }
   ]
 }
