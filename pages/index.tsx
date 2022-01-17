@@ -27,13 +27,13 @@ const Home: NextPage = () => {
               layout="responsive"
               width={1434}
               height={667}
-              className={styles.img}
+              className="motion-safe:animate-zoomy"
               alt="header_image"
             />
           </div>
           <SearchBar />
         </div>
-        <div className="bottom-4">
+        <div className="bottom-4 cursor-pointer">
           <a href="#about" className="dark:text-slate-400">
             <svg
               width="24"
