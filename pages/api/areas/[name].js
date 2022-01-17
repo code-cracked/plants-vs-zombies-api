@@ -3,24 +3,24 @@ export default function userHandler(req, res) {
     query: { name },
     method,
   } = req;
-  const plants = require("../../../data/plants.json");
+  const areas = require("../../../data/areas.json");
 
   switch (method) {
     case "GET":
       //GET data from database
-      let x = plants.data;
-      let plant_data = null;
+      let x = areas.data;
+      let area_data = null;
       for (let i = 0; i < x.length; i++) {
         if (x[i].name === name) {
-          plant_data = x[i];
+          area_data = x[i];
           break;
         }
       }
-      if (plant_data === null) {
-        res.status(200).json("No such plant exist");
+      if (area_data === null) {
+        res.status(200).json("No such areas exist");
       } else {
-        console.log(plant_data);
-        res.status(200).json(plant_data);
+        console.log(area_data);
+        res.status(200).json(area_data);
       }
       break;
     case "PUT":
