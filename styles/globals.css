@@ -31,3 +31,7 @@ a {
 * {
   box-sizing: border-box;
 }
+
+svg:focus, a:focus-visible {
+  outline: none;
+}
