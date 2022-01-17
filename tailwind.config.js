@@ -14,11 +14,26 @@ module.exports = {
     extend: {
       animation: {
         float: "float 3s linear infinite",
+        zoomy: "3s linear 100ms infinite alternate zoomy",
       },
       keyframes: {
         float: {
           "0%, 100%": { transform: "translateY(0%)" },
-          "50%": { transform: "translateY(-5%)" },
+          "50%": { transform: "translateY(-1.5%)" },
+        },
+        zoomy: {
+          "0%": {
+            transform: "scale(1)",
+          },
+          "33.33%": {
+            transform: "scale(1.01)",
+          },
+          "66.66%": {
+            transform: "scale(1.02)",
+          },
+          "100%": {
+            transform: "scale(1.03)",
+          },
         },
       },
     },

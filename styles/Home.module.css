@@ -4,25 +4,6 @@
   bottom: 3.125rem;
 }
 
-.img {
-  animation: 1s linear 100ms infinite alternate zoomy;
-}
-
-@keyframes zoomy {
-  0% {
-    transform: scale(1);
-  }
-  33.33% {
-    transform: scale(1.01);
-  }
-  66.66% {
-    transform: scale(1.02);
-  }
-  100% {
-    transform: scale(1.03);
-  }
-}
-
 .aboutContainer {
   min-height: 91vh;
 }

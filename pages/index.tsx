@@ -10,9 +10,15 @@ const Home: NextPage = () => {
     <>
       <Head>
         <title>PvZ 2</title>
-        <meta name="description" content="Plants Vs Zombies -2 documentation" />
+        <meta
+          name="description"
+          content="One stop destination for all your Plants vs Zombies needs with a user-friendly experience!"
+        />
         <link rel="icon" href="/favicon.ico" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <meta property="og:image" content="/assets/header_image.png" />
+        <meta property="twitter:image" content="/assets/twttr_banner.png" />
+        <meta name="revisit-after" content="1 days" />
       </Head>
       <div
         className="bg-gray-50 dark:bg-slate-900 h-screen w-full flex justify-center flex-col items-center"
@@ -27,13 +33,13 @@ const Home: NextPage = () => {
               layout="responsive"
               width={1434}
               height={667}
-              className={styles.img}
+              className="motion-safe:animate-zoomy"
               alt="header_image"
             />
           </div>
           <SearchBar />
         </div>
-        <div className="bottom-4">
+        <div className="bottom-4 cursor-pointer">
           <a href="#about" className="dark:text-slate-400">
             <svg
               width="24"
