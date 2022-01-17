@@ -1,0 +1,466 @@
+{
+  "data": [
+    {
+      "name": "Peashooter",
+      "cost": 100,
+      "recharge": 5,
+      "damage": 20,
+      "toughness": 300,
+      "range": "Straight",
+      "powerup": "Duration",
+      "family": "Appease-mint",
+      "description": "Peashooter is your first line of defense which shoots peas to attack zombies. \nPlant feature: green plant, pea family",
+      "image": "/assets/plants/Peashooter.png"
+    },
+    {
+      "name": "Sunflower",
+      "cost": 50,
+      "recharge": 5,
+      "sun-production": "Normal",
+      "toughness": 300,
+      "description": "Sunflower is a primary plant which produces more sun for you. Plant as many of them as possible!\nSun production: Medium\nPlant feature: yellow plant, infinite sun",
+      "image": "/assets/plants/Sunflower.png"
+    },
+    {
+      "name": "Wall-nut",
+      "cost": 50,
+      "recharge": 20,
+      "toughness": 4000,
+      "powerup": "Armor",
+      "family": "Reinforce-mint",
+      "description": "Wall-nuts have hard shells which you can use to protect your other plants.",
+      "image": "/assets/plants/Wall-nut.png"
+    },
+    {
+      "name": "Potato Mine",
+      "cost": 25,
+      "recharge": 20,
+      "damage": 1800,
+      "range": "Contact",
+      "powerup": "null",
+      "family": "Bombard-mint",
+      "description": "Potato Mines explode on contact, but they take time to arm. Plant them ahead of zombies.",
+      "image": "/assets/plants/Potato Mine.png"
+    },
+    {
+      "name": "Cabbage-pult",
+      "cost": 100,
+      "recharge": 5,
+      "damage": 40,
+      "range": "Lobbed",
+      "family": "Arma-mint",
+      "description": "Cabbage-pults hurl cabbages at the enemy.",
+      "image": "/assets/plants/Cabbage-pult.png"
+    },
+    {
+      "name": "Bloomerang",
+      "cost": 175,
+      "recharge": 5,
+      "damage": 20,
+      "toughness": 300,
+      "range": "Multi-Hit",
+      "powerup": "Duration",
+      "family": "Spear-mint",
+      "description": "Bloomerang is the first new plant the player receives in Plants vs. Zombies 2. He fires boomerang petals down his lane that can hit up to three targets twice (once when it moves forward and once when it returns.) It fires every 3 seconds.",
+      "image": "/assets/plants/Bloomerang.png"
+    },
+    {
+      "name": "Iceberg Lettuce",
+      "cost": 0,
+      "recharge": 20,
+      "Special": "Explodes, temporarily freezing a zombie",
+      "range": "Touch",
+      "Usage": "Single use, on contact",
+      "family": "Winter-mint",
+      "description": "Iceberg Lettuces freeze a zombie when stepped on.",
+      "image": "/assets/plants/Iceberg Lettuce.png"
+    },
+    {
+      "name": "Grave Buster",
+      "cost": 0,
+      "recharge": 10,
+      "toughness": "Normal",
+      "usage": "Single use, must be planted on graves",
+      "special": "Removes graves",
+      "family": "Contain-mint",
+      "description": "Grave Busters consume graves they're planted on.",
+      "image": "/assets/plants/Grave Buster.png"
+    },
+    {
+      "name": "Bonk Choy",
+      "cost": 150,
+      "recharge": 5,
+      "damage": 15,
+      "toughness": 300,
+      "range": "Close",
+      "powerup": "Duration",
+      "description": "Bonk Choys rapidly punch nearby enemies that are ahead or behind them.\nSpecial: can attack ahead or behind",
+      "image": "/assets/plants/Bonk Choy.png"
+    },
+    {
+      "name": "Repeater",
+      "cost": 200,
+      "recharge": 5,
+      "damage": "Moderate(normal for each pea)",
+      "range": "Straight",
+      "family": "Appease-mint",
+      "description": "Repeater fires two peas at a time.",
+      "image": "/assets/plants/Repeater.png"
+    },
+    {
+      "name": "Twin Sunflower",
+      "cost": 125,
+      "recharge": 10,
+      "toughness": 300,
+      "family": "Enlighten-mint",
+      "description": "Twin Sunflowers give twice as much sun as a normal sunflower.",
+      "image": "/assets/plants/Twin Sunflower.png"
+    },
+    {
+      "name": "Kernel-pult",
+      "cost": 100,
+      "recharge": 5,
+      "range": "Lobbed",
+      "special": "Butter immobilizes zombies",
+      "family": "Arma-mint",
+      "description": "Kernel-pults fling corn kernels and butter at zombies.",
+      "image": "/assets/plants/Kernel-pult.png"
+    },
+    {
+      "name": "Snapdragon",
+      "cost": 150,
+      "recharge": 5,
+      "damage": 30,
+      "range": "Close",
+      "special": "Damages all zombies in the 6 tiles in front of it",
+      "family": " Pepper-mint",
+      "description": "Snapdragons breathe fire that causes damage in 6 adjacent tiles.",
+      "image": "/assets/plants/Snapdragon.png"
+    },
+    {
+      "name": "Spikeweed",
+      "cost": 100,
+      "recharge": 5,
+      "damage": 10,
+      "area": "Tile",
+      "special": "Can't be eaten by zombies",
+      "weakness": "Crushed by rolling zombies",
+      "family": "Spear-mint",
+      "description": "Spikeweeds destroy one rolling zombie and hurt any zombies that step on them.",
+      "image": "/assets/plants/Spikeweed.png"
+    },
+    {
+      "name": "Spring Bean",
+      "cost": 50,
+      "recharge": 20,
+      "weakness": "Gets sleepy after springing",
+      "range": "Touch",
+      "special": "Pushes zombies back, or into the water",
+      "family": "Contain-mint",
+      "description": "Spring Beans bounce back zombies that get too close. Will bounce them into water if nearby.",
+      "image": "/assets/plants/Spring Bean.png"
+    },
+    {
+      "name": "Coconut Cannon",
+      "cost": 400,
+      "recharge": 5,
+      "damage": 900,
+      "toughness": 300,
+      "area": "3*3",
+      "usage": "Tap to fire",
+      "special": "On impact, explodes in medium area",
+      "family": "Arma-mint",
+      "description": "Coconut Cannons fire down a single lane, causing a medium explosion upon impact.",
+      "image": "/assets/plants/Coconut Cannon.png"
+    },
+    {
+      "name": "Threepeater",
+      "cost": 300,
+      "recharge": 5,
+      "damage": "Normal (for each pea)",
+      "range": "Multi-Lane",
+      "family": "Appease-mint",
+      "description": "Threepeaters shoot peas in three lanes.",
+      "image": "/assets/plants/Threepeater.png"
+    },
+    {
+      "name": "Spikerock",
+      "cost": 250,
+      "recharge": 5,
+      "damage": 20,
+      "area": "Tile",
+      "special": "Can't be eaten by zombies",
+      "weakness": "Can take three hits from rolling zombies",
+      "family": "Spear-mint",
+      "description": "Spikerocks destroy multiple rolling zombies and damage zombies that walk over it.",
+      "image": "/assets/plants/Spikerock.png"
+    },
+    {
+      "name": "Cherry Bomb",
+      "cost": 150,
+      "recharge": 35,
+      "damage": "Massive",
+      "area": "3*3",
+      "usage": "Single use, instant",
+      "family": "Bombard-mint",
+      "description": "Cherry Bombs can blow up all zombies in an area. They have a short fuse so plant them near zombies.",
+      "image": "/assets/plants/Cherry Bomb.png"
+    },
+    {
+      "name": "Split Pea",
+      "cost": 125,
+      "recharge": 5,
+      "damage": 20,
+      "range": "Front and Back",
+      "family": "Appease-mint",
+      "description": "Split Peas shoot peas forward and backwards.",
+      "image": "/assets/plants/Split Pea.png"
+    },
+    {
+      "name": "Chili Bean",
+      "cost": 50,
+      "recharge": 20,
+      "Usage": "When eaten",
+      "special": "Eating zombie is destroyed and releases stunning gas",
+      "family": "Ail-mint",
+      "description": "Chili Beans deliver a crippling bout of gastrointestinal distress.",
+      "image": "/assets/plants/Chili Bean.png"
+    },
+    {
+      "name": "Pea Pod",
+      "cost": 125,
+      "recharge": 5,
+      "damage": 20,
+      "toughness": null,
+      "range": "Straight",
+      "special": "Increases rate of fire with multiple plantings",
+      "family": " Appease-mint",
+      "description": "Pea Pods can be planted in the same space for up to 5 times the destruction.",
+      "image": "/assets/plants/Pea Pod.png"
+    },
+    {
+      "name": "Lightning Reed",
+      "cost": 125,
+      "recharge": 5,
+      "damage": 10,
+      "range": "Multi-hit, can even hit targets one lane above or below",
+      "special": "Chain attacks to multiple targets",
+      "family": "Fila-mint",
+      "description": "Lightning Reeds shoot lightning at nearest zombie up to one lane away. The bolt will then arc and hit other zombies.",
+      "image": "/assets/plants/Lightning Reed.png"
+    },
+    {
+      "name": "Melon-pult",
+      "cost": 325,
+      "recharge": 5,
+      "damage": 80,
+      "toughness": null,
+      "range": "Lobbed",
+      "powerup": "null",
+      "family": " Arma-mint",
+      "description": "Melon-pults do heavy damage to groups of zombies.",
+      "image": "/assets/plants/Melon-pult.png"
+    },
+    {
+      "name": "Tall-nut",
+      "cost": 125,
+      "recharge": 20,
+      "toughness": 8000,
+      "special": "Blocks launched imps",
+      "family": " Reinforce-mint",
+      "description": "Tall-nuts are heavy-duty wall plants that block low flying zombies.",
+      "image": "/assets/plants/Tall-nut.png"
+    },
+    {
+      "name": "Winter Melon",
+      "cost": 500,
+      "recharge": 5,
+      "damage": 80,
+      "range": "Lobbed",
+      "special": "Damaged enemies are also chilled",
+      "family": "Winter-mint",
+      "description": "Winter Melons do heavy damage and chills groups of zombies.",
+      "image": "/assets/plants/Winter Melon.png"
+    },
+    {
+      "name": "Hot Potato",
+      "cost": 0,
+      "recharge": 10,
+      "usage": "Single use, instant",
+      "special": "Melts an ice block",
+      "range": "null",
+      "family": "Pepper-mint",
+      "description": "Hot Potatoes melt the ice blocks they're planted on.",
+      "image": "/assets/plants/Hot Potato.png"
+    },
+    {
+      "name": "Pepper-pult",
+      "cost": 200,
+      "recharge": 20,
+      "damage": 50,
+      "special": "Warms nearby tiles immune to frost",
+      "range": "Lobbed",
+      "family": "Pepper-mint",
+      "description": "Pepper-pults lob flaming peppers at zombies and keeps nearby plants warm.",
+      "image": "/assets/plants/Pepper-pult.png"
+    },
+    {
+      "name": "Chard Guard",
+      "cost": 75,
+      "recharge": 15,
+      "toughness": 1500,
+      "special": "Hurls zombies back (*3)",
+      "family": "Reinforce-mint",
+      "description": "Chard Guards are defensive blockers that can hurl zombies backwards.",
+      "image": "/assets/plants/Chard Guard.png"
+    },
+    {
+      "name": "Stunion",
+      "cost": 25,
+      "recharge": 20,
+      "usage": "Single use, activates when zombie is close",
+      "special": "Stuns nearby zombies",
+      "range": "Close",
+      "family": "contain-mint",
+      "description": "Stunions breathe a stunning cloud of gas on nearby zombies in the lane.",
+      "image": "/assets/plants/Stunion.png"
+    },
+    {
+      "name": "Rotobaga",
+      "cost": 150,
+      "recharge": 5,
+      "damage": 10,
+      "special": "Fires in four direction",
+      "range": "4 way",
+      "family": "Appease-mint",
+      "description": "Rotobagas shoot projectiles along the four diagonals, in each direction that has a target",
+      "image": "/assets/plants/Rotobaga.png"
+    },
+
+    {
+      "name": "Red Stinger",
+      "cost": 150,
+      "recharge": 5,
+      "damage": 30,
+      "toughness": "300 damage per shot (columns 1-3)\n900 damage per shot (columns 4-6)\n1500 damage per shot (columns 7-9)",
+      "range": "Straight",
+      "family": "Appease-mint",
+      "description": "Red Stingers fire shots at full force when close to home, and become more defensive further from it.",
+      "image": "/assets/plants/Red Stinger.png"
+    },
+    {
+      "name": "A.K.E.E.",
+      "cost": 175,
+      "recharge": 5,
+      "damage": "0/50/40/30 damage per shot (the first, second, third and fourth zombies)",
+      "range": "Lobbed/Multi-Hit",
+      "family": "Arma-mint",
+      "description": "A.K.E.E.s lob projectiles that bounce from zombie to zombie.",
+      "image": "/assets/plants/A.K.E.E..png"
+    },
+    {
+      "name": "Endurian",
+      "cost": 100,
+      "recharge": 15,
+      "damage": 20,
+      "toughness": "3000",
+      "family": "Reinforce-mint",
+      "description": "Endurians are defensive plants that deal damage to zombies attacking them.",
+      "image": "/assets/plants/Endurian.png"
+    },
+    {
+      "name": "Stallia",
+      "cost": 0,
+      "recharge": 20,
+      "area": "3*3",
+      "usage": "Single use, activates when zombie is close",
+      "special": "Slows nearby zombies",
+      "range": "Touch",
+      "family": "Contain-mint",
+      "description": "Stallias slow down zombies with a puff of perfume.",
+      "image": "/assets/plants/Stallia.png"
+    },
+    {
+      "name": "Gold Leaf",
+      "cost": 50,
+      "recharge": 30,
+      "special": "creates sun every 20 seconds",
+      "usage": "Single use,instant",
+      "description": "Gold Leaves create a Gold Tile on planting.",
+      "image": "/assets/plants/Gold Leaf.png"
+    },
+    {
+      "name": "Laser Bean",
+      "cost": 200,
+      "recharge": 5,
+      "damage": 40,
+      "area": "Lane",
+      "range": "Multi-Hit, all zombie in a lane",
+      "family": "Spear-mint",
+      "description": "Laser Beans fire down a lane, hitting all zombies ahead of it.",
+      "image": "/assets/plants/Laser Bean.png"
+    },
+    {
+      "name": "Blover",
+      "cost": 50,
+      "recharge": 5,
+      "usage": "Single use, instant",
+      "special": "Blows away all flying zombies",
+      "range": "Full Board",
+      "family": "Contain-mint",
+      "description": "Blovers blow away all zombies in air",
+      "image": "/assets/plants/Blover.png"
+    },
+    {
+      "name": "Citron",
+      "cost": 350,
+      "recharge": 5,
+      "damage": 800,
+      "area": "single",
+      "family": "Fila-mint",
+      "description": "Citrons shoot powerful balls of plasma",
+      "image": "/assets/plants/Citron.png"
+    },
+    {
+      "name": "E.M.Peach",
+      "cost": 25,
+      "recharge": 25,
+      "usage": "Single use, instant",
+      "special": "Disables machines",
+      "range": "200(5*5)",
+      "family": "Fila-mint",
+      "description": "E.M.Peaches explode and disable all machines in an area.",
+      "image": "/assets/plants/E.M.Peach.png"
+    },
+    {
+      "name": "Infi-nut",
+      "cost": 75,
+      "recharge": 15,
+      "damage": 2000,
+      "special": "Regenerates health over time",
+      "weakness": "Crushing zombies",
+      "family": "Reinforce-mint",
+      "description": "Infi-nuts are weaker than Wall-nuts, but they regain health over time.",
+      "image": "/assets/plants/Infi-nut.png"
+    },
+    {
+      "name": "Magnifying Grass",
+      "cost": 50,
+      "recharge": 5,
+      "damage": 550,
+      "special": "Tap to spend sun for an attack",
+      "range": "Straight",
+      "family": "Fila-mint",
+      "description": "Magnifying Grass turns sun into a bolt of colorful damage.",
+      "image": "/assets/plants/Magnifying Grass.png"
+    },
+    {
+      "name": "Tile Turnip",
+      "cost": "0(First Tile Turnip) , 250 (price shown in almanc)",
+      "recharge": 10,
+      "usage": "Single use, instant",
+      "description": "Tile Turnips create a Power Tile on planting.",
+      "image": "/assets/plants/Tile Turnip.png"
+    }
+  ]
+}

@@ -7,7 +7,7 @@
       "  \"cost\": ${2:null},",
       "  \"recharge\": ${3:null},",
       "  \"damage\": ${4:null},",
-      "  \"toughness\": ${5:null},",
+      "  \"special\": \"${5:null}\",",
       "  \"range\": \"${6:null}\",",
       "  \"powerup\": \"${7:null}\",",
       "  \"family\": \"${8:null}\",",
@@ -20,11 +20,13 @@
 }
 
 /*
-{
-	"name": $1,
-	"levels":$2,
-	"difficulty":$3,
-	"image":"/assets/areas/$1.png"
-}
-$4
+  "name": "Winter Melon",
+      "cost": 500,
+      "recharge": 5,
+      "damage": 80,
+      "range": "Lobbed",
+      "special": "Damaged enemies are also chilled",
+      "family": "Winter-mint",
+      "description": "Winter Melons do heavy damage and chills groups of zombies.",
+      "image": "/assets/plants/Winter Melon.png"
 */
