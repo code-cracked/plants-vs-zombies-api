@@ -5,7 +5,7 @@
 }
 
 .img {
-  animation: 1s linear 100ms infinite alternate zoomy;
+  animation: 2.5s linear 100ms infinite alternate zoomy;
 }
 
 @keyframes zoomy {
