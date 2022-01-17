@@ -31,7 +31,13 @@ const AboutCard: FunctionComponent<AboutCardProps> = ({
       onMouseOut={() => setOnHover(false)}
     >
       <div className="h-fit w-28 max-w-xs m-2">
-        <Image src={image} height={500} width={500} layout="responsive" />
+        <Image
+          src={image}
+          height={500}
+          width={500}
+          layout="responsive"
+          alt={title + " card"}
+        />
       </div>
       <div className="flex flex-col h-fit  justify-around">
         <div

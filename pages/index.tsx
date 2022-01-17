@@ -37,6 +37,7 @@ const Home: NextPage = () => {
               width={1434}
               height={667}
               className={styles.img}
+              alt="header_image"
             />
           </div>
           <SearchBar />
