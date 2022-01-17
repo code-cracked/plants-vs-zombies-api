@@ -16,11 +16,8 @@ const Home: NextPage = () => {
         />
         <link rel="icon" href="/favicon.ico" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
-        {/* <meta property="og:image" content="/assets/652f40427e1f5186ad54836074898279.png" /> */}
-        <meta
-          property="twitter:image"
-          content="/assets/652f40427e1f5186ad54836074898279.png"
-        />
+        <meta property="og:image" content="/assets/header_image.png" />
+        <meta property="twitter:image" content="/assets/header_image.png" />
         <meta name="revisit-after" content="1 days" />
       </Head>
       <div
