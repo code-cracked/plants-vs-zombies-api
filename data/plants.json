@@ -37,7 +37,6 @@
       "recharge": 20,
       "damage": 1800,
       "range": "Contact",
-      "powerup": "null",
       "family": "Bombard-mint",
       "description": "Potato Mines explode on contact, but they take time to arm. Plant them ahead of zombies.",
       "image": "/assets/plants/Potato Mine.png"
@@ -231,7 +230,6 @@
       "cost": 125,
       "recharge": 5,
       "damage": 20,
-      "toughness": null,
       "range": "Straight",
       "special": "Increases rate of fire with multiple plantings",
       "family": " Appease-mint",
@@ -254,9 +252,7 @@
       "cost": 325,
       "recharge": 5,
       "damage": 80,
-      "toughness": null,
       "range": "Lobbed",
-      "powerup": "null",
       "family": " Arma-mint",
       "description": "Melon-pults do heavy damage to groups of zombies.",
       "image": "/assets/plants/Melon-pult.png"
@@ -288,7 +284,6 @@
       "recharge": 10,
       "usage": "Single use, instant",
       "special": "Melts an ice block",
-      "range": "null",
       "family": "Pepper-mint",
       "description": "Hot Potatoes melt the ice blocks they're planted on.",
       "image": "/assets/plants/Hot Potato.png"
