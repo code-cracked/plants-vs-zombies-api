@@ -13,6 +13,7 @@ const Home: NextPage = () => {
         <meta name="description" content="Plants Vs Zombies -2 documentation" />
         <link rel="icon" href="/favicon.ico" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <meta property="og:image" content="/assets/twttr_banner.png" />
       </Head>
       <div
         className="bg-gray-50 dark:bg-slate-900 h-screen w-full flex justify-center flex-col items-center"
