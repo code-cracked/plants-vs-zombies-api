@@ -11,6 +11,17 @@ module.exports = {
       display: ["Raleway"],
       body: ['"Open Sans"'],
     },
+    extend: {
+      animation: {
+        float: "float 3s linear infinite",
+      },
+      keyframes: {
+        float: {
+          "0%, 100%": { transform: "translateY(0%)" },
+          "50%": { transform: "translateY(-5%)" },
+        },
+      },
+    },
   },
   plugins: [],
 };

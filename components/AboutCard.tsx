@@ -20,13 +20,13 @@ const AboutCard: FunctionComponent<AboutCardProps> = ({
   className,
 }) => {
   const [onHover, setOnHover] = useState(false);
-  const onMouseOver = (event: any) => {
+  const onMouseOver = () => {
     setOnHover(true);
   };
 
   return (
     <div
-      className={`flex dark:border-gray-300 dark:bg-inherit w-3/4 max-w-md rounded-lg p-2 md:my-3  min-h-fit border border-gray-600 items-center ${border} hover:cursor-default ${styles.aboutCard} ${className} my-1 transition-all [transition-duration:200ms]`}
+      className={`flex dark:border-gray-300 dark:bg-inherit w-3/4 max-w-md rounded-lg p-2 md:my-3  min-h-fit border border-gray-600 items-center ${border} hover:cursor-default ${styles.aboutCard} ${className} my-1 transition-all [transition-duration:200ms] animate-float shadow-md dark:shadow-gray-700`}
       onMouseOver={onMouseOver}
       onMouseOut={() => setOnHover(false)}
     >
