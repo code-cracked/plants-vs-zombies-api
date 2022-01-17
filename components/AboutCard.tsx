@@ -8,6 +8,7 @@ interface AboutCardProps {
   image: string;
   color: string;
   border: string;
+  className: string;
 }
 
 const AboutCard: FunctionComponent<AboutCardProps> = ({
@@ -16,6 +17,7 @@ const AboutCard: FunctionComponent<AboutCardProps> = ({
   image,
   color,
   border,
+  className,
 }) => {
   const [onHover, setOnHover] = useState(false);
   const onMouseOver = (event: any) => {
@@ -24,7 +26,7 @@ const AboutCard: FunctionComponent<AboutCardProps> = ({
 
   return (
     <div
-      className={`flex dark:border-gray-300 dark:bg-inherit w-3/4 max-w-md rounded-lg p-2  my-auto md:my-3  min-h-fit border border-gray-600 items-center ${border} hover:cursor-default ${styles.aboutCard} `}
+      className={`flex dark:border-gray-300 dark:bg-inherit w-3/4 max-w-md rounded-lg p-2 md:my-3  min-h-fit border border-gray-600 items-center ${border} hover:cursor-default ${styles.aboutCard} ${className} my-1`}
       onMouseOver={onMouseOver}
       onMouseOut={() => setOnHover(false)}
     >

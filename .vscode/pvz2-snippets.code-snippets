@@ -9,8 +9,9 @@
       "  \"damage\": ${4:null},",
       "  \"special\": \"${5:null}\",",
       "  \"range\": \"${6:null}\",",
-      "  \"family\": \"${7:null}\",",
-      "  \"description\": \"${8:null}\",",
+      "  \"powerup\": \"${7:null}\",",
+      "  \"family\": \"${8:null}\",",
+      "  \"description\": \"${9:null}\",",
       "  \"image\": \"/assets/plants/${1:name}.png\"",
       "}"
     ],
