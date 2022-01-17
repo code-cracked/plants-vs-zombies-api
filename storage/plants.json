@@ -281,6 +281,186 @@
       "family": "Winter-mint",
       "description": "Winter Melons do heavy damage and chills groups of zombies.",
       "image": "/assets/plants/Winter Melon.png"
+    },
+    {
+      "name": "Hot Potato",
+      "cost": 0,
+      "recharge": 10,
+      "usage": "Single use, instant",
+      "special": "Melts an ice block",
+      "range": "null",
+      "family": "Pepper-mint",
+      "description": "Hot Potatoes melt the ice blocks they're planted on.",
+      "image": "/assets/plants/Hot Potato.png"
+    },
+    {
+      "name": "Pepper-pult",
+      "cost": 200,
+      "recharge": 20,
+      "damage": 50,
+      "special": "Warms nearby tiles immune to frost",
+      "range": "Lobbed",
+      "family": "Pepper-mint",
+      "description": "Pepper-pults lob flaming peppers at zombies and keeps nearby plants warm.",
+      "image": "/assets/plants/Pepper-pult.png"
+    },
+    {
+      "name": "Chard Guard",
+      "cost": 75,
+      "recharge": 15,
+      "toughness": 1500,
+      "special": "Hurls zombies back (*3)",
+      "family": "Reinforce-mint",
+      "description": "Chard Guards are defensive blockers that can hurl zombies backwards.",
+      "image": "/assets/plants/Chard Guard.png"
+    },
+    {
+      "name": "Stunion",
+      "cost": 25,
+      "recharge": 20,
+      "usage": "Single use, activates when zombie is close",
+      "special": "Stuns nearby zombies",
+      "range": "Close",
+      "family": "contain-mint",
+      "description": "Stunions breathe a stunning cloud of gas on nearby zombies in the lane.",
+      "image": "/assets/plants/Stunion.png"
+    },
+    {
+      "name": "Rotobaga",
+      "cost": 150,
+      "recharge": 5,
+      "damage": 10,
+      "special": "Fires in four direction",
+      "range": "4 way",
+      "family": "Appease-mint",
+      "description": "Rotobagas shoot projectiles along the four diagonals, in each direction that has a target",
+      "image": "/assets/plants/Rotobaga.png"
+    },
+
+    {
+      "name": "Red Stinger",
+      "cost": 150,
+      "recharge": 5,
+      "damage": 30,
+      "toughness": "300 damage per shot (columns 1-3)\n900 damage per shot (columns 4-6)\n1500 damage per shot (columns 7-9)",
+      "range": "Straight",
+      "family": "Appease-mint",
+      "description": "Red Stingers fire shots at full force when close to home, and become more defensive further from it.",
+      "image": "/assets/plants/Red Stinger.png"
+    },
+    {
+      "name": "A.K.E.E.",
+      "cost": 175,
+      "recharge": 5,
+      "damage": "0/50/40/30 damage per shot (the first, second, third and fourth zombies)",
+      "range": "Lobbed/Multi-Hit",
+      "family": "Arma-mint",
+      "description": "A.K.E.E.s lob projectiles that bounce from zombie to zombie.",
+      "image": "/assets/plants/A.K.E.E..png"
+    },
+    {
+      "name": "Endurian",
+      "cost": 100,
+      "recharge": 15,
+      "damage": 20,
+      "toughness": "3000",
+      "family": "Reinforce-mint",
+      "description": "Endurians are defensive plants that deal damage to zombies attacking them.",
+      "image": "/assets/plants/Endurian.png"
+    },
+    {
+      "name": "Stallia",
+      "cost": 0,
+      "recharge": 20,
+      "area": "3*3",
+      "usage": "Single use, activates when zombie is close",
+      "special": "Slows nearby zombies",
+      "range": "Touch",
+      "family": "Contain-mint",
+      "description": "Stallias slow down zombies with a puff of perfume.",
+      "image": "/assets/plants/Stallia.png"
+    },
+    {
+      "name": "Gold Leaf",
+      "cost": 50,
+      "recharge": 30,
+      "special": "creates sun every 20 seconds",
+      "usage": "Single use,instant",
+      "description": "Gold Leaves create a Gold Tile on planting.",
+      "image": "/assets/plants/Gold Leaf.png"
+    },
+    {
+      "name": "Laser Bean",
+      "cost": 200,
+      "recharge": 5,
+      "damage": 40,
+      "area": "Lane",
+      "range": "Multi-Hit, all zombie in a lane",
+      "family": "Spear-mint",
+      "description": "Laser Beans fire down a lane, hitting all zombies ahead of it.",
+      "image": "/assets/plants/Laser Bean.png"
+    },
+    {
+      "name": "Blover",
+      "cost": 50,
+      "recharge": 5,
+      "usage": "Single use, instant",
+      "special": "Blows away all flying zombies",
+      "range": "Full Board",
+      "family": "Contain-mint",
+      "description": "Blovers blow away all zombies in air",
+      "image": "/assets/plants/Blover.png"
+    },
+    {
+      "name": "Citron",
+      "cost": 350,
+      "recharge": 5,
+      "damage": 800,
+      "area": "single",
+      "family": "Fila-mint",
+      "description": "Citrons shoot powerful balls of plasma",
+      "image": "/assets/plants/Citron.png"
+    },
+    {
+      "name": "E.M.Peach",
+      "cost": 25,
+      "recharge": 25,
+      "usage": "Single use, instant",
+      "special": "Disables machines",
+      "range": "200(5*5)",
+      "family": "Fila-mint",
+      "description": "E.M.Peaches explode and disable all machines in an area.",
+      "image": "/assets/plants/E.M.Peach.png"
+    },
+    {
+      "name": "Infi-nut",
+      "cost": 75,
+      "recharge": 15,
+      "damage": 2000,
+      "special": "Regenerates health over time",
+      "weakness": "Crushing zombies",
+      "family": "Reinforce-mint",
+      "description": "Infi-nuts are weaker than Wall-nuts, but they regain health over time.",
+      "image": "/assets/plants/Infi-nut.png"
+    },
+    {
+      "name": "Magnifying Grass",
+      "cost": 50,
+      "recharge": 5,
+      "damage": 550,
+      "special": "Tap to spend sun for an attack",
+      "range": "Straight",
+      "family": "Fila-mint",
+      "description": "Magnifying Grass turns sun into a bolt of colorful damage.",
+      "image": "/assets/plants/Magnifying Grass.png"
+    },
+    {
+      "name": "Tile Turnip",
+      "cost": "0(First Tile Turnip) , 250 (price shown in almanc)",
+      "recharge": 10,
+      "usage": "Single use, instant",
+      "description": "Tile Turnips create a Power Tile on planting.",
+      "image": "/assets/plants/Tile Turnip.png"
     }
   ]
 }
