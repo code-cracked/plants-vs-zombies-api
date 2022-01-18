@@ -9,18 +9,10 @@ export default function userHandler(req, res) {
     case "GET":
       //GET data from database
       let x = plants.data;
-      let plant_data = null;
-      for (let i = 0; i < x.length; i++) {
-        if (x[i].name === name) {
-          plant_data = x[i];
-          break;
-        }
-      }
-      if (plant_data === null) {
-        res.status(200).json("No such plant exist");
+      if (!x[name]) {
+        res.status(404).end("No such plant exists");
       } else {
-        console.log(plant_data);
-        res.status(200).json(plant_data);
+        res.status(200).json(x[name]);
       }
       break;
     case "PUT":
