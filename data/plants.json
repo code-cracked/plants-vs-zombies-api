@@ -17,7 +17,7 @@
       "Duration": "11 seconds",
       "Weakness": "(immune to poison effect)",
       "Family": "Ail-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Ail-mint.png"
     },
     "Aloe": {
       "name": "Aloe",
@@ -25,7 +25,7 @@
       "Recharge": "20 seconds",
       "Toughness": "Normal",
       "Family": "Reinforce-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Aloe.png"
     },
     "Apple Mortar": {
       "name": "Apple Mortar",
@@ -35,7 +35,7 @@
       "Area": "3x3",
       "Range": "Lobbed",
       "Family": "Arma-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Apple Mortar.png"
     },
     "Arma-mint": {
       "name": "Arma-mint",
@@ -44,7 +44,7 @@
       "Damage": "1200 dps",
       "Duration": "6 seconds",
       "Family": "Arma-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Arma-mint.png"
     },
     "Banana Launcher": {
       "name": "Banana Launcher",
@@ -56,7 +56,7 @@
       "Usage": "Tap to arm, tap on target tile to fire",
       "Special": "On impact, explodes in small area",
       "Family": "Arma-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Banana Launcher.png"
     },
     "Blastberry Vine": {
       "name": "Blastberry Vine",
@@ -64,7 +64,7 @@
       "Recharge": "10 seconds",
       "Damage": "15 DPS per bomblet",
       "Family": "Arma-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Blastberry Vine.png"
     },
     "Bloomerang": {
       "name": "Bloomerang",
@@ -85,7 +85,7 @@
       "Damage": "40 damage per shot, increases by 10 with each attack hitting a single zombie, up to 5 times",
       "Range": "Lobbed",
       "Family": "Ail-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Blooming Heart.png"
     },
     "Blover": {
       "name": "Blover",
@@ -105,7 +105,7 @@
       "Damage": "1800 damage per shot",
       "Duration": "6 seconds",
       "Family": "Bombard-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Bombard-mint.png"
     },
     "Bonk Choy": {
       "name": "Bonk Choy",
@@ -126,7 +126,7 @@
       "Toughness": "300",
       "Usage": "Tap or drag from Boom Balloon Flower to move a balloon to a tile",
       "Family": "Bombard-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Boom Balloon Flower.png"
     },
     "Bowling Bulb": {
       "name": "Bowling Bulb",
@@ -137,7 +137,7 @@
       "Range": "Multi-Hit",
       "Damage details": "Larger bulbs do more damage",
       "Family": "Appease-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Bowling Bulb.png"
     },
     "Cabbage-pult": {
       "name": "Cabbage-pult",
@@ -157,7 +157,7 @@
       "Range": "Full Board",
       "Special": "Hovers above ground or water",
       "Family": "Enchant-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Caulipower.png"
     },
     "Celery Stalker": {
       "name": "Celery Stalker",
@@ -168,7 +168,7 @@
       "Special": "Waits until zombies pass over it, then pops up and attacks",
       "Weakness": "(instantly kills it)",
       "Family": "Enforce-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Celery Stalker.png"
     },
     "Chard Guard": {
       "name": "Chard Guard",
@@ -232,7 +232,7 @@
       "Range": "Close",
       "Special": "Slows and damages zombies in the 6 tiles in front of it",
       "Family": "Winter-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Cold Snapdragon.png"
     },
     "Conceal-mint": {
       "name": "Conceal-mint",
@@ -240,7 +240,7 @@
       "Recharge": "85 seconds",
       "Duration": "6 seconds",
       "Family": "Conceal-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Conceal-mint.png"
     },
     "Contain-mint": {
       "name": "Contain-mint",
@@ -249,7 +249,7 @@
       "Duration": "10 seconds",
       "Special": "Stun",
       "Family": "Contain-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Contain-mint.png"
     },
     "Dartichoke": {
       "name": "Dartichoke",
@@ -260,7 +260,7 @@
       "Usage": "Has a limited supply of darts, then must recharge",
       "Special": "Each shot has a chance to do critical damage",
       "Family": "Spear-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Dartichoke.png"
     },
     "Dazey Chain": {
       "name": "Dazey Chain",
@@ -268,7 +268,7 @@
       "Recharge": "5 seconds",
       "Damage": "20 damage per shot per open flower",
       "Family": "Contain-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Dazey Chain.png"
     },
     "Draftodil": {
       "name": "Draftodil",
@@ -279,7 +279,7 @@
       "Usage": "Briefly stuns non-flying zombies",
       "Special": "Air cannon knocks critters, imps and shrunken zombies off the lawn",
       "Family": "Contain-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Draftodil.png"
     },
     "Dusk Lobber": {
       "name": "Dusk Lobber",
@@ -289,7 +289,7 @@
       "Area": "3x3",
       "Range": "Lobbed",
       "Family": "Conceal-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Dusk Lobber.png"
     },
     "E.M.Peach": {
       "name": "E.M.Peach",
@@ -312,7 +312,7 @@
       "Zombies Zapped": "Weakness",
       "(Can crush, burn, pushback, scoop up, transform into Sheep/Octopus instead of eating)": "(Will pushback or destroy when their Jam is activated)",
       "Family": "Fila-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Electrici-tea.png"
     },
     "Enchant-mint": {
       "name": "Enchant-mint",
@@ -320,7 +320,7 @@
       "Recharge": "85 seconds",
       "Duration": "11 seconds",
       "Family": "Enchant-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Enchant-mint.png"
     },
     "Endurian": {
       "name": "Endurian",
@@ -338,7 +338,7 @@
       "Recharge": "85 seconds",
       "Duration": "8 seconds",
       "Family": "Enforce-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Enforce-mint.png"
     },
     "Enlighten-mint": {
       "name": "Enlighten-mint",
@@ -346,7 +346,7 @@
       "Recharge": "85 seconds",
       "Duration": "5 seconds",
       "Family": "Enlighten-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Enlighten-mint.png"
     },
     "Escape Root": {
       "name": "Escape Root",
@@ -354,7 +354,7 @@
       "Recharge": "20 seconds",
       "Usage": "Instant",
       "Family": "Bombard-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Escape Root.png"
     },
     "Explode-O-Nut": {
       "name": "Explode-O-Nut",
@@ -363,7 +363,7 @@
       "Toughness": "3000 damage per shot",
       "Weakness": "(Immune to explosion)",
       "Family": "Bombard-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Explode-O-Nut.png"
     },
     "Explode-o-Vine": {
       "name": "Explode-o-Vine",
@@ -372,7 +372,7 @@
       "Toughness": "1500 damage per shot",
       "Usage": "can be planted on top of non-vine plants",
       "Family": "Bombard-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Explode-o-Vine.png"
     },
     "Fila-mint": {
       "name": "Fila-mint",
@@ -381,7 +381,7 @@
       "Damage": "150 damage per shot",
       "Duration": "6 seconds",
       "Family": "Fila-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Fila-mint.png"
     },
     "Fume-shroom": {
       "name": "Fume-shroom",
@@ -390,7 +390,7 @@
       "Damage": "40 damage per shot",
       "Area": "1x4",
       "Family": "Ail-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Fume-shroom.png"
     },
     "Garlic": {
       "name": "Garlic",
@@ -401,7 +401,7 @@
       "Range": "Touch",
       "Special": "Diverts zombies into other lanes",
       "Family": "Ail-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Garlic.png"
     },
     "Ghost Pepper": {
       "name": "Ghost Pepper",
@@ -410,7 +410,7 @@
       "Damage": "30 damage per shot every 0.5 seconds",
       "Range": "Front & Back",
       "Family": "Pepper-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Ghost Pepper.png"
     },
     "Gloom Vine": {
       "name": "Gloom Vine",
@@ -421,7 +421,7 @@
       "Range": "3x3",
       "Special": "Powers shadow plants within",
       "Family": "Conceal-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Gloom Vine.png"
     },
     "Gold Bloom": {
       "name": "Gold Bloom",
@@ -429,7 +429,7 @@
       "Recharge": "75 seconds",
       "Usage": "Instant",
       "Family": "Enlighten-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Gold Bloom.png"
     },
     "Gold Leaf": {
       "name": "Gold Leaf",
@@ -450,7 +450,7 @@
       "Instant": "Weakness",
       "(deflects grapes)": "(Immune to explosion)",
       "Family": "Bombard-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Grapeshot.png"
     },
     "Grave Buster": {
       "name": "Grave Buster",
@@ -470,7 +470,7 @@
       "Range": "Lane",
       "Usage": "Single",
       "Family": "Conceal-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Grimrose.png"
     },
     "Gumnut": {
       "name": "Gumnut",
@@ -480,7 +480,7 @@
       "Special": "Stronger zombies form stronger barriers",
       "Weakness": "(can easily remove gum from gummed zombies when teleporting them)",
       "Family": "Reinforce-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Gumnut.png"
     },
     "Headbutter Lettuce": {
       "name": "Headbutter Lettuce",
@@ -490,7 +490,7 @@
       "Toughness": "900 damage per shot",
       "Usage": "Resists damage with high health",
       "Family": "Enforce-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Headbutter Lettuce.png"
     },
     "Heath Seeker": {
       "name": "Heath Seeker",
@@ -500,7 +500,7 @@
       "Range": "Full Board",
       "Special": "can target from anywhere on the lawn",
       "Family": "Spear-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Heath Seeker.png"
     },
     "Hocus Crocus": {
       "name": "Hocus Crocus",
@@ -509,7 +509,7 @@
       "Damage": "100 damage per shot",
       "Special": "Each teleportation also does damage",
       "Family": "Enchant-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Hocus Crocus.png"
     },
     "Holly Barrier": {
       "name": "Holly Barrier",
@@ -520,7 +520,7 @@
       "Area": "Tile",
       "Usage": "Tap to arm, tap on target tile to fire",
       "Family": "Reinforce-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Holly Barrier.png"
     },
     "Homing Thistle": {
       "name": "Homing Thistle",
@@ -529,7 +529,7 @@
       "Damage": "40 damage per shot",
       "Range": "Full board",
       "Family": "Spear-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Homing Thistle.png"
     },
     "Hot Potato": {
       "name": "Hot Potato",
@@ -559,7 +559,7 @@
       "Damage": "10%",
       "Toughness": "300",
       "Family": "Ail-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Imp Pear.png"
     },
     "Infi-nut": {
       "name": "Infi-nut",
@@ -579,7 +579,7 @@
       "Area": "Tile",
       "Usage": "Single use, instant",
       "Family": "Enchant-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Intensive Carrot.png"
     },
     "Jack O%27 Lantern": {
       "name": "Jack O%27 Lantern",
@@ -590,7 +590,7 @@
       "Special": "Fire recharges over time",
       "Weakness": "(Immune to fire)",
       "Family": "Pepper-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Jack O%27 Lantern.png"
     },
     "Jalapeno": {
       "name": "Jalapeno",
@@ -601,7 +601,7 @@
       "Usage": "Single use, instant",
       "Weakness": "(Immune to fire)",
       "Family": "Pepper-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Jalapeno.png"
     },
     "Kernel-pult": {
       "name": "Kernel-pult",
@@ -623,7 +623,7 @@
       "Area": "1x1 (first stage)",
       "3x3 (second stage)": "5x5 (third stage)",
       "Family": "Enforce-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Kiwibeast.png"
     },
     "Laser Bean": {
       "name": "Laser Bean",
@@ -648,7 +648,7 @@
       "Special": "Creates a burning lava pool in its tile",
       "Weakness": "(Immune to fire)",
       "Family": "Pepper-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Lava Guava.png"
     },
     "Lightning Reed": {
       "name": "Lightning Reed",
@@ -667,7 +667,7 @@
       "Recharge": "5 seconds",
       "Toughness": "300 damage per shot",
       "Usage": "Can also be planted under non-aquatic plants",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Lily Pad.png"
     },
     "Magnet-shroom": {
       "name": "Magnet-shroom",
@@ -676,7 +676,7 @@
       "Range": "Multi-Lane",
       "Special": "Removes metal objects from zombies",
       "Family": "Contain-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Magnet-shroom.png"
     },
     "Magnifying Grass": {
       "name": "Magnifying Grass",
@@ -692,7 +692,7 @@
     "Marigold": {
       "name": "Marigold",
       "Sun cost": "N/A",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Marigold.png"
     },
     "Melon-pult": {
       "name": "Melon-pult",
@@ -713,7 +713,7 @@
       "Tile": "3x3 (China)",
       "Usage": "Tap to arm, tap on target tile to fire",
       "Family": "Winter-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Missile Toe.png"
     },
     "Moonflower": {
       "name": "Moonflower",
@@ -723,7 +723,7 @@
       "Area": "3x3",
       "Special": "Produces 25 more sun for each shadow plant nearby up to four.",
       "Family": "Conceal-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Moonflower.png"
     },
     "Murkadamia Nut": {
       "name": "Murkadamia Nut",
@@ -732,7 +732,7 @@
       "Toughness": "2500 damage per shot",
       "Usage": "Damaged murk regrows over time",
       "Family": "Conceal-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Murkadamia Nut.png"
     },
     "Nightshade": {
       "name": "Nightshade",
@@ -745,7 +745,7 @@
       "Straight": "Range details",
       "Close (not powered)": "Straight (powered)",
       "Family": "Conceal-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Nightshade.png"
     },
     "Olive Pit": {
       "name": "Olive Pit",
@@ -754,7 +754,7 @@
       "Usage": "Can swallow multiple zombies at a time",
       "Special": "Spits out zombie-slowing olive oil",
       "Family": "Contain-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Olive Pit.png"
     },
     "Parsnip": {
       "name": "Parsnip",
@@ -765,7 +765,7 @@
       "Range": "Close",
       "Special": "Rushes at the last moment.",
       "Family": "Enforce-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Parsnip.png"
     },
     "Pea Pod": {
       "name": "Pea Pod",
@@ -785,7 +785,7 @@
       "Damage": "20",
       "Special": "Boosts Appease-mint Family plants",
       "Family": "Appease-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Pea Vine.png"
     },
     "Pea-nut": {
       "name": "Pea-nut",
@@ -794,7 +794,7 @@
       "Damage": "20 damage per shot",
       "Toughness": "4000 damage per shot",
       "Family": "Reinforce-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Pea-nut.png"
     },
     "Peashooter": {
       "name": "Peashooter",
@@ -815,7 +815,7 @@
       "Duration": "6 seconds",
       "Weakness": "(immune to fire)",
       "Family": "Pepper-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Pepper-mint.png"
     },
     "Pepper-pult": {
       "name": "Pepper-pult",
@@ -833,7 +833,7 @@
       "Sun cost": "150",
       "Recharge": "30 seconds",
       "Usage": "Hypnotizes all dinosaurs in a lane",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Perfume-shroom.png"
     },
     "Potato Mine": {
       "name": "Potato Mine",
@@ -851,7 +851,7 @@
       "Recharge": "60 seconds",
       "Usage": "Single use, instant",
       "Special": "Creates one Plant Food",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Power Lily.png"
     },
     "Power Vine": {
       "name": "Power Vine",
@@ -860,7 +860,7 @@
       "Damage": "10 DPS per laser bolt",
       "Special": "Power Vines horizontally or vertically adjacent to other Power Vines form a network",
       "Family": "Fila-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Power Vine.png"
     },
     "Primal Peashooter": {
       "name": "Primal Peashooter",
@@ -869,7 +869,7 @@
       "Damage": "50 damage per shot",
       "Special": "Rock-like peas occasionally knock zombies back (in the Chinese version, his projectiles can stun or knockback zombies)",
       "Family": "Appease-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Primal Peashooter.png"
     },
     "Primal Potato Mine": {
       "name": "Primal Potato Mine",
@@ -880,7 +880,7 @@
       "Range": "Contact",
       "Usage": "Single use",
       "Family": "Bombard-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Primal Potato Mine.png"
     },
     "Primal Sunflower": {
       "name": "Primal Sunflower",
@@ -888,7 +888,7 @@
       "Recharge": "5 seconds",
       "Toughness": "300",
       "Family": "Enlighten-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Primal Sunflower.png"
     },
     "Primal Wall-nut": {
       "name": "Primal Wall-nut",
@@ -896,7 +896,7 @@
       "Recharge": "Fast",
       "Toughness": "4000 damage per shot",
       "Family": "Reinforce-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Primal Wall-nut.png"
     },
     "Puff-shroom": {
       "name": "Puff-shroom",
@@ -906,7 +906,7 @@
       "Range": "3 Tiles",
       "Special": "Lives for a limited time",
       "Family": "Ail-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Puff-shroom.png"
     },
     "Puffball": {
       "name": "Puffball",
@@ -915,7 +915,7 @@
       "Area": "3x5",
       "Usage": "Repeated Puffball explosions add to the poison",
       "Family": "Ail-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Puffball.png"
     },
     "Pumpkin": {
       "name": "Pumpkin",
@@ -924,7 +924,7 @@
       "Toughness": "4000 damage per shot",
       "Weakness": "(Can crush it)",
       "Family": "Reinforce-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Pumpkin.png"
     },
     "Pyre Vine": {
       "name": "Pyre Vine",
@@ -933,7 +933,7 @@
       "Damage": "30 DPS",
       "Weakness": "(Immune to fire)",
       "Family": "Pepper-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Pyre Vine.png"
     },
     "Red Stinger": {
       "name": "Red Stinger",
@@ -953,7 +953,7 @@
       "Duration": "8 seconds",
       "Special": "Knockback",
       "Family": "Reinforce-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Reinforce-mint.png"
     },
     "Repeater": {
       "name": "Repeater",
@@ -985,7 +985,7 @@
       "Damage details": "Does no damage on impact, but creates sap puddle",
       "Special": "Slows zombies who walk in puddle",
       "Family": "Contain-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Sap-fling.png"
     },
     "Shadow Peashooter": {
       "name": "Shadow Peashooter",
@@ -995,7 +995,7 @@
       "Damage": "30 damage per shot (peas)",
       "70 damage per shot (beam)": "Heavy (Chinese version)",
       "Family": "Conceal-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Shadow Peashooter.png"
     },
     "Shadow-shroom": {
       "name": "Shadow-shroom",
@@ -1004,7 +1004,7 @@
       "Damage": "900 damage per shot over 30 seconds",
       "Range": "Touch",
       "Family": "Conceal-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Shadow-shroom.png"
     },
     "Shine Vine": {
       "name": "Shine Vine",
@@ -1014,7 +1014,7 @@
       "Usage": "Best used on sun producer plants",
       "Special": "Doesn't amplify Moonflower's sun production",
       "Family": "Enlighten-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Shine Vine.png"
     },
     "Shrinking Violet": {
       "name": "Shrinking Violet",
@@ -1024,7 +1024,7 @@
       "Usage": "Single use, activates when zombies are close",
       "Special": "Shrinks Imps to oblivion",
       "Family": "Enchant-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Shrinking Violet.png"
     },
     "Snapdragon": {
       "name": "Snapdragon",
@@ -1043,7 +1043,7 @@
       "Recharge": "20",
       "Weakness": "Vulnerable to critters and mechs",
       "Family": "Enlighten-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Solar Sage.png"
     },
     "Solar Tomato": {
       "name": "Solar Tomato",
@@ -1053,7 +1053,7 @@
       "Area": "3x3",
       "Special": "Stun",
       "Family": "Enlighten-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Solar Tomato.png"
     },
     "Spikerock": {
       "name": "Spikerock",
@@ -1096,7 +1096,7 @@
       "Damage": "50 damage per shot",
       "Range": "Lobbed",
       "Family": "Ail-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Spore-shroom.png"
     },
     "Spring Bean": {
       "name": "Spring Bean",
@@ -1119,7 +1119,7 @@
       "Range": "Close",
       "Usage": "Single-use",
       "Family": "Enforce-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Squash.png"
     },
     "Stallia": {
       "name": "Stallia",
@@ -1142,7 +1142,7 @@
       "Range": "5 Way",
       "Range details": "Fires in five directions",
       "Family": "Appease-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Starfruit.png"
     },
     "Stickybomb Rice": {
       "name": "Stickybomb Rice",
@@ -1151,7 +1151,7 @@
       "Damage": "40 damage per shot",
       "Special": "Exploding sticky bombs trigger other sticky bombs",
       "Family": "Arma-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Stickybomb Rice.png"
     },
     "Stunion": {
       "name": "Stunion",
@@ -1171,7 +1171,7 @@
       "Area": "Single",
       "Usage": "Single use, on contact",
       "Family": "Enlighten-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Sun Bean.png"
     },
     "Sun-shroom": {
       "name": "Sun-shroom",
@@ -1179,7 +1179,7 @@
       "Recharge": "5 seconds",
       "Toughness": "Typical",
       "Family": "Enlighten-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Sun-shroom.png"
     },
     "Sunflower": {
       "name": "Sunflower",
@@ -1196,7 +1196,7 @@
       "Recharge": "20 seconds",
       "Toughness": "4000 damage per shot",
       "Family": "Reinforce-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Sweet Potato.png"
     },
     "Tall-nut": {
       "name": "Tall-nut",
@@ -1215,7 +1215,7 @@
       "Area": "Single",
       "Range": "Touch",
       "Family": "Enforce-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Tangle Kelp.png"
     },
     "Teleportato Mine": {
       "name": "Teleportato Mine",
@@ -1226,7 +1226,7 @@
       "Area": "3x3",
       "Usage": "Instant",
       "Family": "Bombard-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Teleportato Mine.png"
     },
     "Threepeater": {
       "name": "Threepeater",
@@ -1245,7 +1245,7 @@
       "Area": "Full Board",
       "Usage": "Single use, instant",
       "Special": "Rewound zombies have restored health",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Thyme Warp.png"
     },
     "Tiger Grass": {
       "name": "Tiger Grass",
@@ -1254,7 +1254,7 @@
       "Toughness": "40",
       "Special": "Grass tiger grows over time",
       "Family": "Enforce-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Tiger Grass.png"
     },
     "Tile Turnip": {
       "name": "Tile Turnip",
@@ -1272,7 +1272,7 @@
       "Range": "Close",
       "Weakness": "Vulnerable while chewing",
       "Family": "Enlighten-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Toadstool.png"
     },
     "Tumbleweed": {
       "name": "Tumbleweed",
@@ -1282,7 +1282,7 @@
       "Range": "Straight",
       "Special": "Set aflame by Torchwood",
       "Family": "Appease-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Tumbleweed.png"
     },
     "Twin Sunflower": {
       "name": "Twin Sunflower",
@@ -1312,7 +1312,7 @@
       "Special": "Resists cold and warms plants around it",
       "Weakness": "(Immune to fire)",
       "Family": "Enforce-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Wasabi Whip.png"
     },
     "Winter Melon": {
       "name": "Winter Melon",
@@ -1331,7 +1331,7 @@
       "Recharge": "85 seconds",
       "Duration": "10 seconds",
       "Family": "Winter-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Winter-mint.png"
     },
     "Witch Hazel": {
       "name": "Witch Hazel",
@@ -1340,14 +1340,14 @@
       "Special": "Prefers to target Wizard Zombies",
       "Weakness": "(Cannot be turned into a mushroom)",
       "Family": "Enchant-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Witch Hazel.png"
     },
     "Zoybean Pod": {
       "name": "Zoybean Pod",
       "Sun cost": "200",
       "Recharge": "20 seconds",
       "Family": "Enchant-mint",
-      "image": "/assets/plants/"
+      "image": "/assets/plants/Zoybean Pod.png"
     }
   }
 }
