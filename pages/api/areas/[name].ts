@@ -1,4 +1,15 @@
-export default function userHandler(req, res) {
+export default function userHandler(
+  req: { query: { name: any }; method: any },
+  res: {
+    status: (arg0: number) => {
+      (): any;
+      new (): any;
+      json: { (arg0: string): void; new (): any };
+      end: { (arg0: string): void; new (): any };
+    };
+    setHeader: (arg0: string, arg1: string[]) => void;
+  }
+) {
   const {
     query: { name },
     method,
