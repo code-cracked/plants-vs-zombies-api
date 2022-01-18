@@ -8,19 +8,10 @@ export default function userHandler(req, res) {
   switch (method) {
     case "GET":
       //GET data from database
-      let x = areas.data;
-      let area_data = null;
-      for (let i = 0; i < x.length; i++) {
-        if (x[i].name === name) {
-          area_data = x[i];
-          break;
-        }
-      }
-      if (area_data === null) {
-        res.status(200).json("No such areas exist");
+      if (!areas.data[name]) {
+        res.status(404).json("No such area exists");
       } else {
-        console.log(area_data);
-        res.status(200).json(area_data);
+        res.status(404).json(areas.data[name]);
       }
       break;
     case "PUT":
