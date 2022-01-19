@@ -17,35 +17,37 @@ const Docs: NextPage = () => {
     <div className="flex flex-wrap">
       <div className="flex flex-col bg-gray-100 dark:bg-neutral-900 md:min-w-fit md:w-1/4 w-full px-4 py-6">
         <ul className="sticky top-10 w-fit">
-          <li className="hover:border-l border-blue-600 hover:pl-2">
+          <li className="hover:border-l hover:font-[600] border-blue-600 hover:pl-2">
             <a className="w-full" href="#information">
               Information
             </a>
           </li>
-          <li className="hover:border-l border-blue-600 hover:pl-2">
+          <li className="hover:border-l hover:font-[600] border-blue-600 hover:pl-2">
             <a className="w-full" href="#fair_use_policy">
               Fair Use Policy
             </a>
           </li>
           <li>
-            <a href="#plants">Endpoints</a>
+            <a href="#plants" className="hover:font-[600]">
+              Endpoints
+            </a>
             <ul className="pl-4">
-              <li className="hover:border-l border-blue-600 hover:pl-2">
+              <li className="hover:border-l hover:font-[600] border-blue-600 hover:pl-2">
                 <a className="w-full" href="#plants">
                   Plants
                 </a>
               </li>
-              <li className="hover:border-l border-blue-600 hover:pl-2">
+              <li className="hover:border-l hover:font-[600] border-blue-600 hover:pl-2">
                 <a className="w-full" href="#plant_info">
                   Plant Data
                 </a>
               </li>
-              <li className="hover:border-l border-blue-600 hover:pl-2">
+              <li className="hover:border-l hover:font-[600] border-blue-600 hover:pl-2">
                 <a className="w-full" href="#areas">
                   Areas
                 </a>
               </li>
-              <li className="hover:border-l border-blue-600 hover:pl-2">
+              <li className="hover:border-l hover:font-[600] border-blue-600 hover:pl-2">
                 <a className="w-full" href="#area_info">
                   Area Data
                 </a>
@@ -246,7 +248,10 @@ const Docs: NextPage = () => {
         </div>
         <div>
           <h1 className="font-semibold text-2xl my-4">Found bugs?</h1>
-          <a>
+          <a
+            href="https://github.com/code-cracked/pvz2_website/issues/new"
+            target={"_blank"}
+          >
             <button className="bg-gray-300 dark:bg-[rgb(20,20,20)] rounded p-1 border border-neutral-500 text-black dark:text-white">
               Create an issue on GitHub!
               <GitHub className="mx-2" />
