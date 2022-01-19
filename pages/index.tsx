@@ -4,6 +4,7 @@ import Image from "next/image";
 import SearchBar from "../components/SearchBar";
 import AboutCard from "../components/AboutCard";
 import styles from "../styles/Home.module.css";
+import Link from "next/link";
 
 const Home: NextPage = () => {
   return (
@@ -20,11 +21,17 @@ const Home: NextPage = () => {
         <meta property="twitter:image" content="/assets/twttr_banner.png" />
         <meta name="revisit-after" content="1 days" />
       </Head>
-      <div>
-        <nav>Docs</nav>
+      <div className="sticky top-0 h-14 bg-inherit">
+        <nav className="mb-2  bg-opacity-80 flex flex-row justify-end h-full items-center">
+          <Link href={"/docs"}>
+            <a className="h-full hover:bg-slate-900 hover:text-cyan-400 flex items-center px-8 hover:no-underline">
+              Docs
+            </a>
+          </Link>
+        </nav>
       </div>
       <div
-        className="bg-gray-50 dark:bg-slate-900 h-screen w-full flex justify-center flex-col items-center"
+        className="bg-gray-50 dark:bg-inherit h-screen w-full flex justify-center flex-col items-center"
         id="home-search"
       >
         <div
@@ -59,7 +66,7 @@ const Home: NextPage = () => {
         </div>
       </div>
       <div
-        className="bg-gray-100 dark:bg-zinc-900  h-fit min-h-screen w-full "
+        className="bg-gray-100 dark:bg-[rgb(1,1,1)]  h-fit min-h-screen w-full "
         id="about"
       >
         <h2 className="text-center font-display font-medium text-3xl md:text-4xl lg:text-5xl lg:font-normal py-6 md:pt-10">
@@ -74,7 +81,7 @@ const Home: NextPage = () => {
               "PvZ2 web-app was designed to help people navigate through large amounts of data with ease."
             }
             image={"/assets/ridiculously-fast.png"}
-            color={"text-red-700"}
+            color={"text-red-400"}
             border="hover:border-red-700 dark:hover:border-red-500 hover:shadow-md dark:hover:shadow-red-700 hover:shadow-red-400"
             className="sm:self-start"
           />
@@ -84,7 +91,7 @@ const Home: NextPage = () => {
               "Rating is a very important both for us (it motivates to develop new modules), and for future customers."
             }
             image={"/assets/clean-ui.png"}
-            color={"text-yellow-500"}
+            color={"text-yellow-400"}
             border="hover:border-yellow-700 dark:hover:border-yellow-500 hover:shadow-md dark:hover:shadow-yellow-700 hover:shadow-yellow-400"
             className="sm:self-end"
           />
