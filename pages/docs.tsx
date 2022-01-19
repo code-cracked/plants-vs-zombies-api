@@ -273,6 +273,7 @@ const Docs: NextPage = () => {
             <a
               href="https://github.com/code-cracked/pvz2_website/issues/new"
               target={"_blank"}
+              rel="noreferrer"
             >
               <button className="bg-gray-300 dark:bg-[rgb(20,20,20)] rounded p-1 border border-neutral-500 text-black dark:text-white">
                 Create an issue on GitHub!
