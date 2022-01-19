@@ -13,7 +13,6 @@ const Docs: NextPage = () => {
     toast.success("Copied!", {
       position: toast.POSITION.BOTTOM_RIGHT,
       autoClose: 2500,
-      className: "bg-green-500",
       theme: "colored",
     });
   };
@@ -23,8 +22,11 @@ const Docs: NextPage = () => {
         <title>Docs</title>
         <meta property="description" content="Documentation for PvZ2 API" />
       </Head>
-      <div className="sticky top-0 h-14 bg-white dark:bg-black z-20">
-        <nav className="pb-2 bg-black bg-opacity-80 flex flex-row justify-end h-full items-center">
+      <div className="sticky top-0 h-14 bg-white dark:bg-black z-20 flex flex-row justify-between items-center px-4">
+        <header className="basis-full h-full items-center flex">
+          Documentation
+        </header>
+        <nav className="px-4 bg-black bg-opacity-80 flex flex-row justify-end h-full items-center">
           <Link href={"/"}>
             <a className="h-full hover:bg-slate-900 flex items-center px-8 hover:no-underline">
               Home
