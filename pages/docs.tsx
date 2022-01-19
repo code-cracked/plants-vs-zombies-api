@@ -43,7 +43,7 @@ const Api: NextPage = () => {
         </div>
         <div id="plants">
           <h1 className="font-semibold text-2xl my-4">
-            PLANTS-NAMES{" "}
+            Plant Names{" "}
             <span className="text-gray-700 dark:text-gray-400 font-light">
               (endpoint)
             </span>
@@ -54,10 +54,8 @@ const Api: NextPage = () => {
           </p>
           <br></br>
           <div className="flex box-border">
-            <h5>
-              https://pvz2-website-g0dr91qps-code-cracked.vercel.app/api/plants
-            </h5>
-            <CopyToClipboard text="https://pvz2-website-g0dr91qps-code-cracked.vercel.app/api/plants">
+            <h5>https://pvz2-website.vercel.app/api/plants</h5>
+            <CopyToClipboard text="https://pvz2-website.vercel.app/api/plants">
               <button className="shadow-md   hover:shadow-md hover:animate-spin  h-6 w-6">
                 📋
               </button>
@@ -78,10 +76,8 @@ const Api: NextPage = () => {
           </p>
           <br></br>
           <div className="flex box-border">
-            <h5>
-              https://pvz2-website-g0dr91qps-code-cracked.vercel.app/api/plants/[plant_name]
-            </h5>
-            <CopyToClipboard text="https://pvz2-website-g0dr91qps-code-cracked.vercel.app/api/plants/[plant_name]">
+            <h5>https://pvz2-website.vercel.app/api/plants/[plant_name]</h5>
+            <CopyToClipboard text="https://pvz2-website.vercel.app/api/plants/[plant_name]">
               <button className="shadow-md   hover:shadow-md hover:animate-spin  h-6 w-6">
                 📋
               </button>
@@ -98,14 +94,11 @@ const Api: NextPage = () => {
           </b>{" "}
           . Then the above link returns a json file of information about the
           specific plant .<br></br>
-          <pre>
-            Example:
-            https://pvz2-website-g0dr91qps-code-cracked.vercel.app/api/plants/Aloe
-          </pre>
+          <pre>Example: https://pvz2-website.vercel.app/api/plants/Aloe</pre>
         </div>
         <div id="areas">
           <h1 className="font-semibold text-2xl my-4">
-            AREAS-NAMES{" "}
+            Area Names{" "}
             <span className="text-gray-700 dark:text-gray-400 font-light">
               (endpoint)
             </span>
@@ -116,10 +109,8 @@ const Api: NextPage = () => {
           </p>
           <br></br>
           <div className="flex box-border">
-            <h5>
-              https://pvz2-website-g0dr91qps-code-cracked.vercel.app/api/areas
-            </h5>
-            <CopyToClipboard text="https://pvz2-website-g0dr91qps-code-cracked.vercel.app/api/areas">
+            <h5>https://pvz2-website.vercel.app/api/areas</h5>
+            <CopyToClipboard text="https://pvz2-website.vercel.app/api/areas">
               <button className="shadow-md   hover:shadow-md hover:animate-spin  h-6 w-6">
                 📋
               </button>
@@ -141,10 +132,8 @@ const Api: NextPage = () => {
           </p>
           <br></br>
           <div className="flex box-border">
-            <h5>
-              https://pvz2-website-g0dr91qps-code-cracked.vercel.app/api/areas/[area_name]
-            </h5>
-            <CopyToClipboard text="https://pvz2-website-g0dr91qps-code-cracked.vercel.app/api/areas/[area_name]">
+            <h5>https://pvz2-website.vercel.app/api/areas/[area_name]</h5>
+            <CopyToClipboard text="https://pvz2-website.vercel.app/api/areas/[area_name]">
               <button className="shadow-md   hover:shadow-md hover:animate-spin  h-6 w-6">
                 📋
               </button>
@@ -162,8 +151,7 @@ const Api: NextPage = () => {
           . Then the above link returns a json file of information about the
           specific area .<br></br>
           <pre>
-            Example:
-            https://pvz2-website-g0dr91qps-code-cracked.vercel.app/api/areas/Player's%20House
+            Example: https://pvz2-website.vercel.app/api/areas/Player's%20House
           </pre>
         </div>
       </div>
