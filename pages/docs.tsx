@@ -219,7 +219,7 @@ const Docs: NextPage = () => {
                 <CopyToClipboard
                   text="https://pvz2-website.vercel.app/api/areas"
                   onCopy={(e) => {
-                    console.log("Copied!");
+                    // console.log("Copied!");
                     notify();
                   }}
                 >
