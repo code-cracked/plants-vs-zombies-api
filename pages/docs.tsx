@@ -26,9 +26,9 @@ const Docs: NextPage = () => {
         <header className="basis-full h-full items-center flex">
           Documentation
         </header>
-        <nav className="px-4 bg-black bg-opacity-80 flex flex-row justify-end h-full items-center">
+        <nav className="pl-4 bg-white dark:bg-black bg-opacity-80 flex flex-row justify-end h-full items-center">
           <Link href={"/"}>
-            <a className="h-full hover:bg-slate-900 flex items-center px-8 hover:no-underline">
+            <a className="h-full hover:bg-neutral-200 hover:dark:bg-slate-900 flex items-center px-8 hover:no-underline">
               Home
             </a>
           </Link>
@@ -37,38 +37,38 @@ const Docs: NextPage = () => {
       <div className="flex flex-wrap">
         <div className="flex flex-col bg-gray-100 dark:bg-neutral-900 md:min-w-fit md:w-1/4 w-full px-4 py-6">
           <ul className="sticky top-14 w-fit z-10">
-            <li className="hover:border-l hover:font-[600] border-blue-600 hover:pl-2">
+            <li className="hover:border-l hover:font-[400] border-blue-600 hover:pl-2">
               <a className="w-full" href="#information">
                 Information
               </a>
             </li>
-            <li className="hover:border-l hover:font-[600] border-blue-600 hover:pl-2">
+            <li className="hover:border-l hover:font-[400] border-blue-600 hover:pl-2">
               <a className="w-full" href="#fair_use_policy">
                 Fair Use Policy
               </a>
             </li>
             <li>
-              <a href="#plants" className="hover:font-[600]">
+              <a href="#plants" className="hover:font-[400]">
                 Endpoints
               </a>
               <ul className="pl-4">
-                <li className="hover:border-l hover:font-[600] border-blue-600 hover:pl-2">
-                  <a className="w-full" href="#plants">
+                <li className="hover:border-l hover:font-[400] border-blue-600 hover:pl-2">
+                  <a className="w-full hover:no-underline" href="#plants">
                     Plants
                   </a>
                 </li>
-                <li className="hover:border-l hover:font-[600] border-blue-600 hover:pl-2">
-                  <a className="w-full" href="#plant_info">
+                <li className="hover:border-l hover:font-[400] border-blue-600 hover:pl-2">
+                  <a className="w-full hover:no-underline" href="#plant_info">
                     Plant Data
                   </a>
                 </li>
-                <li className="hover:border-l hover:font-[600] border-blue-600 hover:pl-2">
-                  <a className="w-full" href="#areas">
+                <li className="hover:border-l hover:font-[400] border-blue-600 hover:pl-2">
+                  <a className="w-full hover:no-underline" href="#areas">
                     Areas
                   </a>
                 </li>
-                <li className="hover:border-l hover:font-[600] border-blue-600 hover:pl-2">
-                  <a className="w-full" href="#area_info">
+                <li className="hover:border-l hover:font-[400] border-blue-600 hover:pl-2">
+                  <a className="w-full hover:no-underline" href="#area_info">
                     Area Data
                   </a>
                 </li>
