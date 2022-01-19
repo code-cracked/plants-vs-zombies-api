@@ -10,7 +10,8 @@
     @apply bg-white;
     @apply text-black;
     @apply dark:bg-black;
-    @apply dark:text-neutral-100;
+    @apply dark:text-white;
+    @apply dark:opacity-90;
     @apply scroll-smooth;
   }
 }
@@ -32,6 +33,7 @@ a {
   box-sizing: border-box;
 }
 
-svg:focus, a:focus-visible {
+svg:focus,
+a:focus-visible {
   outline: none;
 }
