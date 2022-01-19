@@ -7,7 +7,7 @@ module.exports = {
     fontFamily: {
       sans: ["Roboto", "ui-sans-serif", "system-ui"],
       serif: ["ui-serif", "Georgia"],
-      mono: ["ui-monospace", "SFMono-Regular"],
+      mono: ["Roboto Mono", "ui-monospace", "SFMono-Regular"],
       display: ["Raleway"],
       body: ['"Open Sans"'],
     },

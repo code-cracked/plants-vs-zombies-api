@@ -10,8 +10,21 @@
     @apply bg-white;
     @apply text-black;
     @apply dark:bg-black;
-    @apply dark:text-neutral-100;
+    @apply dark:text-white;
+    @apply dark:opacity-90;
     @apply scroll-smooth;
+  }
+  a {
+    @apply cursor-pointer;
+    @apply text-blue-700;
+    @apply dark:text-blue-400;
+    @apply hover:dark:text-blue-300;
+    @apply hover:text-blue-600;
+    @apply hover:underline;
+    @apply hover:underline-offset-1;
+  }
+  p {
+    @apply my-2;
   }
 }
 
@@ -24,7 +37,6 @@ body {
 }
 
 a {
-  color: inherit;
   text-decoration: none;
 }
 
@@ -32,6 +44,7 @@ a {
   box-sizing: border-box;
 }
 
-svg:focus, a:focus-visible {
+svg:focus,
+a:focus-visible {
   outline: none;
 }

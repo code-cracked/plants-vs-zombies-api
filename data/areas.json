@@ -1,76 +1,76 @@
 {
-  "data": [
-    {
+  "data": {
+    "Player's House": {
       "name": "Player's House",
       "levels": 5,
       "difficulty": 0,
       "image": "/assets/areas/Player's House.png"
     },
-    {
+    "Ancient Egypt": {
       "name": "Ancient Egypt",
       "levels": 25,
       "difficulty": 2,
       "image": "/assets/areas/Ancient Egypt.png"
     },
-    {
+    "Pirate Seas": {
       "name": "Pirate Seas",
       "levels": 25,
       "difficulty": 2,
       "image": "/assets/areas/Pirate Seas.png"
     },
-    {
+    "Wild West": {
       "name": "Wild West",
       "levels": 25,
       "difficulty": 3,
       "image": "/assets/areas/Wild West.png"
     },
-    {
+    "Frostbite Caves": {
       "name": "Frostbite Caves",
       "levels": 30,
       "difficulty": 3,
       "image": "/assets/areas/Frostbite Caves.png"
     },
-    {
+    "Lost City": {
       "name": "Lost City",
       "levels": 32,
       "difficulty": 3,
       "image": "/assets/areas/Lost City.png"
     },
-    {
+    "Far Future": {
       "name": "Far Future",
       "levels": 25,
       "difficulty": 3,
       "image": "/assets/areas/Far Future.png"
     },
-    {
+    "Dark Ages": {
       "name": "Dark Ages",
       "levels": 20,
       "difficulty": 4,
       "image": "/assets/areas/Dark Ages.png"
     },
-    {
+    "Neon Mixtape Tour": {
       "name": "Neon Mixtape Tour",
       "levels": 32,
       "difficulty": 4,
       "image": "/assets/areas/Neon Mixtape Tour.png"
     },
-    {
+    "Jurassic Marsh": {
       "name": "Jurassic Marsh",
       "levels": 32,
       "difficulty": 4,
       "image": "/assets/areas/Jurassic Marsh.png"
     },
-    {
+    "Big Wave Beach": {
       "name": "Big Wave Beach",
       "levels": 32,
       "difficulty": 5,
       "image": "/assets/areas/Big Wave Beach.png"
     },
-    {
+    "Modern Day": {
       "name": "Modern Day",
       "levels": 34,
       "difficulty": 5,
       "image": "/assets/areas/Modern Day.png"
     }
-  ]
+  }
 }
