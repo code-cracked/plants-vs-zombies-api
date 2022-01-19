@@ -1,4 +1,5 @@
 import { GitHub } from "@material-ui/icons";
+import ContentCopyIcon from "@mui/icons-material/ContentCopy";
 import type { NextPage } from "next";
 import { CopyToClipboard } from "react-copy-to-clipboard";
 import { toast } from "react-toastify";
@@ -141,7 +142,9 @@ const Docs: NextPage = () => {
                     notify();
                   }}
                 >
-                  <button className="hover:scale-105  h-full p-1">📋</button>
+                  <button className="hover:scale-105  h-full p-1">
+                    <ContentCopyIcon className="text-black" />
+                  </button>
                 </CopyToClipboard>
               </div>
             </div>
@@ -174,7 +177,9 @@ const Docs: NextPage = () => {
                     notify();
                   }}
                 >
-                  <button className="hover:scale-105  h-full p-1">📋</button>
+                  <button className="hover:scale-105  h-full p-1">
+                    <ContentCopyIcon className="text-black" />
+                  </button>
                 </CopyToClipboard>
               </div>
             </div>
@@ -218,7 +223,9 @@ const Docs: NextPage = () => {
                     notify();
                   }}
                 >
-                  <button className="hover:scale-105  h-full p-1">📋</button>
+                  <button className="hover:scale-105  h-full p-1">
+                    <ContentCopyIcon className="text-black" />
+                  </button>
                 </CopyToClipboard>
               </div>
             </div>
@@ -251,7 +258,9 @@ const Docs: NextPage = () => {
                     notify();
                   }}
                 >
-                  <button className="hover:scale-105  h-full p-1">📋</button>
+                  <button className="hover:scale-105  h-full p-1">
+                    <ContentCopyIcon className="text-black" />
+                  </button>
                 </CopyToClipboard>
               </div>
             </div>
