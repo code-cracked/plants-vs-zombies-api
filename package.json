@@ -1,5 +1,5 @@
 {
-  "name": "pvz2_website",
+  "name": "plants-vs-zombies-api",
   "private": true,
   "scripts": {
     "dev": "next dev",
