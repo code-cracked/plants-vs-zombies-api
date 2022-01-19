@@ -4,6 +4,7 @@ import { CopyToClipboard } from "react-copy-to-clipboard";
 import { toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import Link from "next/link";
+import Head from "next/head";
 
 toast.configure();
 
@@ -18,8 +19,12 @@ const Docs: NextPage = () => {
   };
   return (
     <>
-      <div className="sticky top-0 h-14 bg-white dark:bg-black">
-        <nav className="mb-2 bg-transparent bg-opacity-80 flex flex-row justify-end h-full items-center">
+      <Head>
+        <title>Docs</title>
+        <meta property="description" content="Documentation for PvZ2 API" />
+      </Head>
+      <div className="sticky top-0 h-14 bg-white dark:bg-black z-20">
+        <nav className="pb-2 bg-black bg-opacity-80 flex flex-row justify-end h-full items-center">
           <Link href={"/"}>
             <a className="h-full hover:bg-slate-900 flex items-center px-8 hover:no-underline">
               Home
