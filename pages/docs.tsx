@@ -131,12 +131,12 @@ const Docs: NextPage = () => {
             <div className="flex border flex-row max-w-lg my-4 rounded">
               <div className="p-1 w-full">
                 <p className="dark:opacity-80">
-                  https://pvz2-website.vercel.app/api/plants
+                  https://pvz-2-api.vercel.app/api/plants
                 </p>
               </div>
               <div className="bg-gray-200">
                 <CopyToClipboard
-                  text="https://pvz2-website.vercel.app/api/plants"
+                  text="https://pvz-2-api.vercel.app/api/plants"
                   onCopy={(e) => {
                     console.log("Copied!");
                     notify();
@@ -165,13 +165,13 @@ const Docs: NextPage = () => {
             <div className="flex border flex-row max-w-lg my-4 rounded">
               <div className="p-1 w-full">
                 <p className="dark:opacity-80">
-                  https://pvz2-website.vercel.app/api/plants/[
+                  https://pvz-2-api.vercel.app/api/plants/[
                   <span className="text-orange-500">plant_name</span>]
                 </p>
               </div>
               <div className="bg-gray-200">
                 <CopyToClipboard
-                  text="https://pvz2-website.vercel.app/api/plants/[plant_name]"
+                  text="https://pvz-2-api.vercel.app/api/plants/[plant_name]"
                   onCopy={(e) => {
                     console.log("Copied!");
                     notify();
@@ -193,8 +193,8 @@ const Docs: NextPage = () => {
             specific p
             <div>
               Example:{" "}
-              <a href="https://pvz2-website.vercel.app/api/plants/Aloe">
-                https://pvz2-website.vercel.app/api/plants/Aloe
+              <a href="https://pvz-2-api.vercel.app/api/plants/Aloe">
+                https://pvz-2-api.vercel.app/api/plants/Aloe
               </a>
             </div>
           </div>
@@ -212,12 +212,12 @@ const Docs: NextPage = () => {
             <div className="flex border flex-row max-w-lg my-4 rounded">
               <div className="p-1 w-full">
                 <p className="dark:opacity-80">
-                  https://pvz2-website.vercel.app/api/areas
+                  https://pvz-2-api.vercel.app/api/areas
                 </p>
               </div>
               <div className="bg-gray-200">
                 <CopyToClipboard
-                  text="https://pvz2-website.vercel.app/api/areas"
+                  text="https://pvz-2-api.vercel.app/api/areas"
                   onCopy={(e) => {
                     // console.log("Copied!");
                     notify();
@@ -246,13 +246,13 @@ const Docs: NextPage = () => {
             <div className="flex border flex-row max-w-lg my-4 rounded">
               <div className="p-1 w-full">
                 <p className="dark:opacity-80">
-                  https://pvz2-website.vercel.app/api/areas/[
+                  https://pvz-2-api.vercel.app/api/areas/[
                   <span className="text-orange-500">area_name</span>]
                 </p>
               </div>
               <div className="bg-gray-200">
                 <CopyToClipboard
-                  text="https://pvz2-website.vercel.app/api/areas/[area_name]"
+                  text="https://pvz-2-api.vercel.app/api/areas/[area_name]"
                   onCopy={(e) => {
                     console.log("Copied!");
                     notify();
@@ -274,8 +274,8 @@ const Docs: NextPage = () => {
             specific
             <div>
               Example:{" "}
-              <a href="https://pvz2-website.vercel.app/api/areas/Player's%20House">
-                https://pvz2-website.vercel.app/api/areas/Player's%20House
+              <a href="https://pvz-2-api.vercel.app/api/areas/Player's%20House">
+                https://pvz-2-api.vercel.app/api/areas/Player's%20House
               </a>
             </div>
           </div>
