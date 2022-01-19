@@ -5,7 +5,7 @@ const Api: NextPage = () => {
     <>
       <div className="bg-zinc-50 dark:bg-black ml-2">
         <div className="l" id="information ">
-          <h1 className="font-bold text-2xl my-4">Information</h1>
+          <h1 className="font-semibold text-2xl my-4">Information</h1>
           <p>
             This is a consumption-only API only the HTTP GET method is available
             on resources.
@@ -19,7 +19,7 @@ const Api: NextPage = () => {
           </p>
         </div>
         <div className="fair_use_policy">
-          <h1 className="font-bold text-2xl my-4">Fair Use Policy</h1>
+          <h1 className="font-semibold text-2xl my-4">Fair Use Policy</h1>
           <p>
             <span className="font-bold">PvZ API</span> is free and open to use.
             It is also very popular. Because of this, we ask every developer to
@@ -42,7 +42,12 @@ const Api: NextPage = () => {
           </ul>
         </div>
         <div id="plants">
-          <h1 className="font-bold text-2xl my-4">PLANTS-NAMES (endpoint)</h1>
+          <h1 className="font-semibold text-2xl my-4">
+            PLANTS-NAMES{" "}
+            <span className="text-gray-700 dark:text-gray-400 font-light">
+              (endpoint)
+            </span>
+          </h1>
           <p>
             Inorder to get the plants-names with the help of PVZ API use the
             below http-address
@@ -61,8 +66,11 @@ const Api: NextPage = () => {
           The above link returns a list of all plant's name in Plants vs Zombies
         </div>
         <div id="plant_info">
-          <h1 className="font-bold text-2xl my-4">
-            Plant Information (endpoint)
+          <h1 className="font-semibold text-2xl my-4">
+            Plant Information{" "}
+            <span className="text-gray-700 dark:text-gray-400 font-light">
+              (endpoint)
+            </span>
           </h1>
           <p>
             Inorder to get the specific plant-information with the help of PVZ
@@ -96,7 +104,12 @@ const Api: NextPage = () => {
           </pre>
         </div>
         <div id="areas">
-          <h1 className="font-bold text-2xl my-4">AREAS-NAMES (endpoint)</h1>
+          <h1 className="font-semibold text-2xl my-4">
+            AREAS-NAMES{" "}
+            <span className="text-gray-700 dark:text-gray-400 font-light">
+              (endpoint)
+            </span>
+          </h1>
           <p>
             Inorder to get the areas-names with the help of PVZ API use the
             below http-address
@@ -116,8 +129,11 @@ const Api: NextPage = () => {
           The above link returns a list of all area's name in Plants vs Zombies
         </div>
         <div id="area_info">
-          <h1 className="font-bold text-2xl my-4">
-            Area Information (endpoint)
+          <h1 className="font-semibold text-2xl my-4">
+            Area Information{" "}
+            <span className="text-gray-700 dark:text-gray-400 font-light">
+              (endpoint)
+            </span>
           </h1>
           <p>
             Inorder to get the specific area-information with the help of PVZ
