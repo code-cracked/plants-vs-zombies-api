@@ -29,7 +29,7 @@ const Api: NextPage = () => {
           <p>
             <span className="font-bold">PvZ API</span> is primarily an
             educational tool, and we will not tolerate denial of service attacks
-            preventing people from learning.
+            divventing people from learning.
           </p>
           <h1 className="my-2">Rules:</h1>
           <ul className="px-4">
@@ -56,9 +56,7 @@ const Api: NextPage = () => {
           <div className="flex box-border">
             <h5>https://pvz2-website.vercel.app/api/plants</h5>
             <CopyToClipboard text="https://pvz2-website.vercel.app/api/plants">
-              <button className="shadow-md   hover:shadow-md hover:animate-spin  h-6 w-6">
-                📋
-              </button>
+              <button className="hover:scale-105  h-6 w-6">📋</button>
             </CopyToClipboard>
           </div>
           The above link returns a list of all plant's name in Plants vs Zombies
@@ -78,9 +76,7 @@ const Api: NextPage = () => {
           <div className="flex box-border">
             <h5>https://pvz2-website.vercel.app/api/plants/[plant_name]</h5>
             <CopyToClipboard text="https://pvz2-website.vercel.app/api/plants/[plant_name]">
-              <button className="shadow-md   hover:shadow-md hover:animate-spin  h-6 w-6">
-                📋
-              </button>
+              <button className="hover:scale-105  h-6 w-6">📋</button>
             </CopyToClipboard>
           </div>
           <br></br>
@@ -94,7 +90,12 @@ const Api: NextPage = () => {
           </b>{" "}
           . Then the above link returns a json file of information about the
           specific plant .<br></br>
-          <pre>Example: https://pvz2-website.vercel.app/api/plants/Aloe</pre>
+          <div>
+            Example:{" "}
+            <a href="https://pvz2-website.vercel.app/api/plants/Aloe">
+              https://pvz2-website.vercel.app/api/plants/Aloe
+            </a>
+          </div>
         </div>
         <div id="areas">
           <h1 className="font-semibold text-2xl my-4">
@@ -111,9 +112,7 @@ const Api: NextPage = () => {
           <div className="flex box-border">
             <h5>https://pvz2-website.vercel.app/api/areas</h5>
             <CopyToClipboard text="https://pvz2-website.vercel.app/api/areas">
-              <button className="shadow-md   hover:shadow-md hover:animate-spin  h-6 w-6">
-                📋
-              </button>
+              <button className="hover:scale-105  h-6 w-6">📋</button>
             </CopyToClipboard>
           </div>
           <br></br>
@@ -134,9 +133,7 @@ const Api: NextPage = () => {
           <div className="flex box-border">
             <h5>https://pvz2-website.vercel.app/api/areas/[area_name]</h5>
             <CopyToClipboard text="https://pvz2-website.vercel.app/api/areas/[area_name]">
-              <button className="shadow-md   hover:shadow-md hover:animate-spin  h-6 w-6">
-                📋
-              </button>
+              <button className="hover:scale-105  h-6 w-6">📋</button>
             </CopyToClipboard>
           </div>
           <br></br>
@@ -150,9 +147,9 @@ const Api: NextPage = () => {
           </b>{" "}
           . Then the above link returns a json file of information about the
           specific area .<br></br>
-          <pre>
+          <div>
             Example: https://pvz2-website.vercel.app/api/areas/Player's%20House
-          </pre>
+          </div>
         </div>
       </div>
     </>

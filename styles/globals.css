@@ -14,6 +14,12 @@
     @apply dark:opacity-90;
     @apply scroll-smooth;
   }
+  a {
+    @apply text-blue-500;
+    @apply hover:text-blue-600;
+    @apply hover:underline;
+    @apply hover:underline-offset-1;
+  }
 }
 
 html,
@@ -25,7 +31,6 @@ body {
 }
 
 a {
-  color: inherit;
   text-decoration: none;
 }
 
