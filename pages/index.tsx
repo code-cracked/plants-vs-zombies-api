@@ -24,7 +24,7 @@ const Home: NextPage = () => {
       <div className="sticky top-0 h-14 bg-inherit">
         <nav className="mb-2  bg-opacity-80 flex flex-row justify-end h-full items-center">
           <Link href={"/docs"}>
-            <a className="h-full hover:bg-slate-900 hover:text-cyan-400 flex items-center px-8 hover:no-underline">
+            <a className="h-full hover:bg-neutral-200 hover:dark:bg-slate-900 hover:text-cyan-500 flex items-center px-8 hover:no-underline">
               Docs
             </a>
           </Link>
