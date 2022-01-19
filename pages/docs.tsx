@@ -1,32 +1,50 @@
 import type { NextPage } from "next";
 import { CopyToClipboard } from "react-copy-to-clipboard";
+import { toast, ToastContainer } from "react-toastify";
 const Docs: NextPage = () => {
   return (
     <div className="flex flex-wrap">
-      <div className="flex flex-col bg-gray-100 dark:bg-neutral-900  md:w-1/4 w-full px-4 py-6">
-        <ul>
+      <div className="flex flex-col bg-gray-100 dark:bg-neutral-900 md:min-w-fit md:w-1/4 w-full px-4 py-6">
+        <ul className="sticky top-10 w-fit">
           <li className="hover:border-l border-blue-600 hover:pl-2">
-            <a className="w-fit">Lorem ipsum, dolor</a>
+            <a className="w-full" href="#information">
+              Information
+            </a>
           </li>
           <li className="hover:border-l border-blue-600 hover:pl-2">
-            <a className="w-fit">Lorem ipsum, dolor</a>
+            <a className="w-full" href="#fair_use_policy">
+              Fair Use Policy
+            </a>
           </li>
-          <li className="hover:border-l border-blue-600 hover:pl-2">
-            <a className="w-fit">Lorem ipsum, dolor</a>
-          </li>
-          <li className="hover:border-l border-blue-600 hover:pl-2">
-            <a className="w-fit">Lorem ipsum, dolor</a>
-          </li>
-          <li className="hover:border-l border-blue-600 hover:pl-2">
-            <a className="w-fit">Lorem ipsum, dolor</a>
-          </li>
-          <li className="hover:border-l border-blue-600 hover:pl-2">
-            <a className="w-fit">Lorem ipsum, dolor</a>
+          <li>
+            <a href="#plants">Endpoints</a>
+            <ul className="pl-4">
+              <li className="hover:border-l border-blue-600 hover:pl-2">
+                <a className="w-full" href="#plants">
+                  Plants
+                </a>
+              </li>
+              <li className="hover:border-l border-blue-600 hover:pl-2">
+                <a className="w-full" href="#plant_info">
+                  Plant Data
+                </a>
+              </li>
+              <li className="hover:border-l border-blue-600 hover:pl-2">
+                <a className="w-full" href="#areas">
+                  Areas
+                </a>
+              </li>
+              <li className="hover:border-l border-blue-600 hover:pl-2">
+                <a className="w-full" href="#area_info">
+                  Area Data
+                </a>
+              </li>
+            </ul>
           </li>
         </ul>
       </div>
       <div className="md:w-3/4 px-4 w-full py-6 my-4">
-        <div className="l" id="information ">
+        <div className="my py-4 border-b" id="information">
           <h1 className="font-semibold text-2xl my-4">Information</h1>
           <p>
             This is a consumption-only API only the HTTP GET method is available
@@ -40,7 +58,7 @@ const Docs: NextPage = () => {
             frequency of requests to limit our hosting costs.
           </p>
         </div>
-        <div className="fair_use_policy">
+        <div className="my py-4 border-b" id="fair_use_policy">
           <h1 className="font-semibold text-2xl my-4">Fair Use Policy</h1>
           <p>
             <span className="font-bold">PvZ API</span> is free and open to use.
@@ -63,7 +81,7 @@ const Docs: NextPage = () => {
             </li>
           </ul>
         </div>
-        <div id="plants">
+        <div className="my py-4 border-b" id="plants">
           <h1 className="font-semibold text-2xl my-4">
             Plants{" "}
             <span className="text-gray-700 dark:text-gray-400 font-light">
@@ -74,19 +92,26 @@ const Docs: NextPage = () => {
             Inorder to get the plants-names with the help of PVZ API use the
             below http-address
           </p>
-          <div className="flex border flex-row max-w-lg my-4">
+          <div className="flex border flex-row max-w-lg my-4 rounded">
             <div className="p-1 w-full">
-              <p>https://pvz2-website.vercel.app/api/plants</p>
+              <p className="dark:opacity-80">
+                https://pvz2-website.vercel.app/api/plants
+              </p>
             </div>
             <div className="bg-gray-200">
-              <CopyToClipboard text="https://pvz2-website.vercel.app/api/plants">
+              <CopyToClipboard
+                text="https://pvz2-website.vercel.app/api/plants"
+                onCopy={(e) => {
+                  console.log("Copied!");
+                }}
+              >
                 <button className="hover:scale-105  h-full p-1">📋</button>
               </CopyToClipboard>
             </div>
           </div>
           The above link returns a list of all plant's name in Plants vs Zombies
         </div>
-        <div id="plant_info">
+        <div className="my py-4 border-b" id="plant_info">
           <h1 className="font-semibold text-2xl my-4">
             Plant Information{" "}
             <span className="text-gray-700 dark:text-gray-400 font-light">
@@ -97,24 +122,30 @@ const Docs: NextPage = () => {
             Inorder to get the specific plant-information with the help of PVZ
             API use the below http-address
           </p>
-          <div className="flex border flex-row max-w-lg my-4">
+          <div className="flex border flex-row max-w-lg my-4 rounded">
             <div className="p-1 w-full">
-              <p>https://pvz2-website.vercel.app/api/plants/[plant_name]</p>
+              <p className="dark:opacity-80">
+                https://pvz2-website.vercel.app/api/plants/[
+                <span className="text-orange-500">plant_name</span>]
+              </p>
             </div>
             <div className="bg-gray-200">
-              <CopyToClipboard text="https://pvz2-website.vercel.app/api/plants/[plant_name]">
+              <CopyToClipboard
+                text="https://pvz2-website.vercel.app/api/plants/[plant_name]"
+                onCopy={(e) => {
+                  console.log("Copied!");
+                }}
+              >
                 <button className="hover:scale-105  h-full p-1">📋</button>
               </CopyToClipboard>
             </div>
           </div>
           Replace{" "}
-          <b>
-            <i>plant_name</i>
-          </b>{" "}
+          <span className="rounded p-1 opacity-90 font-mono">plant_name</span>{" "}
           with{" "}
-          <b>
-            <i>Plant to be searched</i>
-          </b>{" "}
+          <span className="rounded p-1 opacity-90 font-mono">
+            Plant to be searched
+          </span>{" "}
           . Then the above link returns a json file of information about the
           specific p
           <div>
@@ -124,7 +155,7 @@ const Docs: NextPage = () => {
             </a>
           </div>
         </div>
-        <div id="areas">
+        <div className="my py-4 border-b" id="areas">
           <h1 className="font-semibold text-2xl my-4">
             Areas{" "}
             <span className="text-gray-700 dark:text-gray-400 font-light">
@@ -135,19 +166,26 @@ const Docs: NextPage = () => {
             Inorder to get the areas-names with the help of PVZ API use the
             below http-address
           </p>
-          <div className="flex border flex-row max-w-lg my-4">
+          <div className="flex border flex-row max-w-lg my-4 rounded">
             <div className="p-1 w-full">
-              <p>https://pvz2-website.vercel.app/api/areas</p>
+              <p className="dark:opacity-80">
+                https://pvz2-website.vercel.app/api/areas
+              </p>
             </div>
             <div className="bg-gray-200">
-              <CopyToClipboard text="https://pvz2-website.vercel.app/api/areas">
+              <CopyToClipboard
+                text="https://pvz2-website.vercel.app/api/areas"
+                onCopy={(e) => {
+                  console.log("Copied!");
+                }}
+              >
                 <button className="hover:scale-105  h-full p-1">📋</button>
               </CopyToClipboard>
             </div>
           </div>
           The above link returns a list of all area's name in Plants vs Zombies
         </div>
-        <div id="area_info">
+        <div className="my py-4 border-b" id="area_info">
           <h1 className="font-semibold text-2xl my-4">
             Area Information{" "}
             <span className="text-gray-700 dark:text-gray-400 font-light">
@@ -158,30 +196,42 @@ const Docs: NextPage = () => {
             Inorder to get the specific area-information with the help of PVZ
             API use the below http-address
           </p>
-          <div className="flex border flex-row max-w-lg my-4">
+          <div className="flex border flex-row max-w-lg my-4 rounded">
             <div className="p-1 w-full">
-              <p>https://pvz2-website.vercel.app/api/areas/[area_name]</p>
+              <p className="dark:opacity-80">
+                https://pvz2-website.vercel.app/api/areas/[
+                <span className="text-orange-500">area_name</span>]
+              </p>
             </div>
             <div className="bg-gray-200">
-              <CopyToClipboard text="https://pvz2-website.vercel.app/api/areas/[area_name]">
+              <CopyToClipboard
+                text="https://pvz2-website.vercel.app/api/areas/[area_name]"
+                onCopy={(e) => {
+                  console.log("Copied!");
+                }}
+              >
                 <button className="hover:scale-105  h-full p-1">📋</button>
               </CopyToClipboard>
             </div>
           </div>
           Replace{" "}
-          <b>
-            <i>plant_name</i>
-          </b>{" "}
+          <span className="rounded p-1 opacity-90 font-mono">area_name</span>{" "}
           with{" "}
-          <b>
-            <i>Plant to be searched</i>
-          </b>{" "}
+          <span className="rounded p-1 opacity-90 font-mono">
+            Area to be searched
+          </span>{" "}
           . Then the above link returns a json file of information about the
           specific
           <div>
-            Example: https://pvz2-website.vercel.app/api/areas/Player's%20House
+            Example:{" "}
+            <a href="https://pvz2-website.vercel.app/api/areas/Player's%20House">
+              https://pvz2-website.vercel.app/api/areas/Player's%20House
+            </a>
           </div>
         </div>
+      </div>
+      <div>
+        <ToastContainer theme="colored" />
       </div>
     </div>
   );
