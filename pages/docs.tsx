@@ -1,3 +1,4 @@
+import { GitHub } from "@material-ui/icons";
 import type { NextPage } from "next";
 import { CopyToClipboard } from "react-copy-to-clipboard";
 import { toast } from "react-toastify";
@@ -242,6 +243,15 @@ const Docs: NextPage = () => {
               https://pvz2-website.vercel.app/api/areas/Player's%20House
             </a>
           </div>
+        </div>
+        <div>
+          <h1 className="font-semibold text-2xl my-4">Found bugs?</h1>
+          <a>
+            <button className="bg-gray-300 dark:bg-[rgb(20,20,20)] rounded p-1 border border-neutral-500 text-black dark:text-white">
+              Create an issue on GitHub!
+              <GitHub className="mx-2" />
+            </button>
+          </a>
         </div>
       </div>
     </div>

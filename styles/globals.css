@@ -23,6 +23,9 @@
     @apply hover:underline;
     @apply hover:underline-offset-1;
   }
+  p {
+    @apply my-2;
+  }
 }
 
 html,

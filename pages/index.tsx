@@ -20,6 +20,9 @@ const Home: NextPage = () => {
         <meta property="twitter:image" content="/assets/twttr_banner.png" />
         <meta name="revisit-after" content="1 days" />
       </Head>
+      <div>
+        <nav>Docs</nav>
+      </div>
       <div
         className="bg-gray-50 dark:bg-slate-900 h-screen w-full flex justify-center flex-col items-center"
         id="home-search"
