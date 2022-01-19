@@ -1,7 +1,17 @@
 import type { NextPage } from "next";
 import { CopyToClipboard } from "react-copy-to-clipboard";
-import { toast, ToastContainer } from "react-toastify";
+import { toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
+toast.configure();
 const Docs: NextPage = () => {
+  const notify = () => {
+    toast.success("Copied!", {
+      position: toast.POSITION.BOTTOM_RIGHT,
+      autoClose: 2500,
+      className: "bg-green-500",
+      theme: "colored",
+    });
+  };
   return (
     <div className="flex flex-wrap">
       <div className="flex flex-col bg-gray-100 dark:bg-neutral-900 md:min-w-fit md:w-1/4 w-full px-4 py-6">
@@ -103,6 +113,7 @@ const Docs: NextPage = () => {
                 text="https://pvz2-website.vercel.app/api/plants"
                 onCopy={(e) => {
                   console.log("Copied!");
+                  notify();
                 }}
               >
                 <button className="hover:scale-105  h-full p-1">📋</button>
@@ -134,6 +145,7 @@ const Docs: NextPage = () => {
                 text="https://pvz2-website.vercel.app/api/plants/[plant_name]"
                 onCopy={(e) => {
                   console.log("Copied!");
+                  notify();
                 }}
               >
                 <button className="hover:scale-105  h-full p-1">📋</button>
@@ -177,6 +189,7 @@ const Docs: NextPage = () => {
                 text="https://pvz2-website.vercel.app/api/areas"
                 onCopy={(e) => {
                   console.log("Copied!");
+                  notify();
                 }}
               >
                 <button className="hover:scale-105  h-full p-1">📋</button>
@@ -208,6 +221,7 @@ const Docs: NextPage = () => {
                 text="https://pvz2-website.vercel.app/api/areas/[area_name]"
                 onCopy={(e) => {
                   console.log("Copied!");
+                  notify();
                 }}
               >
                 <button className="hover:scale-105  h-full p-1">📋</button>
@@ -229,9 +243,6 @@ const Docs: NextPage = () => {
             </a>
           </div>
         </div>
-      </div>
-      <div>
-        <ToastContainer theme="colored" />
       </div>
     </div>
   );
