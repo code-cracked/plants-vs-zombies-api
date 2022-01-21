@@ -15,6 +15,7 @@ const Home: NextPage = () => {
           name="description"
           content="One stop destination for all your Plants vs Zombies needs with a user-friendly experience!"
         />
+        <meta name="keywords" content="Plants vs Zombies API" />
         <link rel="icon" href="/favicon.ico" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <meta property="og:image" content="/assets/header_image.png" />
