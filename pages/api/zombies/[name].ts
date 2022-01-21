@@ -14,14 +14,14 @@ export default function userHandler(
     query: { name },
     method,
   } = req;
-  const zoombies = require("../../../data/zoombies.json");
+  const zombies = require("../../../data/zombies.json");
 
   switch (method) {
     case "GET":
       //GET data from database
-      let x = zoombies.data;
+      let x = zombies.data;
       if (!x[name]) {
-        res.status(404).end("No such zoombie exists");
+        res.status(404).end("No such zombie exists");
       } else {
         res.status(200).json(x[name]);
       }
