@@ -6,7 +6,7 @@
       "speed": "Basic",
       "stamina": "Regular Garden-variety zombie.",
       "description": "Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.Regular Garden-variety zombie.Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.",
-      "image": "/assets/zoombies/basic zombie.png"
+      "image": "/assets/zombies/basic zombie.png"
     },
     "conehead zombie": {
       "name": "conehead zombie",
@@ -14,7 +14,7 @@
       "speed": "Basic",
       "stamina": "His traffic cone headpiece makes him twice as tough as normal zombies.",
       "description": "After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.His traffic cone headpiece makes him twice as tough as normal zombies.After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.",
-      "image": "/assets/zoombies/conehead zombie.png"
+      "image": "/assets/zombies/conehead zombie.png"
     },
     "buckethead zombie": {
       "name": "buckethead zombie",
@@ -22,7 +22,7 @@
       "speed": "Basic",
       "stamina": "His bucket hat makes him extremely resistant to damage.",
       "description": "There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.His bucket hat makes him extremely resistant to damage.There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.",
-      "image": "/assets/zoombies/buckethead zombie.png"
+      "image": "/assets/zombies/buckethead zombie.png"
     },
     "flag zombie": {
       "name": "flag zombie",
@@ -30,7 +30,7 @@
       "speed": "Basic",
       "stamina": "His flag marks the arrival of a huge pile or \"wave\" of zombies.",
       "description": "A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.His flag marks the arrival of a huge pile or \"wave\" of zombies.A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.",
-      "image": "/assets/zoombies/flag zombie.png"
+      "image": "/assets/zombies/flag zombie.png"
     },
     "mummy zombie": {
       "name": "mummy zombie",
@@ -38,7 +38,7 @@
       "speed": "Basic",
       "stamina": "Regular Garden-variety zombie.",
       "description": "Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.Regular Garden-variety zombie.Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.",
-      "image": "/assets/zoombies/mummy zombie.png"
+      "image": "/assets/zombies/mummy zombie.png"
     },
     "conehead mummy": {
       "name": "conehead mummy",
@@ -46,7 +46,7 @@
       "speed": "Basic",
       "stamina": "His traffic cone headpiece makes him twice as tough as normal zombies.",
       "description": "After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.His traffic cone headpiece makes him twice as tough as normal zombies.After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.",
-      "image": "/assets/zoombies/conehead mummy.png"
+      "image": "/assets/zombies/conehead mummy.png"
     },
     "buckethead mummy": {
       "name": "buckethead mummy",
@@ -54,7 +54,7 @@
       "speed": "Basic",
       "stamina": "His bucket hat makes him extremely resistant to damage.",
       "description": "There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.His bucket hat makes him extremely resistant to damage.There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.",
-      "image": "/assets/zoombies/buckethead mummy.png"
+      "image": "/assets/zombies/buckethead mummy.png"
     },
     "flag mummy zombie": {
       "name": "flag mummy zombie",
@@ -62,7 +62,7 @@
       "speed": "Basic",
       "stamina": "His flag marks the arrival of a huge pile or \"wave\" of zombies.",
       "description": "A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.His flag marks the arrival of a huge pile or \"wave\" of zombies.A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.",
-      "image": "/assets/zoombies/flag mummy zombie.png"
+      "image": "/assets/zombies/flag mummy zombie.png"
     },
     "pyramid-head zombie": {
       "name": "pyramid-head zombie",
@@ -70,7 +70,7 @@
       "speed": "Basic",
       "stamina": "Brickhead Zombie's brick head provides thorough brickheaded brickheadness.",
       "description": "After consultation with various storybook wolves, it was determined that straw helmets and wood helmets were not up to snuff, and that brick helmets had to be seriously considered.Brickhead Zombie's brick head provides thorough brickheaded brickheadness.After consultation with various storybook wolves, it was determined that straw helmets and wood helmets were not up to snuff, and that brick helmets had to be seriously considered.",
-      "image": "/assets/zoombies/pyramid-head zombie.png"
+      "image": "/assets/zombies/pyramid-head zombie.png"
     },
     "egypt rally zombie": {
       "name": "egypt rally zombie",
@@ -78,7 +78,7 @@
       "speed": "Speedy",
       "stamina": "Rally Zombie and his flag marks the arrival of a large clot or \"pile\" of zombies.",
       "description": "Rally Zombie splurged on the all-leather flag because, heck, he's worth it.Rally Zombie and his flag marks the arrival of a large clot or \"pile\" of zombies.Rally Zombie splurged on the all-leather flag because, heck, he's worth it.",
-      "image": "/assets/zoombies/egypt rally zombie.png"
+      "image": "/assets/zombies/egypt rally zombie.png"
     },
     "imp mummy": {
       "name": "imp mummy",
@@ -86,7 +86,7 @@
       "speed": "Hungry",
       "stamina": "Is hurled onto the lawn past your defenses, then shuffles ahead.",
       "description": "What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him.Is hurled onto the lawn past your defenses, then shuffles ahead.What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him.",
-      "image": "/assets/zoombies/imp mummy.png"
+      "image": "/assets/zombies/imp mummy.png"
     },
     "pirate zombie": {
       "name": "pirate zombie",
@@ -94,7 +94,7 @@
       "speed": "Basic",
       "stamina": "Regular Garden-variety zombie.",
       "description": "Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.Regular Garden-variety zombie.Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.",
-      "image": "/assets/zoombies/pirate zombie.png"
+      "image": "/assets/zombies/pirate zombie.png"
     },
     "conehead pirate": {
       "name": "conehead pirate",
@@ -102,7 +102,7 @@
       "speed": "Basic",
       "stamina": "His traffic cone headpiece makes him twice as tough as normal zombies.",
       "description": "After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.His traffic cone headpiece makes him twice as tough as normal zombies.After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.",
-      "image": "/assets/zoombies/conehead pirate.png"
+      "image": "/assets/zombies/conehead pirate.png"
     },
     "buckethead pirate": {
       "name": "buckethead pirate",
@@ -110,7 +110,7 @@
       "speed": "Basic",
       "stamina": "His bucket hat makes him extremely resistant to damage.",
       "description": "There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.His bucket hat makes him extremely resistant to damage.There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.",
-      "image": "/assets/zoombies/buckethead pirate.png"
+      "image": "/assets/zombies/buckethead pirate.png"
     },
     "flag pirate zombie": {
       "name": "flag pirate zombie",
@@ -118,7 +118,7 @@
       "speed": "Basic",
       "stamina": "His flag marks the arrival of a huge pile or \"wave\" of zombies.",
       "description": "A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.His flag marks the arrival of a huge pile or \"wave\" of zombies.A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.",
-      "image": "/assets/zoombies/flag pirate zombie.png"
+      "image": "/assets/zombies/flag pirate zombie.png"
     },
     "barrelhead zombie": {
       "name": "barrelhead zombie",
@@ -126,7 +126,7 @@
       "speed": "Basic",
       "stamina": "Brickhead Zombie's brick head provides thorough brickheaded brickheadness.",
       "description": "After consultation with various storybook wolves, it was determined that straw helmets and wood helmets were not up to snuff, and that brick helmets had to be seriously considered.Brickhead Zombie's brick head provides thorough brickheaded brickheadness.After consultation with various storybook wolves, it was determined that straw helmets and wood helmets were not up to snuff, and that brick helmets had to be seriously considered.",
-      "image": "/assets/zoombies/barrelhead zombie.png"
+      "image": "/assets/zombies/barrelhead zombie.png"
     },
     "jolly roger zombie": {
       "name": "jolly roger zombie",
@@ -134,7 +134,7 @@
       "speed": "Speedy",
       "stamina": "Rally Zombie and his flag marks the arrival of a large clot or \"pile\" of zombies.",
       "description": "Rally Zombie splurged on the all-leather flag because, heck, he's worth it.Rally Zombie and his flag marks the arrival of a large clot or \"pile\" of zombies.Rally Zombie splurged on the all-leather flag because, heck, he's worth it.",
-      "image": "/assets/zoombies/jolly roger zombie.png"
+      "image": "/assets/zombies/jolly roger zombie.png"
     },
     "imp pirate zombie": {
       "name": "imp pirate zombie",
@@ -142,7 +142,7 @@
       "speed": "Hungry",
       "stamina": "Is hurled onto the lawn past your defenses, then shuffles ahead.",
       "description": "What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him.Is hurled onto the lawn past your defenses, then shuffles ahead.What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him.",
-      "image": "/assets/zoombies/imp pirate zombie.png"
+      "image": "/assets/zombies/imp pirate zombie.png"
     },
     "cowboy zombie": {
       "name": "cowboy zombie",
@@ -150,7 +150,7 @@
       "speed": "Basic",
       "stamina": "Regular Garden-variety zombie.",
       "description": "Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.Regular Garden-variety zombie.Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.",
-      "image": "/assets/zoombies/cowboy zombie.png"
+      "image": "/assets/zombies/cowboy zombie.png"
     },
     "conehead cowboy": {
       "name": "conehead cowboy",
@@ -158,7 +158,7 @@
       "speed": "Basic",
       "stamina": "His traffic cone headpiece makes him twice as tough as normal zombies.",
       "description": "After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.His traffic cone headpiece makes him twice as tough as normal zombies.After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.",
-      "image": "/assets/zoombies/conehead cowboy.png"
+      "image": "/assets/zombies/conehead cowboy.png"
     },
     "buckethead cowboy": {
       "name": "buckethead cowboy",
@@ -166,7 +166,7 @@
       "speed": "Basic",
       "stamina": "His bucket hat makes him extremely resistant to damage.",
       "description": "There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.His bucket hat makes him extremely resistant to damage.There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.",
-      "image": "/assets/zoombies/buckethead cowboy.png"
+      "image": "/assets/zombies/buckethead cowboy.png"
     },
     "flag cowboy zombie": {
       "name": "flag cowboy zombie",
@@ -174,7 +174,7 @@
       "speed": "Basic",
       "stamina": "His flag marks the arrival of a huge pile or \"wave\" of zombies.",
       "description": "A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.His flag marks the arrival of a huge pile or \"wave\" of zombies.A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.",
-      "image": "/assets/zoombies/flag cowboy zombie.png"
+      "image": "/assets/zombies/flag cowboy zombie.png"
     },
     "cart-head zombie": {
       "name": "cart-head zombie",
@@ -182,7 +182,7 @@
       "speed": "Basic",
       "stamina": "Brickhead Zombie's brick head provides thorough brickheaded brickheadness.",
       "description": "After consultation with various storybook wolves, it was determined that straw helmets and wood helmets were not up to snuff, and that brick helmets had to be seriously considered.Brickhead Zombie's brick head provides thorough brickheaded brickheadness.After consultation with various storybook wolves, it was determined that straw helmets and wood helmets were not up to snuff, and that brick helmets had to be seriously considered.",
-      "image": "/assets/zoombies/cart-head zombie.png"
+      "image": "/assets/zombies/cart-head zombie.png"
     },
     "cowboy rally zombie": {
       "name": "cowboy rally zombie",
@@ -190,7 +190,7 @@
       "speed": "Speedy",
       "stamina": "Rally Zombie and his flag marks the arrival of a large clot or \"pile\" of zombies.",
       "description": "Rally Zombie splurged on the all-leather flag because, heck, he's worth it.Rally Zombie and his flag marks the arrival of a large clot or \"pile\" of zombies.Rally Zombie splurged on the all-leather flag because, heck, he's worth it.",
-      "image": "/assets/zoombies/cowboy rally zombie.png"
+      "image": "/assets/zombies/cowboy rally zombie.png"
     },
     "zombie bull rider": {
       "name": "zombie bull rider",
@@ -198,7 +198,7 @@
       "speed": "Hungry",
       "stamina": "Is hurled onto the lawn past your defenses, then shuffles ahead.",
       "description": "What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him.Is hurled onto the lawn past your defenses, then shuffles ahead.What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him.",
-      "image": "/assets/zoombies/zombie bull rider.png"
+      "image": "/assets/zombies/zombie bull rider.png"
     },
     "cave zombie": {
       "name": "cave zombie",
@@ -206,7 +206,7 @@
       "speed": "Basic",
       "stamina": "Regular Garden-variety zombie.",
       "description": "Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.Regular Garden-variety zombie.Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.",
-      "image": "/assets/zoombies/cave zombie.png"
+      "image": "/assets/zombies/cave zombie.png"
     },
     "cave conehead zombie": {
       "name": "cave conehead zombie",
@@ -214,7 +214,7 @@
       "speed": "Basic",
       "stamina": "His traffic cone headpiece makes him twice as tough as normal zombies.",
       "description": "After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.His traffic cone headpiece makes him twice as tough as normal zombies.After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.",
-      "image": "/assets/zoombies/cave conehead zombie.png"
+      "image": "/assets/zombies/cave conehead zombie.png"
     },
     "cave buckethead zombie": {
       "name": "cave buckethead zombie",
@@ -222,7 +222,7 @@
       "speed": "Basic",
       "stamina": "His bucket hat makes him extremely resistant to damage.",
       "description": "There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.His bucket hat makes him extremely resistant to damage.There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.",
-      "image": "/assets/zoombies/cave buckethead zombie.png"
+      "image": "/assets/zombies/cave buckethead zombie.png"
     },
     "cave flag zombie": {
       "name": "cave flag zombie",
@@ -230,7 +230,7 @@
       "speed": "Basic",
       "stamina": "His flag marks the arrival of a huge pile or \"wave\" of zombies.",
       "description": "A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.His flag marks the arrival of a huge pile or \"wave\" of zombies.A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.",
-      "image": "/assets/zoombies/cave flag zombie.png"
+      "image": "/assets/zombies/cave flag zombie.png"
     },
     "adventurer zombie": {
       "name": "adventurer zombie",
@@ -238,7 +238,7 @@
       "speed": "Basic",
       "stamina": "Regular Garden-variety zombie.",
       "description": "Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.Regular Garden-variety zombie.Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.",
-      "image": "/assets/zoombies/adventurer zombie.png"
+      "image": "/assets/zombies/adventurer zombie.png"
     },
     "conehead adventurer zombie": {
       "name": "conehead adventurer zombie",
@@ -246,7 +246,7 @@
       "speed": "Basic",
       "stamina": "His traffic cone headpiece makes him twice as tough as normal zombies.",
       "description": "After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.His traffic cone headpiece makes him twice as tough as normal zombies.After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.",
-      "image": "/assets/zoombies/conehead adventurer zombie.png"
+      "image": "/assets/zombies/conehead adventurer zombie.png"
     },
     "buckethead adventurer zombie": {
       "name": "buckethead adventurer zombie",
@@ -254,7 +254,7 @@
       "speed": "Basic",
       "stamina": "His bucket hat makes him extremely resistant to damage.",
       "description": "There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.His bucket hat makes him extremely resistant to damage.There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.",
-      "image": "/assets/zoombies/buckethead adventurer zombie.png"
+      "image": "/assets/zombies/buckethead adventurer zombie.png"
     },
     "flag adventurer zombie": {
       "name": "flag adventurer zombie",
@@ -262,7 +262,7 @@
       "speed": "Basic",
       "stamina": "His flag marks the arrival of a huge pile or \"wave\" of zombies.",
       "description": "A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.His flag marks the arrival of a huge pile or \"wave\" of zombies.A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.",
-      "image": "/assets/zoombies/flag adventurer zombie.png"
+      "image": "/assets/zombies/flag adventurer zombie.png"
     },
     "lost city imp zombie": {
       "name": "lost city imp zombie",
@@ -270,7 +270,7 @@
       "speed": "Hungry",
       "stamina": "Is hurled onto the lawn past your defenses, then shuffles ahead.",
       "description": "What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him.Is hurled onto the lawn past your defenses, then shuffles ahead.What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him.",
-      "image": "/assets/zoombies/lost city imp zombie.png"
+      "image": "/assets/zombies/lost city imp zombie.png"
     },
     "future zombie": {
       "name": "future zombie",
@@ -278,7 +278,7 @@
       "speed": "Basic",
       "stamina": "Regular Garden-variety zombie.",
       "description": "Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.Regular Garden-variety zombie.Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.",
-      "image": "/assets/zoombies/future zombie.png"
+      "image": "/assets/zombies/future zombie.png"
     },
     "future conehead zombie": {
       "name": "future conehead zombie",
@@ -286,7 +286,7 @@
       "speed": "Basic",
       "stamina": "His traffic cone headpiece makes him twice as tough as normal zombies.",
       "description": "After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.His traffic cone headpiece makes him twice as tough as normal zombies.After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.",
-      "image": "/assets/zoombies/future conehead zombie.png"
+      "image": "/assets/zombies/future conehead zombie.png"
     },
     "future buckethead zombie": {
       "name": "future buckethead zombie",
@@ -294,7 +294,7 @@
       "speed": "Basic",
       "stamina": "His bucket hat makes him extremely resistant to damage.",
       "description": "There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.His bucket hat makes him extremely resistant to damage.There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.",
-      "image": "/assets/zoombies/future buckethead zombie.png"
+      "image": "/assets/zombies/future buckethead zombie.png"
     },
     "future flag zombie": {
       "name": "future flag zombie",
@@ -302,7 +302,7 @@
       "speed": "Basic",
       "stamina": "His flag marks the arrival of a huge pile or \"wave\" of zombies.",
       "description": "A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.His flag marks the arrival of a huge pile or \"wave\" of zombies.A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.",
-      "image": "/assets/zoombies/future flag zombie.png"
+      "image": "/assets/zombies/future flag zombie.png"
     },
     "jetpack zombie": {
       "name": "jetpack zombie",
@@ -310,7 +310,7 @@
       "speed": "Speedy",
       "stamina": "Boosts to float over all but the tallest plant barriers.",
       "description": "Boosts to float over all but the tallest plant barriers.TOUGHNESSSolid",
-      "image": "/assets/zoombies/jetpack zombie.png"
+      "image": "/assets/zombies/jetpack zombie.png"
     },
     "disco jetpack zombie": {
       "name": "disco jetpack zombie",
@@ -318,7 +318,7 @@
       "speed": "Speedy",
       "stamina": "Boosts to float over all but the tallest plant barriers.",
       "description": "Boosts to float over all but the tallest plant barriers.TOUGHNESSSolid",
-      "image": "/assets/zoombies/disco jetpack zombie.png"
+      "image": "/assets/zombies/disco jetpack zombie.png"
     },
     "holo head zombie": {
       "name": "holo head zombie",
@@ -326,7 +326,7 @@
       "speed": "Basic",
       "stamina": "Brickhead Zombie's brick head provides thorough brickheaded brickheadness.",
       "description": "After consultation with various storybook wolves, it was determined that straw helmets and wood helmets were not up to snuff, and that brick helmets had to be seriously considered.Brickhead Zombie's brick head provides thorough brickheaded brickheadness.After consultation with various storybook wolves, it was determined that straw helmets and wood helmets were not up to snuff, and that brick helmets had to be seriously considered.",
-      "image": "/assets/zoombies/holo head zombie.png"
+      "image": "/assets/zombies/holo head zombie.png"
     },
     "robo-rally zombie": {
       "name": "robo-rally zombie",
@@ -334,7 +334,7 @@
       "speed": "Speedy",
       "stamina": "Rally Zombie and his flag marks the arrival of a large clot or \"pile\" of zombies.",
       "description": "Rally Zombie splurged on the all-leather flag because, heck, he's worth it.Rally Zombie and his flag marks the arrival of a large clot or \"pile\" of zombies.Rally Zombie splurged on the all-leather flag because, heck, he's worth it.",
-      "image": "/assets/zoombies/robo-rally zombie.png"
+      "image": "/assets/zombies/robo-rally zombie.png"
     },
     "conehead peasant": {
       "name": "conehead peasant",
@@ -342,7 +342,7 @@
       "speed": "Basic",
       "stamina": "His traffic cone headpiece makes him twice as tough as normal zombies.",
       "description": "After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.His traffic cone headpiece makes him twice as tough as normal zombies.After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.",
-      "image": "/assets/zoombies/conehead peasant.png"
+      "image": "/assets/zombies/conehead peasant.png"
     },
     "buckethead peasant": {
       "name": "buckethead peasant",
@@ -350,7 +350,7 @@
       "speed": "Basic",
       "stamina": "His bucket hat makes him extremely resistant to damage.",
       "description": "There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.His bucket hat makes him extremely resistant to damage.There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.",
-      "image": "/assets/zoombies/buckethead peasant.png"
+      "image": "/assets/zombies/buckethead peasant.png"
     },
     "peasant flag zombie": {
       "name": "peasant flag zombie",
@@ -358,7 +358,7 @@
       "speed": "Basic",
       "stamina": "His flag marks the arrival of a huge pile or \"wave\" of zombies.",
       "description": "A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.His flag marks the arrival of a huge pile or \"wave\" of zombies.A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.",
-      "image": "/assets/zoombies/peasant flag zombie.png"
+      "image": "/assets/zombies/peasant flag zombie.png"
     },
     "imp monk zombie": {
       "name": "imp monk zombie",
@@ -366,7 +366,7 @@
       "speed": "Hungry",
       "stamina": "Is hurled onto the lawn past your defenses, then shuffles ahead.",
       "description": "What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him.Is hurled onto the lawn past your defenses, then shuffles ahead.What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him.",
-      "image": "/assets/zoombies/imp monk zombie.png"
+      "image": "/assets/zombies/imp monk zombie.png"
     },
     "neon zombie": {
       "name": "neon zombie",
@@ -374,7 +374,7 @@
       "speed": "Basic",
       "stamina": "Regular Garden-variety zombie.",
       "description": "Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.Regular Garden-variety zombie.Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.",
-      "image": "/assets/zoombies/neon zombie.png"
+      "image": "/assets/zombies/neon zombie.png"
     },
     "neon conehead": {
       "name": "neon conehead",
@@ -382,7 +382,7 @@
       "speed": "Basic",
       "stamina": "His traffic cone headpiece makes him twice as tough as normal zombies.",
       "description": "After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.His traffic cone headpiece makes him twice as tough as normal zombies.After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.",
-      "image": "/assets/zoombies/neon conehead.png"
+      "image": "/assets/zombies/neon conehead.png"
     },
     "neon buckethead": {
       "name": "neon buckethead",
@@ -390,7 +390,7 @@
       "speed": "Basic",
       "stamina": "His bucket hat makes him extremely resistant to damage.",
       "description": "There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.His bucket hat makes him extremely resistant to damage.There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.",
-      "image": "/assets/zoombies/neon buckethead.png"
+      "image": "/assets/zombies/neon buckethead.png"
     },
     "neon flag zombie": {
       "name": "neon flag zombie",
@@ -398,7 +398,7 @@
       "speed": "Basic",
       "stamina": "His flag marks the arrival of a huge pile or \"wave\" of zombies.",
       "description": "A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.His flag marks the arrival of a huge pile or \"wave\" of zombies.A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.",
-      "image": "/assets/zoombies/neon flag zombie.png"
+      "image": "/assets/zombies/neon flag zombie.png"
     },
     "impunk": {
       "name": "impunk",
@@ -406,7 +406,7 @@
       "speed": "Hungry",
       "stamina": "Is hurled onto the lawn past your defenses, then shuffles ahead.",
       "description": "What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him.Is hurled onto the lawn past your defenses, then shuffles ahead.What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him.",
-      "image": "/assets/zoombies/impunk.png"
+      "image": "/assets/zombies/impunk.png"
     },
     "jurassic zombie": {
       "name": "jurassic zombie",
@@ -414,7 +414,7 @@
       "speed": "Basic",
       "stamina": "Regular Garden-variety zombie.",
       "description": "Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.Regular Garden-variety zombie.Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.",
-      "image": "/assets/zoombies/jurassic zombie.png"
+      "image": "/assets/zombies/jurassic zombie.png"
     },
     "jurassic conehead": {
       "name": "jurassic conehead",
@@ -422,7 +422,7 @@
       "speed": "Basic",
       "stamina": "His traffic cone headpiece makes him twice as tough as normal zombies.",
       "description": "After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.His traffic cone headpiece makes him twice as tough as normal zombies.After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.",
-      "image": "/assets/zoombies/jurassic conehead.png"
+      "image": "/assets/zombies/jurassic conehead.png"
     },
     "jurassic buckethead": {
       "name": "jurassic buckethead",
@@ -430,7 +430,7 @@
       "speed": "Basic",
       "stamina": "His bucket hat makes him extremely resistant to damage.",
       "description": "There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.His bucket hat makes him extremely resistant to damage.There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.",
-      "image": "/assets/zoombies/jurassic buckethead.png"
+      "image": "/assets/zombies/jurassic buckethead.png"
     },
     "jurassic flag zombie": {
       "name": "jurassic flag zombie",
@@ -438,7 +438,7 @@
       "speed": "Basic",
       "stamina": "His flag marks the arrival of a huge pile or \"wave\" of zombies.",
       "description": "A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.His flag marks the arrival of a huge pile or \"wave\" of zombies.A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.",
-      "image": "/assets/zoombies/jurassic flag zombie.png"
+      "image": "/assets/zombies/jurassic flag zombie.png"
     },
     "amberhead zombie": {
       "name": "amberhead zombie",
@@ -446,7 +446,7 @@
       "speed": "Basic",
       "stamina": "Brickhead Zombie's brick head provides thorough brickheaded brickheadness.",
       "description": "After consultation with various storybook wolves, it was determined that straw helmets and wood helmets were not up to snuff, and that brick helmets had to be seriously considered.Brickhead Zombie's brick head provides thorough brickheaded brickheadness.After consultation with various storybook wolves, it was determined that straw helmets and wood helmets were not up to snuff, and that brick helmets had to be seriously considered.",
-      "image": "/assets/zoombies/amberhead zombie.png"
+      "image": "/assets/zombies/amberhead zombie.png"
     },
     "jurassic rally zombie": {
       "name": "jurassic rally zombie",
@@ -454,7 +454,7 @@
       "speed": "Speedy",
       "stamina": "Rally Zombie and his flag marks the arrival of a large clot or \"pile\" of zombies.",
       "description": "Rally Zombie splurged on the all-leather flag because, heck, he's worth it.Rally Zombie and his flag marks the arrival of a large clot or \"pile\" of zombies.Rally Zombie splurged on the all-leather flag because, heck, he's worth it.",
-      "image": "/assets/zoombies/jurassic rally zombie.png"
+      "image": "/assets/zombies/jurassic rally zombie.png"
     },
     "pompadour zombie": {
       "name": "pompadour zombie",
@@ -462,7 +462,7 @@
       "speed": "Basic",
       "stamina": "Regular Garden-variety zombie.",
       "description": "Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.Regular Garden-variety zombie.Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.",
-      "image": "/assets/zoombies/pompadour zombie.png"
+      "image": "/assets/zombies/pompadour zombie.png"
     },
     "beach flag zombie": {
       "name": "beach flag zombie",
@@ -470,7 +470,7 @@
       "speed": "Basic",
       "stamina": "His flag marks the arrival of a huge pile or \"wave\" of zombies.",
       "description": "A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.His flag marks the arrival of a huge pile or \"wave\" of zombies.A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.",
-      "image": "/assets/zoombies/beach flag zombie.png"
+      "image": "/assets/zombies/beach flag zombie.png"
     },
     "bikini zombie": {
       "name": "bikini zombie",
@@ -478,7 +478,7 @@
       "speed": "Basic",
       "stamina": "Regular Garden-variety zombie.",
       "description": "Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.Regular Garden-variety zombie.Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.",
-      "image": "/assets/zoombies/bikini zombie.png"
+      "image": "/assets/zombies/bikini zombie.png"
     },
     "bikini conehead": {
       "name": "bikini conehead",
@@ -486,7 +486,7 @@
       "speed": "Basic",
       "stamina": "His traffic cone headpiece makes him twice as tough as normal zombies.",
       "description": "After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.His traffic cone headpiece makes him twice as tough as normal zombies.After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.",
-      "image": "/assets/zoombies/bikini conehead.png"
+      "image": "/assets/zombies/bikini conehead.png"
     },
     "bikini buckethead": {
       "name": "bikini buckethead",
@@ -494,7 +494,7 @@
       "speed": "Basic",
       "stamina": "His bucket hat makes him extremely resistant to damage.",
       "description": "There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.His bucket hat makes him extremely resistant to damage.There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.",
-      "image": "/assets/zoombies/bikini buckethead.png"
+      "image": "/assets/zombies/bikini buckethead.png"
     },
     "imp mermaid zombie": {
       "name": "imp mermaid zombie",
@@ -502,7 +502,7 @@
       "speed": "Hungry",
       "stamina": "Is hurled onto the lawn past your defenses, then shuffles ahead.",
       "description": "What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him.Is hurled onto the lawn past your defenses, then shuffles ahead.What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him.",
-      "image": "/assets/zoombies/imp mermaid zombie.png"
+      "image": "/assets/zombies/imp mermaid zombie.png"
     },
     "brickhead zombie": {
       "name": "brickhead zombie",
@@ -510,7 +510,7 @@
       "speed": "Basic",
       "stamina": "Brickhead Zombie's brick head provides thorough brickheaded brickheadness.",
       "description": "After consultation with various storybook wolves, it was determined that straw helmets and wood helmets were not up to snuff, and that brick helmets had to be seriously considered.Brickhead Zombie's brick head provides thorough brickheaded brickheadness.After consultation with various storybook wolves, it was determined that straw helmets and wood helmets were not up to snuff, and that brick helmets had to be seriously considered.",
-      "image": "/assets/zoombies/brickhead zombie.png"
+      "image": "/assets/zombies/brickhead zombie.png"
     },
     "rally zombie": {
       "name": "rally zombie",
@@ -518,7 +518,7 @@
       "speed": "Speedy",
       "stamina": "Rally Zombie and his flag marks the arrival of a large clot or \"pile\" of zombies.",
       "description": "Rally Zombie splurged on the all-leather flag because, heck, he's worth it.Rally Zombie and his flag marks the arrival of a large clot or \"pile\" of zombies.Rally Zombie splurged on the all-leather flag because, heck, he's worth it.",
-      "image": "/assets/zoombies/rally zombie.png"
+      "image": "/assets/zombies/rally zombie.png"
     },
     "roman zombie": {
       "name": "roman zombie",
@@ -526,7 +526,7 @@
       "speed": "Basic",
       "stamina": "Regular Garden-variety zombie.",
       "description": "Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.Regular Garden-variety zombie.Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.",
-      "image": "/assets/zoombies/roman zombie.png"
+      "image": "/assets/zombies/roman zombie.png"
     },
     "roman conehead": {
       "name": "roman conehead",
@@ -534,7 +534,7 @@
       "speed": "Basic",
       "stamina": "His traffic cone headpiece makes him twice as tough as normal zombies.",
       "description": "After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.His traffic cone headpiece makes him twice as tough as normal zombies.After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.",
-      "image": "/assets/zoombies/roman conehead.png"
+      "image": "/assets/zombies/roman conehead.png"
     },
     "roman buckethead": {
       "name": "roman buckethead",
@@ -542,7 +542,7 @@
       "speed": "Basic",
       "stamina": "His bucket hat makes him extremely resistant to damage.",
       "description": "There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.His bucket hat makes him extremely resistant to damage.There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.",
-      "image": "/assets/zoombies/roman buckethead.png"
+      "image": "/assets/zombies/roman buckethead.png"
     },
     "roman flag zombie": {
       "name": "roman flag zombie",
@@ -550,7 +550,7 @@
       "speed": "Basic",
       "stamina": "His flag marks the arrival of a huge pile or \"wave\" of zombies.",
       "description": "A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.His flag marks the arrival of a huge pile or \"wave\" of zombies.A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.",
-      "image": "/assets/zoombies/roman flag zombie.png"
+      "image": "/assets/zombies/roman flag zombie.png"
     },
     "bust head zombie": {
       "name": "bust head zombie",
@@ -558,7 +558,7 @@
       "speed": "Basic",
       "stamina": "Brickhead Zombie's brick head provides thorough brickheaded brickheadness.",
       "description": "After consultation with various storybook wolves, it was determined that straw helmets and wood helmets were not up to snuff, and that brick helmets had to be seriously considered.Brickhead Zombie's brick head provides thorough brickheaded brickheadness.After consultation with various storybook wolves, it was determined that straw helmets and wood helmets were not up to snuff, and that brick helmets had to be seriously considered.",
-      "image": "/assets/zoombies/bust head zombie.png"
+      "image": "/assets/zombies/bust head zombie.png"
     },
     "zcorp new hire": {
       "name": "zcorp new hire",
@@ -566,7 +566,7 @@
       "speed": "Basic",
       "stamina": "Regular Garden-variety zombie.",
       "description": "Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.Regular Garden-variety zombie.Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.",
-      "image": "/assets/zoombies/zcorp new hire.png"
+      "image": "/assets/zombies/zcorp new hire.png"
     },
     "zcorp conehead": {
       "name": "zcorp conehead",
@@ -574,7 +574,7 @@
       "speed": "Basic",
       "stamina": "His traffic cone headpiece makes him twice as tough as normal zombies.",
       "description": "After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.His traffic cone headpiece makes him twice as tough as normal zombies.After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.",
-      "image": "/assets/zoombies/zcorp conehead.png"
+      "image": "/assets/zombies/zcorp conehead.png"
     },
     "zcorp buckethead": {
       "name": "zcorp buckethead",
@@ -582,7 +582,7 @@
       "speed": "Basic",
       "stamina": "His bucket hat makes him extremely resistant to damage.",
       "description": "There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.His bucket hat makes him extremely resistant to damage.There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.",
-      "image": "/assets/zoombies/zcorp buckethead.png"
+      "image": "/assets/zombies/zcorp buckethead.png"
     },
     "zcorp flag zombie": {
       "name": "zcorp flag zombie",
@@ -590,7 +590,7 @@
       "speed": "Basic",
       "stamina": "His flag marks the arrival of a huge pile or \"wave\" of zombies.",
       "description": "A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.His flag marks the arrival of a huge pile or \"wave\" of zombies.A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.",
-      "image": "/assets/zoombies/zcorp flag zombie.png"
+      "image": "/assets/zombies/zcorp flag zombie.png"
     },
     "zcorp contractor": {
       "name": "zcorp contractor",
@@ -598,7 +598,7 @@
       "speed": "Basic",
       "stamina": "Regular Garden-variety zombie.",
       "description": "Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.Regular Garden-variety zombie.Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.",
-      "image": "/assets/zoombies/zcorp contractor.png"
+      "image": "/assets/zombies/zcorp contractor.png"
     },
     "zcorp contractor conehead": {
       "name": "zcorp contractor conehead",
@@ -606,7 +606,7 @@
       "speed": "Basic",
       "stamina": "His traffic cone headpiece makes him twice as tough as normal zombies.",
       "description": "After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.His traffic cone headpiece makes him twice as tough as normal zombies.After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.",
-      "image": "/assets/zoombies/zcorp contractor conehead.png"
+      "image": "/assets/zombies/zcorp contractor conehead.png"
     },
     "zcorp contractor buckethead": {
       "name": "zcorp contractor buckethead",
@@ -614,7 +614,7 @@
       "speed": "Basic",
       "stamina": "His bucket hat makes him extremely resistant to damage.",
       "description": "There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.His bucket hat makes him extremely resistant to damage.There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.",
-      "image": "/assets/zoombies/zcorp contractor buckethead.png"
+      "image": "/assets/zombies/zcorp contractor buckethead.png"
     },
     "carnie zombie": {
       "name": "carnie zombie",
@@ -622,7 +622,7 @@
       "speed": "Basic",
       "stamina": "Regular Garden-variety zombie.",
       "description": "Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.Regular Garden-variety zombie.Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.",
-      "image": "/assets/zoombies/carnie zombie.png"
+      "image": "/assets/zombies/carnie zombie.png"
     },
     "carnie conehead": {
       "name": "carnie conehead",
@@ -630,7 +630,7 @@
       "speed": "Basic",
       "stamina": "His traffic cone headpiece makes him twice as tough as normal zombies.",
       "description": "After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.His traffic cone headpiece makes him twice as tough as normal zombies.After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.",
-      "image": "/assets/zoombies/carnie conehead.png"
+      "image": "/assets/zombies/carnie conehead.png"
     },
     "carnie buckethead": {
       "name": "carnie buckethead",
@@ -638,7 +638,7 @@
       "speed": "Basic",
       "stamina": "His bucket hat makes him extremely resistant to damage.",
       "description": "There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.His bucket hat makes him extremely resistant to damage.There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.",
-      "image": "/assets/zoombies/carnie buckethead.png"
+      "image": "/assets/zombies/carnie buckethead.png"
     },
     "carnie flag zombie": {
       "name": "carnie flag zombie",
@@ -646,7 +646,7 @@
       "speed": "Basic",
       "stamina": "His flag marks the arrival of a huge pile or \"wave\" of zombies.",
       "description": "A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.His flag marks the arrival of a huge pile or \"wave\" of zombies.A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.",
-      "image": "/assets/zoombies/carnie flag zombie.png"
+      "image": "/assets/zombies/carnie flag zombie.png"
     },
     "carnie imp split": {
       "name": "carnie imp split",
@@ -654,7 +654,7 @@
       "speed": "Hungry",
       "stamina": "Is hurled onto the lawn past your defenses, then shuffles ahead.",
       "description": "What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him.Is hurled onto the lawn past your defenses, then shuffles ahead.What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him.",
-      "image": "/assets/zoombies/carnie imp split.png"
+      "image": "/assets/zombies/carnie imp split.png"
     },
     "strongman gargantuar": {
       "name": "strongman gargantuar",
@@ -662,7 +662,7 @@
       "speed": "Hungry",
       "stamina": "Gargantuar really is kind of a big deal.",
       "description": "Gargantuar really is kind of a big deal.TOUGHNESSGreat",
-      "image": "/assets/zoombies/strongman gargantuar.png"
+      "image": "/assets/zombies/strongman gargantuar.png"
     },
     "imp pear imp": {
       "name": "imp pear imp",
@@ -670,7 +670,7 @@
       "speed": "Hungry",
       "stamina": "Is hurled onto the lawn past your defenses, then shuffles ahead.",
       "description": "What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him.Is hurled onto the lawn past your defenses, then shuffles ahead.What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him.",
-      "image": "/assets/zoombies/imp pear imp.png"
+      "image": "/assets/zombies/imp pear imp.png"
     },
     "ra zombie": {
       "name": "ra zombie",
@@ -678,7 +678,7 @@
       "speed": "Basic",
       "special": "tries to steal sun",
       "description": "Ra Zombie isn't actually named after the Sun God Ra, though that's a common mistake. He just likes to say Ra a lot.. Tries to steal sun, just for safe keeping.. ",
-      "image": "/assets/zoombies/ra zombie.png"
+      "image": "/assets/zombies/ra zombie.png"
     },
     "camel zombies": {
       "name": "camel zombies",
@@ -686,7 +686,7 @@
       "speed": "Creeper",
       "special": "arrives in a group of three zombies or more",
       "description": "Arrives in step with other Camel Zombies.. ",
-      "image": "/assets/zoombies/camel zombies.png"
+      "image": "/assets/zombies/camel zombies.png"
     },
     "explorer zombie": {
       "name": "explorer zombie",
@@ -694,7 +694,7 @@
       "speed": "Hungry",
       "damage": "cold attacks extinguish torch",
       "description": "torch destroys a plant on contact. Carries a torch that can instantly destroy your plants.. ",
-      "image": "/assets/zoombies/explorer zombie.png"
+      "image": "/assets/zombies/explorer zombie.png"
     },
     "tomb raiser zombie": {
       "name": "tomb raiser zombie",
@@ -702,7 +702,7 @@
       "speed": "Basic",
       "special": "creates tombstones on the lawn",
       "description": "Throws out bones to create tombstones.. ",
-      "image": "/assets/zoombies/tomb raiser zombie.png"
+      "image": "/assets/zombies/tomb raiser zombie.png"
     },
     "pharaoh zombie": {
       "name": "pharaoh zombie",
@@ -710,14 +710,14 @@
       "speed": "Basic",
       "speed details": "moves like a hungry zombie once free",
       "description": "The second cousin once removed of King Rot, he rose to power with his disappearing sarcophagus act, but met his untimely end in an unfortunate goat accident. His tale is told in great detail on the back of his sarcophagus, which no one will ever see.. His sarcophagus greatly protects him but slows down a rather fast zombie.. ",
-      "image": "/assets/zoombies/pharaoh zombie.png"
+      "image": "/assets/zombies/pharaoh zombie.png"
     },
     "torchlight zombie": {
       "name": "torchlight zombie",
       "toughness": "Protected",
       "speed": "Flighty",
       "description": "Carries a torch that instantly destroys plants and scorches the earth.",
-      "image": "/assets/zoombies/torchlight zombie.png"
+      "image": "/assets/zombies/torchlight zombie.png"
     },
     "zombot sphinx-inator": {
       "name": "zombot sphinx-inator",
@@ -725,7 +725,7 @@
       "speed": "Hungry",
       "special": "missile attack can create tombstones",
       "description": "The destroyer of plants from the ancient sands.. ",
-      "image": "/assets/zoombies/zombot sphinx-inator.png"
+      "image": "/assets/zombies/zombot sphinx-inator.png"
     },
     "swashbuckler zombie": {
       "name": "swashbuckler zombie",
@@ -733,7 +733,7 @@
       "speed": "Basic",
       "special": "lands four tiles into your lawn",
       "description": "Swings in on a rope to lane midway onto your lawn.. ",
-      "image": "/assets/zoombies/swashbuckler zombie.png"
+      "image": "/assets/zombies/swashbuckler zombie.png"
     },
     "seagull zombie": {
       "name": "seagull zombie",
@@ -741,7 +741,7 @@
       "speed": "Speedy",
       "special": "iceberg lettuce",
       "description": "spikeweed.  and . passes over low plants like . Crosses watery gaps without a plank and flies over low plants.. ",
-      "image": "/assets/zoombies/seagull zombie.png"
+      "image": "/assets/zombies/seagull zombie.png"
     },
     "barrel roller zombie": {
       "name": "barrel roller zombie",
@@ -749,7 +749,7 @@
       "speed": "Basic",
       "damage": "imps thrown from barrel when destroyed",
       "description": "crushes plants with barrel. His rolling barrel crushes plants and provides excellent protection.. ",
-      "image": "/assets/zoombies/barrel roller zombie.png"
+      "image": "/assets/zombies/barrel roller zombie.png"
     },
     "pirate captain zombie": {
       "name": "pirate captain zombie",
@@ -757,7 +757,7 @@
       "speed": "Stiff",
       "special": "parrot pet steals plants",
       "description": "His parrot can fly away with your plant and then return to him.. ",
-      "image": "/assets/zoombies/pirate captain zombie.png"
+      "image": "/assets/zombies/pirate captain zombie.png"
     },
     "zombie parrot": {
       "name": "zombie parrot",
@@ -765,7 +765,7 @@
       "speed": "Flighty",
       "special": "can fly to plants in other lanes to take them away",
       "description": "Quickly flies from the Captain to carry away a plant.. ",
-      "image": "/assets/zoombies/zombie parrot.png"
+      "image": "/assets/zombies/zombie parrot.png"
     },
     "pelican zombie": {
       "name": "pelican zombie",
@@ -773,7 +773,7 @@
       "speed": "Flighty",
       "special": "floats over low plants",
       "description": "Pelican Zombie crosses water without a plank and flies over low plants.. ",
-      "image": "/assets/zoombies/pelican zombie.png"
+      "image": "/assets/zombies/pelican zombie.png"
     },
     "zombot plank walker": {
       "name": "zombot plank walker",
@@ -781,7 +781,7 @@
       "speed": "Hungry",
       "special": "cannon can rain down imps past your defenses",
       "description": "The plant plundering privateer of the high seas.. ",
-      "image": "/assets/zoombies/zombot plank walker.png"
+      "image": "/assets/zombies/zombot plank walker.png"
     },
     "prospector zombie": {
       "name": "prospector zombie",
@@ -789,7 +789,7 @@
       "speed": "Stiff",
       "special": "appears on the left side of your lawn when dynamite explodes",
       "description": "There once was a zombie who got old, spending all his day looking for gold. 'Til one day in the rain, he finally ate the brains\u2026 and, wait, where's his other shoe?. Launches over your defenses when his fuse blows down.. ",
-      "image": "/assets/zoombies/prospector zombie.png"
+      "image": "/assets/zombies/prospector zombie.png"
     },
     "pianist zombie": {
       "name": "pianist zombie",
@@ -798,7 +798,7 @@
       "special": "causes cowboy zombies to switch lanes",
       "damage": "crushes plants with piano",
       "description": "Pianist Zombie only knows two songs, and they're both groaners.. His rolling piano crushes plants while his music causes dancing zombies to switch lanes.. ",
-      "image": "/assets/zoombies/pianist zombie.png"
+      "image": "/assets/zombies/pianist zombie.png"
     },
     "poncho zombie": {
       "name": "poncho zombie",
@@ -806,7 +806,7 @@
       "speed": "Basic",
       "special": "randomly wears a protective metal grate",
       "description": "Sometimes has a hidden armored plate.. ",
-      "image": "/assets/zoombies/poncho zombie.png"
+      "image": "/assets/zombies/poncho zombie.png"
     },
     "chicken wrangler zombie": {
       "name": "chicken wrangler zombie",
@@ -814,14 +814,14 @@
       "speed": "Hungry",
       "special": "summons zombie chickens when damaged",
       "description": "After publishing the fourth study on Ornithology, and four years of research at the Hadron Collider, Chicken Wrangler Zombie has finally solved the riddle of what came first.. Releases a flock of chickens once his baling wire is broken.. ",
-      "image": "/assets/zoombies/chicken wrangler zombie.png"
+      "image": "/assets/zombies/chicken wrangler zombie.png"
     },
     "zombie chicken": {
       "name": "zombie chicken",
       "toughness": "Fragile",
       "speed": "Flighty",
       "description": "Once released onto the lawn chickens run at full speed to peck at your brains.",
-      "image": "/assets/zoombies/zombie chicken.png"
+      "image": "/assets/zombies/zombie chicken.png"
     },
     "zombie bull": {
       "name": "zombie bull",
@@ -829,14 +829,14 @@
       "speed": "Stiff",
       "special": "Tall-nut blocks flying imp",
       "description": "launches a low flying imp rider over plants. Can launch his zombie rider past most of your defenses.. ",
-      "image": "/assets/zoombies/zombie bull.png"
+      "image": "/assets/zombies/zombie bull.png"
     },
     "rodeo legend zombie": {
       "name": "rodeo legend zombie",
       "toughness": "Hardened",
       "speed": "Hungry",
       "description": "Rodeo Legend Zombie smashes a plant and launches his zombie rider past most of your defenses.",
-      "image": "/assets/zoombies/rodeo legend zombie.png"
+      "image": "/assets/zombies/rodeo legend zombie.png"
     },
     "zombot war wagon": {
       "name": "zombot war wagon",
@@ -844,28 +844,28 @@
       "speed": "Hungry",
       "special": "fires four missiles instead of one",
       "description": "missile attacks can target mine carts. The stagecoach of destruction from the western wilds.. ",
-      "image": "/assets/zoombies/zombot war wagon.png"
+      "image": "/assets/zombies/zombot war wagon.png"
     },
     "blockhead zombie": {
       "name": "blockhead zombie",
       "toughness": "Machined",
       "speed": "Basic",
       "description": "The ice block on his head provides amazing protection from damage.",
-      "image": "/assets/zoombies/blockhead zombie.png"
+      "image": "/assets/zombies/blockhead zombie.png"
     },
     "hunter zombie": {
       "name": "hunter zombie",
       "toughness": "Dense",
       "speed": "Creeper",
       "description": "Zombie that can throw snow balls at range to cool down plants until they freeze into blocks.",
-      "image": "/assets/zoombies/hunter zombie.png"
+      "image": "/assets/zombies/hunter zombie.png"
     },
     "dodo rider zombie": {
       "name": "dodo rider zombie",
       "toughness": "Protected",
       "speed": "Speedy",
       "description": "Dodo bird with an imp rider. The dodo can flap and jump over barricades as well as troublesome plants.",
-      "image": "/assets/zoombies/dodo rider zombie.png"
+      "image": "/assets/zombies/dodo rider zombie.png"
     },
     "troglobite": {
       "name": "troglobite",
@@ -873,7 +873,7 @@
       "speed": "Basic",
       "damage": "crushes plants with frozen blocks",
       "description": "Strong zombie that can push blocks of ice across the lawn.. ",
-      "image": "/assets/zoombies/troglobite.png"
+      "image": "/assets/zombies/troglobite.png"
     },
     "weasel hoarder": {
       "name": "weasel hoarder",
@@ -881,28 +881,28 @@
       "speed": "Basic",
       "special": "Releases zombie ice weasels when damaged",
       "description": "Weasel Hoarder claims she's the one who wrote the song Pop! Goes the Weasel. And for eons now, she's been demanding royalties for it. But everyone just ignores her. They know what Weasel Hoarder can't even carry a tune, much less write a catchy ditty about the sound of vermin make when hugged a bit too tightly.. Zombie hiding in a log with a pack of snow weasels. Weasels are released when her log is shattered.. ",
-      "image": "/assets/zoombies/weasel hoarder.png"
+      "image": "/assets/zombies/weasel hoarder.png"
     },
     "ice weasel": {
       "name": "ice weasel",
       "toughness": "Fragile",
       "speed": "Flighty",
       "description": "Once released, weasels run full speed even over ice floes to nibble your brains.",
-      "image": "/assets/zoombies/ice weasel.png"
+      "image": "/assets/zombies/ice weasel.png"
     },
     "zombot tuskmaster 10,000 bc": {
       "name": "zombot tuskmaster 10,000 bc",
       "toughness": "Undying",
       "speed": "Hungry",
       "description": "dr. zomboss was real impressed with himself when he came up with the idea to build a weaponized woolly mammoth with the power to blast snow and ice out of its mechanical trunk. but what dr. zomboss didn't realize until it was too late he's allergic to mammoth fur. now he has to load up on allergy medication every time he wants to take the darn thing out for a spin. The mammoth mech with an ice blast from the past.",
-      "image": "/assets/zoombies/zombot tuskmaster 10,000 bc.png"
+      "image": "/assets/zombies/zombot tuskmaster 10,000 bc.png"
     },
     "lost pilot zombie": {
       "name": "lost pilot zombie",
       "toughness": "Protected",
       "speed": "Basic",
       "description": "Drops in past defenses.",
-      "image": "/assets/zoombies/lost pilot zombie.png"
+      "image": "/assets/zombies/lost pilot zombie.png"
     },
     "excavator zombie": {
       "name": "excavator zombie",
@@ -910,35 +910,35 @@
       "speed": "Speedy",
       "damage": "blocks incoming projectiles, but is vulnerable to lobbed shots",
       "description": "Digs up plants and throws them behind him.. ",
-      "image": "/assets/zoombies/excavator zombie.png"
+      "image": "/assets/zombies/excavator zombie.png"
     },
     "parasol zombie": {
       "name": "parasol zombie",
       "toughness": "Protected",
       "speed": "Hungry",
       "description": "Her parasol provides protection from lobbed projectiles.",
-      "image": "/assets/zoombies/parasol zombie.png"
+      "image": "/assets/zombies/parasol zombie.png"
     },
     "bug zombie": {
       "name": "bug zombie",
       "toughness": "Solid",
       "speed": "Speedy",
       "description": "Bug carries zombie in over ground defenses and lifts him over barriers.",
-      "image": "/assets/zoombies/bug zombie.png"
+      "image": "/assets/zombies/bug zombie.png"
     },
     "imp porter": {
       "name": "imp porter",
       "toughness": "Protected",
       "speed": "Basic",
       "description": "Drops pack on Gold Tile; pack becomes tent from which zombies emerge.",
-      "image": "/assets/zoombies/imp porter.png"
+      "image": "/assets/zombies/imp porter.png"
     },
     "relic hunter zombie": {
       "name": "relic hunter zombie",
       "toughness": "Dense",
       "speed": "Stiff",
       "description": "Swings in past defenses.",
-      "image": "/assets/zoombies/relic hunter zombie.png"
+      "image": "/assets/zombies/relic hunter zombie.png"
     },
     "turquoise skull zombie": {
       "name": "turquoise skull zombie",
@@ -946,7 +946,7 @@
       "speed": "Basic",
       "damage": " stolen sun cannot be retrieved",
       "description": "beam range is increased when more sun is stolen. tries to steal sun. destroys one plant on the 4 tiles in front of him after attempting to steal sun. Uses skull to steal sun, then unleashes energy in a destructive beam.. ",
-      "image": "/assets/zoombies/turquoise skull zombie.png"
+      "image": "/assets/zombies/turquoise skull zombie.png"
     },
     "zombot aerostatic gondola": {
       "name": "zombot aerostatic gondola",
@@ -954,7 +954,7 @@
       "speed": "Hungry",
       "special": "drops zombies and bags o' sand",
       "description": "The floating fortress from the skies above.. ",
-      "image": "/assets/zoombies/zombot aerostatic gondola.png"
+      "image": "/assets/zombies/zombot aerostatic gondola.png"
     },
     "mecha-football zombie": {
       "name": "mecha-football zombie",
@@ -962,7 +962,7 @@
       "speed": "Basic",
       "special": "pushes plants left instead of eating",
       "description": "Pushes plants across the lawn.. ",
-      "image": "/assets/zoombies/mecha-football zombie.png"
+      "image": "/assets/zombies/mecha-football zombie.png"
     },
     "disco-tron 3000": {
       "name": "disco-tron 3000",
@@ -970,14 +970,14 @@
       "speed": "Basic",
       "special": "summons Disco Jetpack Zombies",
       "description": "After some initial problems with the sideburn suspension system, the Disco-tron 3000 went on to become the shufflin' dance-bot of doom it is today.. Drops in disco zombies when dropping the beat.. ",
-      "image": "/assets/zoombies/disco-tron 3000.png"
+      "image": "/assets/zombies/disco-tron 3000.png"
     },
     "robo-cone zombie": {
       "name": "robo-cone zombie",
       "toughness": "Machined",
       "speed": "Stiff",
       "description": "The armor-plated cone offers phenomenal protection for its pilot.",
-      "image": "/assets/zoombies/robo-cone zombie.png"
+      "image": "/assets/zombies/robo-cone zombie.png"
     },
     "shield zombie": {
       "name": "shield zombie",
@@ -985,7 +985,7 @@
       "speed": "Basic",
       "special": "creates a shield to protect from incoming attacks",
       "description": "Shield Zombie developed his system using funds from a BiteStarter campaign. The push goal for pushing plants was not met.. Protect himself and nearby zombies with a force field.. ",
-      "image": "/assets/zoombies/shield zombie.png"
+      "image": "/assets/zombies/shield zombie.png"
     },
     "blastronaut zombie": {
       "name": "blastronaut zombie",
@@ -993,14 +993,14 @@
       "speed": "Flighty",
       "special": "tall blocking plants",
       "description": "floats over low plants, boosts over most other plants. Blastronaut Zombie boosts to float over all but the tallest plants.. ",
-      "image": "/assets/zoombies/blastronaut zombie.png"
+      "image": "/assets/zombies/blastronaut zombie.png"
     },
     "bug bot imp": {
       "name": "bug bot imp",
       "toughness": "Average",
       "speed": "Hungry",
       "description": "Lands on the lawn past your defenses, then hops forward.",
-      "image": "/assets/zoombies/bug bot imp.png"
+      "image": "/assets/zombies/bug bot imp.png"
     },
     "gargantuar prime": {
       "name": "gargantuar prime",
@@ -1009,7 +1009,7 @@
       "damage": "launches Bug Bot when damaged",
       "special": "has it all heavy armor, laser eyes, smashing arms, and bug bot deployment system.randomly burns tiles with laser eyes",
       "description": "crushes plants with arms. ",
-      "image": "/assets/zoombies/gargantuar prime.png"
+      "image": "/assets/zombies/gargantuar prime.png"
     },
     "zombot tomorrow-tron": {
       "name": "zombot tomorrow-tron",
@@ -1017,28 +1017,28 @@
       "speed": "Hungry",
       "special": "missile attacks can destroy Power Tiles",
       "description": "The Power Tile crushing creation from the Far Future.. ",
-      "image": "/assets/zoombies/zombot tomorrow-tron.png"
+      "image": "/assets/zombies/zombot tomorrow-tron.png"
     },
     "knight zombie": {
       "name": "knight zombie",
       "toughness": "Machined",
       "speed": "Basic",
       "description": "His king appointed helm provides amazing protection from damage.",
-      "image": "/assets/zoombies/knight zombie.png"
+      "image": "/assets/zombies/knight zombie.png"
     },
     "jester zombie": {
       "name": "jester zombie",
       "toughness": "Protected",
       "speed": "Basic",
       "description": "Returns projectiles that are shot at him.",
-      "image": "/assets/zoombies/jester zombie.png"
+      "image": "/assets/zombies/jester zombie.png"
     },
     "wizard zombie": {
       "name": "wizard zombie",
       "toughness": "Dense",
       "speed": "Creeper",
       "description": "Transforms plants into passive sheep.",
-      "image": "/assets/zoombies/wizard zombie.png"
+      "image": "/assets/zombies/wizard zombie.png"
     },
     "imp dragon zombie": {
       "name": "imp dragon zombie",
@@ -1046,7 +1046,7 @@
       "speed": "Basic",
       "special": "Immune to fire damage",
       "description": "Spit past most your defenses, then claws forward.. ",
-      "image": "/assets/zoombies/imp dragon zombie.png"
+      "image": "/assets/zombies/imp dragon zombie.png"
     },
     "zombot dark dragon": {
       "name": "zombot dark dragon",
@@ -1054,7 +1054,7 @@
       "speed": "Hungry",
       "damage": "lobbed fireballs can hatch Imp Dragon Zombies",
       "description": "fire breathing attacks destroy plants. The desolator of all, from dark times.. ",
-      "image": "/assets/zoombies/zombot dark dragon.png"
+      "image": "/assets/zombies/zombot dark dragon.png"
     },
     "punk zombie": {
       "name": "punk zombie",
@@ -1062,7 +1062,7 @@
       "speed": "Hungry",
       "weakness": "Magnet Shrooms",
       "description": " pull off his head. Moshes plants back a space when his jam is playing.. ",
-      "image": "/assets/zoombies/punk zombie.png"
+      "image": "/assets/zombies/punk zombie.png"
     },
     "mc zom-b": {
       "name": "mc zom-b",
@@ -1070,21 +1070,21 @@
       "speed": "Hungry",
       "damage": "destroys plants in a 3x3 area",
       "description": "Spins microphone to damage nearby plants when he's dropping his sick, sick rhymes.. ",
-      "image": "/assets/zoombies/mc zom-b.png"
+      "image": "/assets/zombies/mc zom-b.png"
     },
     "breakdancer zombie": {
       "name": "breakdancer zombie",
       "toughness": "Solid",
       "speed": "Hungry",
       "description": "Kicks zombies forward when transported by the power of rap.",
-      "image": "/assets/zoombies/breakdancer zombie.png"
+      "image": "/assets/zombies/breakdancer zombie.png"
     },
     "glitter zombie": {
       "name": "glitter zombie",
       "toughness": "Dense",
       "speed": "Basic",
       "description": "Trails glamorous rainbows that protect zombies behind her when she's feeling the beat.",
-      "image": "/assets/zoombies/glitter zombie.png"
+      "image": "/assets/zombies/glitter zombie.png"
     },
     "boombox zombie": {
       "name": "boombox zombie",
@@ -1092,7 +1092,7 @@
       "speed": "Basic",
       "special": "Boom box has no effect on ground plants and Phat Beets",
       "description": "Holds aloft a boom box that tranquilizes all plants with its heartfelt tunes.. ",
-      "image": "/assets/zoombies/boombox zombie.png"
+      "image": "/assets/zombies/boombox zombie.png"
     },
     "arcade zombie": {
       "name": "arcade zombie",
@@ -1100,14 +1100,14 @@
       "speed": "Hungry",
       "damage": "crushes plants with arcade machine",
       "description": "Pushes an arcade cabinet that spits out 8-Bit Zombies.. ",
-      "image": "/assets/zoombies/arcade zombie.png"
+      "image": "/assets/zombies/arcade zombie.png"
     },
     "8-bit zombie": {
       "name": "8-bit zombie",
       "toughness": "Average",
       "speed": "Basic",
       "description": "Pixelated zombie generated by super cool arcade machine. Comes in regular, cone, and bucket flavors.",
-      "image": "/assets/zoombies/8-bit zombie.png"
+      "image": "/assets/zombies/8-bit zombie.png"
     },
     "zombot multi-stage masher": {
       "name": "zombot multi-stage masher",
@@ -1115,14 +1115,14 @@
       "speed": "Hungry",
       "special": "Speakers do passive damage (except to ground plants and Phat Beet) and send out shockwave attacks",
       "description": "An intimate evening with some of Dr. Zomboss' most recent and painful explorations.. ",
-      "image": "/assets/zoombies/zombot multi-stage masher.png"
+      "image": "/assets/zombies/zombot multi-stage masher.png"
     },
     "jurassic fossilhead": {
       "name": "jurassic fossilhead",
       "toughness": "Machined",
       "speed": "Stiff",
       "description": "Fossil skulls not only provide a huge amount of damage absorption, but are also extremely classy.",
-      "image": "/assets/zoombies/jurassic fossilhead.png"
+      "image": "/assets/zombies/jurassic fossilhead.png"
     },
     "jurassic bully": {
       "name": "jurassic bully",
@@ -1130,7 +1130,7 @@
       "speed": "Stiff",
       "special": "immune to Primal Peashooter\u2019s knockback",
       "description": "Jurassic Bully is slow, stupid, and smells bad. But hey, at least he's punctual.. A trudging, damage-resistant zombie who is immune to Primal Peashooter's knockback.. ",
-      "image": "/assets/zoombies/jurassic bully.png"
+      "image": "/assets/zombies/jurassic bully.png"
     },
     "jurassic rockpuncher": {
       "name": "jurassic rockpuncher",
@@ -1138,14 +1138,14 @@
       "speed": "Stiff",
       "damage": "immune to Primal Peashooter\u2019s knockback",
       "description": "crushes plants with rocks tied to his hands. Jurassic Rockpuncher pummels plants with rocks tied to his hands.. ",
-      "image": "/assets/zoombies/jurassic rockpuncher.png"
+      "image": "/assets/zombies/jurassic rockpuncher.png"
     },
     "jurassic imp": {
       "name": "jurassic imp",
       "toughness": "Fragile",
       "speed": "Speedy",
       "description": "A weaker, smaller, much more vicious version of the typical Jurassic zombie.",
-      "image": "/assets/zoombies/jurassic imp.png"
+      "image": "/assets/zombies/jurassic imp.png"
     },
     "jurassic gargantuar": {
       "name": "jurassic gargantuar",
@@ -1154,7 +1154,7 @@
       "special": "launches Jurassic Imp when damaged",
       "damage": "crushes plants with bone",
       "description": "Jurassic Gargantuar wonders how there can be zombies millions of years before the advent of humanity. He doesn't let it get in the way of his plant-bashing, though.. Prehistoric provider of Mesozoic malarkey.. ",
-      "image": "/assets/zoombies/jurassic gargantuar.png"
+      "image": "/assets/zombies/jurassic gargantuar.png"
     },
     "zombot dinotronic mechasaur": {
       "name": "zombot dinotronic mechasaur",
@@ -1162,7 +1162,7 @@
       "speed": "Hungry",
       "special": "summons dinosaurs",
       "description": "A mechanical means of dinosaurian destruction.. ",
-      "image": "/assets/zoombies/zombot dinotronic mechasaur.png"
+      "image": "/assets/zombies/zombot dinotronic mechasaur.png"
     },
     "surfer zombie": {
       "name": "surfer zombie",
@@ -1170,7 +1170,7 @@
       "speed": "Flighty",
       "damage": "can crush a plant with his board",
       "description": "Surfs past plants on the water, then carries board on land.. ",
-      "image": "/assets/zoombies/surfer zombie.png"
+      "image": "/assets/zombies/surfer zombie.png"
     },
     "octo zombie": {
       "name": "octo zombie",
@@ -1178,7 +1178,7 @@
       "speed": "Creeper",
       "special": "bound plants are passive until their octopus is destroyed",
       "description": "Throws octopi at your plants to bind them up.. ",
-      "image": "/assets/zoombies/octo zombie.png"
+      "image": "/assets/zombies/octo zombie.png"
     },
     "zombot sharktronic sub": {
       "name": "zombot sharktronic sub",
@@ -1186,7 +1186,7 @@
       "speed": "Hungry",
       "special": "summoned zombie sharks can consume plants",
       "description": "mouth turbine can pull plants to it. The ravenous engine of carnage from the murky depths.. ",
-      "image": "/assets/zoombies/zombot sharktronic sub.png"
+      "image": "/assets/zombies/zombot sharktronic sub.png"
     },
     "all-star zombie": {
       "name": "all-star zombie",
@@ -1194,14 +1194,14 @@
       "speed": "Flighty",
       "damage": "slows down and becomes a stiff zombie after tackling a plant",
       "description": "charges like a flighty zombie upon entering the lawn and destroys the first plant he meets. A heavy-duty zombie who charges your defensive line.. ",
-      "image": "/assets/zoombies/all-star zombie.png"
+      "image": "/assets/zombies/all-star zombie.png"
     },
     "super-fan imp": {
       "name": "super-fan imp",
       "toughness": "Average",
       "speed": "Speedy",
       "description": "An all-too-enthusiastic imp who explodes with rah-rah-rah.",
-      "image": "/assets/zoombies/super-fan imp.png"
+      "image": "/assets/zombies/super-fan imp.png"
     },
     "sunday edition zombie": {
       "name": "sunday edition zombie",
@@ -1209,140 +1209,140 @@
       "speed": "Hungry",
       "special": "become a flighty zombie when enraged",
       "description": "The newspaper protects zombie, who becomes enraged when it is destroyed.. ",
-      "image": "/assets/zoombies/sunday edition zombie.png"
+      "image": "/assets/zombies/sunday edition zombie.png"
     },
     "centurion zombie": {
       "name": "centurion zombie",
       "toughness": "Machined",
       "speed": "Basic",
       "description": "A higher grade of Roman Zombie.",
-      "image": "/assets/zoombies/centurion zombie.png"
+      "image": "/assets/zombies/centurion zombie.png"
     },
     "healer zombie": {
       "name": "healer zombie",
       "toughness": "Dense",
       "speed": "Creeper",
       "description": "hot tip take this one out as fast as you can if you don't want your life turned into a pit of abject misery and despair. Uses weird Roman magic to heal zombies.. ",
-      "image": "/assets/zoombies/healer zombie.png"
+      "image": "/assets/zombies/healer zombie.png"
     },
     "roman shield zombie": {
       "name": "roman shield zombie",
       "toughness": "Protected",
       "speed": "Creeper",
       "description": "A dull-witted, unusually shy Roman zombie who's also carrying a shield.",
-      "image": "/assets/zoombies/roman shield zombie.png"
+      "image": "/assets/zombies/roman shield zombie.png"
     },
     "zcorpion zombie": {
       "name": "zcorpion zombie",
       "toughness": "Machined",
       "speed": "Basic",
       "description": "A ballista from Ancient Rome, the Zcorpion Zombie launches an exploding vase at the nearest plant in its lane.",
-      "image": "/assets/zoombies/zcorpion zombie.png"
+      "image": "/assets/zombies/zcorpion zombie.png"
     },
     "roman imp": {
       "name": "roman imp",
       "toughness": "Average",
       "speed": "Hungry",
       "description": "Small. Impy. Wears a former lion.",
-      "image": "/assets/zoombies/roman imp.png"
+      "image": "/assets/zombies/roman imp.png"
     },
     "gladiator gargantuar": {
       "name": "gladiator gargantuar",
       "toughness": "Great",
       "speed": "Stiff",
       "description": "Wears a helmet. Throws an imp AND a net. Just a real piece of work.",
-      "image": "/assets/zoombies/gladiator gargantuar.png"
+      "image": "/assets/zombies/gladiator gargantuar.png"
     },
     "zombie medusa": {
       "name": "zombie medusa",
       "toughness": "Dense",
       "speed": "Basic",
       "description": "Zombie Medusa pushes petrified zombies in stone blocks as well as stoneifying zombies and zomboids that face her.",
-      "image": "/assets/zoombies/zombie medusa.png"
+      "image": "/assets/zombies/zombie medusa.png"
     },
     "roman caesar zombie": {
       "name": "roman caesar zombie",
       "toughness": "Hardened",
       "speed": "Creeper",
       "description": "Roman Caesar Zombie tosses imperial salad dressing onto plants, making them irresistibly delicious to zombies. He also promotes Roman Zombies, giving them stronger helmets.",
-      "image": "/assets/zoombies/roman caesar zombie.png"
+      "image": "/assets/zombies/roman caesar zombie.png"
     },
     "head office impgantuar": {
       "name": "head office impgantuar",
       "toughness": "Great",
       "speed": "Hungry",
       "description": "His giant noggin is a blunt instrument of smashing.",
-      "image": "/assets/zoombies/head office impgantuar.png"
+      "image": "/assets/zombies/head office impgantuar.png"
     },
     "gargimp legal": {
       "name": "gargimp legal",
       "toughness": "Average",
       "speed": "Hungry",
       "description": "gargimp legal delivers cease-and-desists the old-fashioned way with a baseball bat.Tiny but fierce, the Gargimp Legal department is the best and the beast in the business.",
-      "image": "/assets/zoombies/gargimp legal.png"
+      "image": "/assets/zombies/gargimp legal.png"
     },
     "zcorp consultant": {
       "name": "zcorp consultant",
       "toughness": "Hardened",
       "speed": "Hungry",
       "description": "ZCorp Consultant disrupts your paradigm and tableflips your bluesky/redocean.",
-      "image": "/assets/zoombies/zcorp consultant.png"
+      "image": "/assets/zombies/zcorp consultant.png"
     },
     "zcorp helpdesk": {
       "name": "zcorp helpdesk",
       "toughness": "Protected",
       "speed": "Basic",
       "description": "ZCorp HelpDesk drops in and throws an exploding laptop.",
-      "image": "/assets/zoombies/zcorp helpdesk.png"
+      "image": "/assets/zombies/zcorp helpdesk.png"
     },
     "zcorp chair racer": {
       "name": "zcorp chair racer",
       "toughness": "Hardened",
       "speed": "Stiff",
       "description": "ZCorp Chair Racer zooms in at high speed, collides with great impact, and catapults leftward with extraordinary grace.",
-      "image": "/assets/zoombies/zcorp chair racer.png"
+      "image": "/assets/zombies/zcorp chair racer.png"
     },
     "grinderhead zombie": {
       "name": "grinderhead zombie",
       "toughness": "Machined",
       "speed": "Basic",
       "description": "Grinderbox helmet provides extra defense against attack, houses a monkey.",
-      "image": "/assets/zoombies/grinderhead zombie.png"
+      "image": "/assets/zombies/grinderhead zombie.png"
     },
     "carnie cannon": {
       "name": "carnie cannon",
       "toughness": "Dense",
       "speed": "Basic",
       "description": "Launches daredevil carnie imps high above the crowds.",
-      "image": "/assets/zoombies/carnie cannon.png"
+      "image": "/assets/zombies/carnie cannon.png"
     },
     "magician zombie": {
       "name": "magician zombie",
       "toughness": "Hardened",
       "speed": "Creeper",
       "description": "Magician Zombie vanishes zombies and himself forward on the board, and he's got sneaky doves who'll try to fly off with your plants.",
-      "image": "/assets/zoombies/magician zombie.png"
+      "image": "/assets/zombies/magician zombie.png"
     },
     "firebreather zombie": {
       "name": "firebreather zombie",
       "toughness": "Protected",
       "speed": "Basic",
       "description": "Firebreather Zombie... wait for it... breathes fire. And plenty of it!",
-      "image": "/assets/zoombies/firebreather zombie.png"
+      "image": "/assets/zombies/firebreather zombie.png"
     },
     "stiltwalker zombie": {
       "name": "stiltwalker zombie",
       "toughness": "Dense",
       "speed": "Speedy",
       "description": "Stiltwalker Zombie's stilts allow him to walk right over most plants.",
-      "image": "/assets/zoombies/stiltwalker zombie.png"
+      "image": "/assets/zombies/stiltwalker zombie.png"
     },
     "carnie imp twins": {
       "name": "carnie imp twins",
       "toughness": "Average",
       "speed": "Hungry",
       "description": "Two imps are generously provided for the price of one.",
-      "image": "/assets/zoombies/carnie imp twins.png"
+      "image": "/assets/zombies/carnie imp twins.png"
     },
     "zombot catastro-liope": {
       "name": "zombot catastro-liope",
@@ -1350,21 +1350,21 @@
       "speed": "Hungry",
       "special": "Despite the decline of circuses in recent years, I refuse to give up on a form of entertainment with so much history and plant-destroying potential, cackles Dr. Zomboss, all while tapping out a jaunty little tune on his keyboard.",
       "description": "can launch Cannonball Imps. The mystery-filled circus-wagon of terrors and delights.. ",
-      "image": "/assets/zoombies/zombot catastro-liope.png"
+      "image": "/assets/zombies/zombot catastro-liope.png"
     },
     "cardio zombie": {
       "name": "cardio zombie",
       "toughness": "Hardened",
       "speed": "Stiff",
       "description": "Advances to a set spot on the board, then tosses buffing brains at other zombies until he's chased away or retreats on his own.",
-      "image": "/assets/zoombies/cardio zombie.png"
+      "image": "/assets/zombies/cardio zombie.png"
     },
     "cake tank": {
       "name": "cake tank",
       "toughness": "Hardened",
       "speed": "Creeper",
       "description": "#caketank advances to a set position on the lawn, then emits shocking birthday surprises as its various layers takes damage.",
-      "image": "/assets/zoombies/cake tank.png"
+      "image": "/assets/zombies/cake tank.png"
     },
     "treasure yeti": {
       "name": "treasure yeti",
@@ -1373,12 +1373,12 @@
       "special": "carries treasure",
       "speed details": "runs away after a short while",
       "description": "The rare and wondrous Yeti carries his lunch box up and down Mount Brainer to his isolated mountain lodge.. A rare and curious creature, he always packs a lunch.. ",
-      "image": "/assets/zoombies/treasure yeti.png"
+      "image": "/assets/zombies/treasure yeti.png"
     },
     "mummified gargantuar": {
       "name": "mummified gargantuar",
       "description": "Gargantuar is a recurring character within the Plants vs. Zombies franchise. Gargantuars are identified easily by their large muscles, usually holding a large weapon, their huge structure, and aggressive faces, and usually have high health and ways to instantly kill plants. Gargantuars are some of the toughest non-boss zombies in the franchise, and sometimes have been used as bosses due to their strength.",
-      "image": "/assets/zoombies/mummified gargantuar.png"
+      "image": "/assets/zombies/mummified gargantuar.png"
     },
     "imp cannon": {
       "name": "imp cannon",
@@ -1386,37 +1386,37 @@
       "damage": "fires imps to mid-lawn",
       "special": "explodes into a shower of imps if not destroyed quickly",
       "description": "Shoots Pirate Imps past your defenses. Eventually it can explode and rain down imps.",
-      "image": "/assets/zoombies/imp cannon.png"
+      "image": "/assets/zombies/imp cannon.png"
     },
     "gargantuar pirate": {
       "name": "gargantuar pirate",
       "description": "Gargantuar is a recurring character within the Plants vs. Zombies franchise. Gargantuars are identified easily by their large muscles, usually holding a large weapon, their huge structure, and aggressive faces, and usually have high health and ways to instantly kill plants. Gargantuars are some of the toughest non-boss zombies in the franchise, and sometimes have been used as bosses due to their strength.",
-      "image": "/assets/zoombies/gargantuar pirate.png"
+      "image": "/assets/zombies/gargantuar pirate.png"
     },
     "wild west gargantuar": {
       "name": "wild west gargantuar",
       "description": "Gargantuar is a recurring character within the Plants vs. Zombies franchise. Gargantuars are identified easily by their large muscles, usually holding a large weapon, their huge structure, and aggressive faces, and usually have high health and ways to instantly kill plants. Gargantuars are some of the toughest non-boss zombies in the franchise, and sometimes have been used as bosses due to their strength.",
-      "image": "/assets/zoombies/wild west gargantuar.png"
+      "image": "/assets/zombies/wild west gargantuar.png"
     },
     "yeti imp": {
       "name": "yeti imp",
       "description": "Yeti Imp is an Imp variant in Plants vs. Zombies: Garden Warfare, Plants vs. Zombies: Garden Warfare 2, and Plants vs. Zombies: Battle for Neighborville. Similar to the Exploding Imp, Yeti Imps run at the player and explode on contact, however, the Yeti Imp can also freeze the player, making it very hard to cope with in large. His attack is called the Snotcicles.",
-      "image": "/assets/zoombies/yeti imp.png"
+      "image": "/assets/zombies/yeti imp.png"
     },
     "sloth gargantuar": {
       "name": "sloth gargantuar",
       "description": "Gargantuar is a recurring character within the Plants vs. Zombies franchise. Gargantuars are identified easily by their large muscles, usually holding a large weapon, their huge structure, and aggressive faces, and usually have high health and ways to instantly kill plants. Gargantuars are some of the toughest non-boss zombies in the franchise, and sometimes have been used as bosses due to their strength.",
-      "image": "/assets/zoombies/sloth gargantuar.png"
+      "image": "/assets/zombies/sloth gargantuar.png"
     },
     "porter gargantuar": {
       "name": "porter gargantuar",
       "description": "Gargantuar is a recurring character within the Plants vs. Zombies franchise. Gargantuars are identified easily by their large muscles, usually holding a large weapon, their huge structure, and aggressive faces, and usually have high health and ways to instantly kill plants. Gargantuars are some of the toughest non-boss zombies in the franchise, and sometimes have been used as bosses due to their strength.",
-      "image": "/assets/zoombies/porter gargantuar.png"
+      "image": "/assets/zombies/porter gargantuar.png"
     },
     "peasant zombie": {
       "name": "peasant zombie",
       "description": "No-data found. if you found something you can create a pull request on github",
-      "image": "/assets/zoombies/peasant zombie.png"
+      "image": "/assets/zombies/peasant zombie.png"
     },
     "zombie king": {
       "name": "zombie king",
@@ -1425,69 +1425,69 @@
       "absorbs": "1000 damage",
       "first seen": "dark ages, night-16",
       "description": "Grants knight helms to nearby peasant zombies.\nAs Shakespeare once wrote, `Uneasy lies the head that wears a crown.` And Zombie King couldn't agree more. It is incredibly difficult to get a good night's sleep with a crown on your head. That thing is all kinds of uncomfortable.",
-      "image": "/assets/zoombies/zombie king.png"
+      "image": "/assets/zombies/zombie king.png"
     },
     "announcer imp": {
       "name": "announcer imp",
       "description": "Imp is a recurring character within the Plants vs. Zombies franchise. Imps typically sneak into plant defenses in one way or another then go further at high speeds, but have lower health. Even in games where they can't sneak into defenses, they typically either have their low health, their speed, or some other way to represent their stealth.",
-      "image": "/assets/zoombies/announcer imp.png"
+      "image": "/assets/zombies/announcer imp.png"
     },
     "dark ages gargantuar": {
       "name": "dark ages gargantuar",
       "description": "Gargantuar is a recurring character within the Plants vs. Zombies franchise. Gargantuars are identified easily by their large muscles, usually holding a large weapon, their huge structure, and aggressive faces, and usually have high health and ways to instantly kill plants. Gargantuars are some of the toughest non-boss zombies in the franchise, and sometimes have been used as bosses due to their strength",
-      "image": "/assets/zoombies/dark ages gargantuar.png"
+      "image": "/assets/zombies/dark ages gargantuar.png"
     },
     "hair metal gargantuar": {
       "name": "hair metal gargantuar",
       "description": "Gargantuar is a recurring character within the Plants vs. Zombies franchise. Gargantuars are identified easily by their large muscles, usually holding a large weapon, their huge structure, and aggressive faces, and usually have high health and ways to instantly kill plants. Gargantuars are some of the toughest non-boss zombies in the franchise, and sometimes have been used as bosses due to their strength",
-      "image": "/assets/zoombies/hair metal gargantuar.png"
+      "image": "/assets/zombies/hair metal gargantuar.png"
     },
     "pompadour conehead zombie": {
       "name": "pompadour conehead zombie",
       "description": "No-data found. if you found something you can create a pull request on github",
-      "image": "/assets/zoombies/pompadour conehead zombie.png"
+      "image": "/assets/zombies/pompadour conehead zombie.png"
     },
     "pompadour buckethead zombie": {
       "name": "pompadour buckethead zombie",
       "description": "No-data found. if you found something you can create a pull request on github",
-      "image": "/assets/zoombies/pompadour buckethead zombie.png"
+      "image": "/assets/zombies/pompadour buckethead zombie.png"
     },
     "snorkel zombie": {
       "name": "snorkel zombie",
       "description": "No-data found. if you found something you can create a pull request on github",
-      "image": "/assets/zoombies/snorkel zombie.png"
+      "image": "/assets/zombies/snorkel zombie.png"
     },
     "fisherman zombie": {
       "name": "fisherman zombie",
       "special-1": "Pulls plants to the right",
       "special-2": " Plants next to him are tossed off the lawn",
       "description": " Plants next to him are tossed off the lawn",
-      "image": "/assets/zoombies/fisherman zombie.png"
+      "image": "/assets/zombies/fisherman zombie.png"
     },
     "deep sea gargantuar": {
       "name": "deep sea gargantuar",
       "description": "Gargantuar is a recurring character within the Plants vs. Zombies franchise. Gargantuars are identified easily by their large muscles, usually holding a large weapon, their huge structure, and aggressive faces, and usually have high health and ways to instantly kill plants. Gargantuars are some of the toughest non-boss zombies in the franchise, and sometimes have been used as bosses due to their strength.",
-      "image": "/assets/zoombies/deep sea gargantuar.png"
+      "image": "/assets/zombies/deep sea gargantuar.png"
     },
     "balloon zombie": {
       "name": "Balloon Zombie",
       "description": "Balloon Zombie is a recurring character within the Plants vs. Zombies franchise. Balloon Zombies use the red balloons on their backs to hover over plants to reach the player's house, with each game having a different method of dealing with the floating assault.",
-      "image": "/assets/zoombies/balloon zombie.png"
+      "image": "/assets/zombies/balloon zombie.png"
     },
     "newspaper zombie": {
       "name": "Newspaper Zombie",
       "description": "Newspaper Zombie is a recurring character within the Plants vs. Zombies franchise. Newspaper Zombies arrive reading a newspaper, protecting them from projectiles until it is destroyed, leading the Newspaper Zombie to rampage towards plants in rage.",
-      "image": "/assets/zoombies/newspaper zombie.png"
+      "image": "/assets/zombies/newspaper zombie.png"
     },
     "imp": {
       "name": "Imp",
       "description": "Imp is a recurring character within the Plants vs. Zombies franchise. Imps typically sneak into plant defenses in one way or another then go further at high speeds, but have lower health. Even in games where they can't sneak into defenses, they typically either have their low health, their speed, or some other way to represent their stealth.",
-      "image": "/assets/zoombies/imp.png"
+      "image": "/assets/zombies/imp.png"
     },
     "gargantuar": {
       "name": "Gargantuar",
       "description": "Gargantuar is a recurring character within the Plants vs. Zombies franchise. Gargantuars are identified easily by their large muscles, usually holding a large weapon, their huge structure, and aggressive faces, and usually have high health and ways to instantly kill plants. Gargantuars are some of the toughest non-boss zombies in the franchise, and sometimes have been used as bosses due to their strength.",
-      "image": "/assets/zoombies/gargantuar.png"
+      "image": "/assets/zombies/gargantuar.png"
     },
     "zombie monkey": {
       "name": "zombie monkey",
@@ -1495,7 +1495,7 @@
       "speed": "flighty",
       "absorbs": "300 damage",
       "description": "Zombie Monkey absorbs 300 damage per shot and does not degrade. When defeated, it has a 50% chance to drop a silver coin.",
-      "image": "/assets/zoombies/zombie monkey.png"
+      "image": "/assets/zombies/zombie monkey.png"
     },
     "carnie imp": {
       "name": "carnie imp",
@@ -1503,7 +1503,7 @@
       "speed": "hungry",
       "absorbs": "1300(hat)\n190(zombie) damage",
       "description": "This Imp is one of the strongest Imps due to having armor. Try to stall him with defensives to take time defeating him, as well as slowing plants. Magnet-shrooms are viable to take down this Imp, as they can remove his helmet.",
-      "image": "/assets/zoombies/carnie imp.png"
+      "image": "/assets/zombies/carnie imp.png"
     },
     "zombie dove": {
       "name": "Zombie Dove",
@@ -1511,17 +1511,17 @@
       "speed": "flighty",
       "absorbs": "150 damage",
       "description": "The Zombie Dove absorbs 150 damage per shot and does not degrade. It will be eliminated immediately if hit by Kernel-pult's butter, shrunk by Shrinking Violet or blown away by Blover or Hurrikale.",
-      "image": "/assets/zoombies/zombie dove.png"
+      "image": "/assets/zombies/zombie dove.png"
     },
     "vase gargantuar": {
       "name": "vase gargantuar",
       "description": "Gargantuar is a recurring character within the Plants vs. Zombies franchise. Gargantuars are identified easily by their large muscles, usually holding a large weapon, their huge structure, and aggressive faces, and usually have high health and ways to instantly kill plants. Gargantuars are some of the toughest non-boss zombies in the franchise, and sometimes have been used as bosses due to their strength.",
-      "image": "/assets/zoombies/vase gargantuar.png"
+      "image": "/assets/zombies/vase gargantuar.png"
     },
     "z-mech": {
       "name": "Z-Mech",
       "description": "Z-Mech is a recurring character within the Plants vs. Zombies franchise. Originally just the name for the machine Imps use in the shooter series, the name has been used elsewhere in association with this Imp, implying the Imp's name is Z-Mech as well.",
-      "image": "/assets/zoombies/z-mech.png"
+      "image": "/assets/zombies/z-mech.png"
     }
   }
 }
