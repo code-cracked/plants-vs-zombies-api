@@ -1,0 +1,592 @@
+{
+  "data": {
+    "basic zombie": {
+      "name": "basic zombie",
+      "toughness": "Average",
+      "speed": "Basic",
+      "stamina": "Regular Garden-variety zombie.",
+      "description": "Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.Regular Garden-variety zombie.Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you."
+    },
+    "conehead zombie": {
+      "name": "conehead zombie",
+      "toughness": "Protected",
+      "speed": "Basic",
+      "stamina": "His traffic cone headpiece makes him twice as tough as normal zombies.",
+      "description": "After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.His traffic cone headpiece makes him twice as tough as normal zombies.After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive."
+    },
+    "buckethead zombie": {
+      "name": "buckethead zombie",
+      "toughness": "Hardened",
+      "speed": "Basic",
+      "stamina": "His bucket hat makes him extremely resistant to damage.",
+      "description": "There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.His bucket hat makes him extremely resistant to damage.There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't."
+    },
+    "flag zombie": {
+      "name": "flag zombie",
+      "toughness": "Average",
+      "speed": "Basic",
+      "stamina": "His flag marks the arrival of a huge pile or \"wave\" of zombies.",
+      "description": "A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.His flag marks the arrival of a huge pile or \"wave\" of zombies.A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important."
+    },
+    "mummy zombie": {
+      "name": "mummy zombie",
+      "toughness": "Average",
+      "speed": "Basic",
+      "stamina": "Regular Garden-variety zombie.",
+      "description": "Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.Regular Garden-variety zombie.Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you."
+    },
+    "conehead mummy": {
+      "name": "conehead mummy",
+      "toughness": "Protected",
+      "speed": "Basic",
+      "stamina": "His traffic cone headpiece makes him twice as tough as normal zombies.",
+      "description": "After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.His traffic cone headpiece makes him twice as tough as normal zombies.After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive."
+    },
+    "buckethead mummy": {
+      "name": "buckethead mummy",
+      "toughness": "Hardened",
+      "speed": "Basic",
+      "stamina": "His bucket hat makes him extremely resistant to damage.",
+      "description": "There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.His bucket hat makes him extremely resistant to damage.There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't."
+    },
+    "flag mummy zombie": {
+      "name": "flag mummy zombie",
+      "toughness": "Average",
+      "speed": "Basic",
+      "stamina": "His flag marks the arrival of a huge pile or \"wave\" of zombies.",
+      "description": "A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.His flag marks the arrival of a huge pile or \"wave\" of zombies.A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important."
+    },
+    "pyramid-head zombie": {
+      "name": "pyramid-head zombie",
+      "toughness": "Machined",
+      "speed": "Basic",
+      "stamina": "Brickhead Zombie's brick head provides thorough brickheaded brickheadness.",
+      "description": "After consultation with various storybook wolves, it was determined that straw helmets and wood helmets were not up to snuff, and that brick helmets had to be seriously considered.Brickhead Zombie's brick head provides thorough brickheaded brickheadness.After consultation with various storybook wolves, it was determined that straw helmets and wood helmets were not up to snuff, and that brick helmets had to be seriously considered."
+    },
+    "egypt rally zombie": {
+      "name": "egypt rally zombie",
+      "toughness": "Protected",
+      "speed": "Speedy",
+      "stamina": "Rally Zombie and his flag marks the arrival of a large clot or \"pile\" of zombies.",
+      "description": "Rally Zombie splurged on the all-leather flag because, heck, he's worth it.Rally Zombie and his flag marks the arrival of a large clot or \"pile\" of zombies.Rally Zombie splurged on the all-leather flag because, heck, he's worth it."
+    },
+    "imp mummy": {
+      "name": "imp mummy",
+      "toughness": "Average",
+      "speed": "Hungry",
+      "stamina": "Is hurled onto the lawn past your defenses, then shuffles ahead.",
+      "description": "What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him.Is hurled onto the lawn past your defenses, then shuffles ahead.What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him."
+    },
+    "pirate zombie": {
+      "name": "pirate zombie",
+      "toughness": "Average",
+      "speed": "Basic",
+      "stamina": "Regular Garden-variety zombie.",
+      "description": "Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.Regular Garden-variety zombie.Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you."
+    },
+    "conehead pirate": {
+      "name": "conehead pirate",
+      "toughness": "Protected",
+      "speed": "Basic",
+      "stamina": "His traffic cone headpiece makes him twice as tough as normal zombies.",
+      "description": "After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.His traffic cone headpiece makes him twice as tough as normal zombies.After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive."
+    },
+    "buckethead pirate": {
+      "name": "buckethead pirate",
+      "toughness": "Hardened",
+      "speed": "Basic",
+      "stamina": "His bucket hat makes him extremely resistant to damage.",
+      "description": "There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.His bucket hat makes him extremely resistant to damage.There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't."
+    },
+    "flag pirate zombie": {
+      "name": "flag pirate zombie",
+      "toughness": "Average",
+      "speed": "Basic",
+      "stamina": "His flag marks the arrival of a huge pile or \"wave\" of zombies.",
+      "description": "A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.His flag marks the arrival of a huge pile or \"wave\" of zombies.A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important."
+    },
+    "barrelhead zombie": {
+      "name": "barrelhead zombie",
+      "toughness": "Machined",
+      "speed": "Basic",
+      "stamina": "Brickhead Zombie's brick head provides thorough brickheaded brickheadness.",
+      "description": "After consultation with various storybook wolves, it was determined that straw helmets and wood helmets were not up to snuff, and that brick helmets had to be seriously considered.Brickhead Zombie's brick head provides thorough brickheaded brickheadness.After consultation with various storybook wolves, it was determined that straw helmets and wood helmets were not up to snuff, and that brick helmets had to be seriously considered."
+    },
+    "jolly roger zombie": {
+      "name": "jolly roger zombie",
+      "toughness": "Protected",
+      "speed": "Speedy",
+      "stamina": "Rally Zombie and his flag marks the arrival of a large clot or \"pile\" of zombies.",
+      "description": "Rally Zombie splurged on the all-leather flag because, heck, he's worth it.Rally Zombie and his flag marks the arrival of a large clot or \"pile\" of zombies.Rally Zombie splurged on the all-leather flag because, heck, he's worth it."
+    },
+    "imp pirate zombie": {
+      "name": "imp pirate zombie",
+      "toughness": "Average",
+      "speed": "Hungry",
+      "stamina": "Is hurled onto the lawn past your defenses, then shuffles ahead.",
+      "description": "What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him.Is hurled onto the lawn past your defenses, then shuffles ahead.What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him."
+    },
+    "cowboy zombie": {
+      "name": "cowboy zombie",
+      "toughness": "Average",
+      "speed": "Basic",
+      "stamina": "Regular Garden-variety zombie.",
+      "description": "Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.Regular Garden-variety zombie.Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you."
+    },
+    "conehead cowboy": {
+      "name": "conehead cowboy",
+      "toughness": "Protected",
+      "speed": "Basic",
+      "stamina": "His traffic cone headpiece makes him twice as tough as normal zombies.",
+      "description": "After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.His traffic cone headpiece makes him twice as tough as normal zombies.After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive."
+    },
+    "buckethead cowboy": {
+      "name": "buckethead cowboy",
+      "toughness": "Hardened",
+      "speed": "Basic",
+      "stamina": "His bucket hat makes him extremely resistant to damage.",
+      "description": "There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.His bucket hat makes him extremely resistant to damage.There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't."
+    },
+    "flag cowboy zombie": {
+      "name": "flag cowboy zombie",
+      "toughness": "Average",
+      "speed": "Basic",
+      "stamina": "His flag marks the arrival of a huge pile or \"wave\" of zombies.",
+      "description": "A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.His flag marks the arrival of a huge pile or \"wave\" of zombies.A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important."
+    },
+    "cart-head zombie": {
+      "name": "cart-head zombie",
+      "toughness": "Machined",
+      "speed": "Basic",
+      "stamina": "Brickhead Zombie's brick head provides thorough brickheaded brickheadness.",
+      "description": "After consultation with various storybook wolves, it was determined that straw helmets and wood helmets were not up to snuff, and that brick helmets had to be seriously considered.Brickhead Zombie's brick head provides thorough brickheaded brickheadness.After consultation with various storybook wolves, it was determined that straw helmets and wood helmets were not up to snuff, and that brick helmets had to be seriously considered."
+    },
+    "cowboy rally zombie": {
+      "name": "cowboy rally zombie",
+      "toughness": "Protected",
+      "speed": "Speedy",
+      "stamina": "Rally Zombie and his flag marks the arrival of a large clot or \"pile\" of zombies.",
+      "description": "Rally Zombie splurged on the all-leather flag because, heck, he's worth it.Rally Zombie and his flag marks the arrival of a large clot or \"pile\" of zombies.Rally Zombie splurged on the all-leather flag because, heck, he's worth it."
+    },
+    "zombie bull rider": {
+      "name": "zombie bull rider",
+      "toughness": "Average",
+      "speed": "Hungry",
+      "stamina": "Is hurled onto the lawn past your defenses, then shuffles ahead.",
+      "description": "What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him.Is hurled onto the lawn past your defenses, then shuffles ahead.What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him."
+    },
+    "cave zombie": {
+      "name": "cave zombie",
+      "toughness": "Average",
+      "speed": "Basic",
+      "stamina": "Regular Garden-variety zombie.",
+      "description": "Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.Regular Garden-variety zombie.Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you."
+    },
+    "cave conehead zombie": {
+      "name": "cave conehead zombie",
+      "toughness": "Protected",
+      "speed": "Basic",
+      "stamina": "His traffic cone headpiece makes him twice as tough as normal zombies.",
+      "description": "After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.His traffic cone headpiece makes him twice as tough as normal zombies.After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive."
+    },
+    "cave buckethead zombie": {
+      "name": "cave buckethead zombie",
+      "toughness": "Hardened",
+      "speed": "Basic",
+      "stamina": "His bucket hat makes him extremely resistant to damage.",
+      "description": "There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.His bucket hat makes him extremely resistant to damage.There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't."
+    },
+    "cave flag zombie": {
+      "name": "cave flag zombie",
+      "toughness": "Average",
+      "speed": "Basic",
+      "stamina": "His flag marks the arrival of a huge pile or \"wave\" of zombies.",
+      "description": "A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.His flag marks the arrival of a huge pile or \"wave\" of zombies.A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important."
+    },
+    "adventurer zombie": {
+      "name": "adventurer zombie",
+      "toughness": "Average",
+      "speed": "Basic",
+      "stamina": "Regular Garden-variety zombie.",
+      "description": "Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.Regular Garden-variety zombie.Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you."
+    },
+    "conehead adventurer zombie": {
+      "name": "conehead adventurer zombie",
+      "toughness": "Protected",
+      "speed": "Basic",
+      "stamina": "His traffic cone headpiece makes him twice as tough as normal zombies.",
+      "description": "After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.His traffic cone headpiece makes him twice as tough as normal zombies.After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive."
+    },
+    "buckethead adventurer zombie": {
+      "name": "buckethead adventurer zombie",
+      "toughness": "Hardened",
+      "speed": "Basic",
+      "stamina": "His bucket hat makes him extremely resistant to damage.",
+      "description": "There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.His bucket hat makes him extremely resistant to damage.There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't."
+    },
+    "flag adventurer zombie": {
+      "name": "flag adventurer zombie",
+      "toughness": "Average",
+      "speed": "Basic",
+      "stamina": "His flag marks the arrival of a huge pile or \"wave\" of zombies.",
+      "description": "A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.His flag marks the arrival of a huge pile or \"wave\" of zombies.A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important."
+    },
+    "lost city imp zombie": {
+      "name": "lost city imp zombie",
+      "toughness": "Average",
+      "speed": "Hungry",
+      "stamina": "Is hurled onto the lawn past your defenses, then shuffles ahead.",
+      "description": "What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him.Is hurled onto the lawn past your defenses, then shuffles ahead.What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him."
+    },
+    "future zombie": {
+      "name": "future zombie",
+      "toughness": "Average",
+      "speed": "Basic",
+      "stamina": "Regular Garden-variety zombie.",
+      "description": "Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.Regular Garden-variety zombie.Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you."
+    },
+    "future conehead zombie": {
+      "name": "future conehead zombie",
+      "toughness": "Protected",
+      "speed": "Basic",
+      "stamina": "His traffic cone headpiece makes him twice as tough as normal zombies.",
+      "description": "After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.His traffic cone headpiece makes him twice as tough as normal zombies.After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive."
+    },
+    "future buckethead zombie": {
+      "name": "future buckethead zombie",
+      "toughness": "Hardened",
+      "speed": "Basic",
+      "stamina": "His bucket hat makes him extremely resistant to damage.",
+      "description": "There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.His bucket hat makes him extremely resistant to damage.There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't."
+    },
+    "future flag zombie": {
+      "name": "future flag zombie",
+      "toughness": "Average",
+      "speed": "Basic",
+      "stamina": "His flag marks the arrival of a huge pile or \"wave\" of zombies.",
+      "description": "A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.His flag marks the arrival of a huge pile or \"wave\" of zombies.A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important."
+    },
+    "jetpack zombie": {
+      "name": "jetpack zombie",
+      "toughness": "Solid",
+      "speed": "Speedy",
+      "stamina": "Boosts to float over all but the tallest plant barriers.",
+      "description": "Boosts to float over all but the tallest plant barriers.TOUGHNESSSolid"
+    },
+    "disco jetpack zombie": {
+      "name": "disco jetpack zombie",
+      "toughness": "Solid",
+      "speed": "Speedy",
+      "stamina": "Boosts to float over all but the tallest plant barriers.",
+      "description": "Boosts to float over all but the tallest plant barriers.TOUGHNESSSolid"
+    },
+    "holo head zombie": {
+      "name": "holo head zombie",
+      "toughness": "Machined",
+      "speed": "Basic",
+      "stamina": "Brickhead Zombie's brick head provides thorough brickheaded brickheadness.",
+      "description": "After consultation with various storybook wolves, it was determined that straw helmets and wood helmets were not up to snuff, and that brick helmets had to be seriously considered.Brickhead Zombie's brick head provides thorough brickheaded brickheadness.After consultation with various storybook wolves, it was determined that straw helmets and wood helmets were not up to snuff, and that brick helmets had to be seriously considered."
+    },
+    "robo-rally zombie": {
+      "name": "robo-rally zombie",
+      "toughness": "Protected",
+      "speed": "Speedy",
+      "stamina": "Rally Zombie and his flag marks the arrival of a large clot or \"pile\" of zombies.",
+      "description": "Rally Zombie splurged on the all-leather flag because, heck, he's worth it.Rally Zombie and his flag marks the arrival of a large clot or \"pile\" of zombies.Rally Zombie splurged on the all-leather flag because, heck, he's worth it."
+    },
+    "conehead peasant": {
+      "name": "conehead peasant",
+      "toughness": "Protected",
+      "speed": "Basic",
+      "stamina": "His traffic cone headpiece makes him twice as tough as normal zombies.",
+      "description": "After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.His traffic cone headpiece makes him twice as tough as normal zombies.After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive."
+    },
+    "buckethead peasant": {
+      "name": "buckethead peasant",
+      "toughness": "Hardened",
+      "speed": "Basic",
+      "stamina": "His bucket hat makes him extremely resistant to damage.",
+      "description": "There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.His bucket hat makes him extremely resistant to damage.There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't."
+    },
+    "peasant flag zombie": {
+      "name": "peasant flag zombie",
+      "toughness": "Average",
+      "speed": "Basic",
+      "stamina": "His flag marks the arrival of a huge pile or \"wave\" of zombies.",
+      "description": "A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.His flag marks the arrival of a huge pile or \"wave\" of zombies.A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important."
+    },
+    "imp monk zombie": {
+      "name": "imp monk zombie",
+      "toughness": "Average",
+      "speed": "Hungry",
+      "stamina": "Is hurled onto the lawn past your defenses, then shuffles ahead.",
+      "description": "What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him.Is hurled onto the lawn past your defenses, then shuffles ahead.What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him."
+    },
+    "neon zombie": {
+      "name": "neon zombie",
+      "toughness": "Average",
+      "speed": "Basic",
+      "stamina": "Regular Garden-variety zombie.",
+      "description": "Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.Regular Garden-variety zombie.Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you."
+    },
+    "neon conehead": {
+      "name": "neon conehead",
+      "toughness": "Protected",
+      "speed": "Basic",
+      "stamina": "His traffic cone headpiece makes him twice as tough as normal zombies.",
+      "description": "After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.His traffic cone headpiece makes him twice as tough as normal zombies.After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive."
+    },
+    "neon buckethead": {
+      "name": "neon buckethead",
+      "toughness": "Hardened",
+      "speed": "Basic",
+      "stamina": "His bucket hat makes him extremely resistant to damage.",
+      "description": "There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.His bucket hat makes him extremely resistant to damage.There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't."
+    },
+    "neon flag zombie": {
+      "name": "neon flag zombie",
+      "toughness": "Average",
+      "speed": "Basic",
+      "stamina": "His flag marks the arrival of a huge pile or \"wave\" of zombies.",
+      "description": "A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.His flag marks the arrival of a huge pile or \"wave\" of zombies.A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important."
+    },
+    "impunk": {
+      "name": "impunk",
+      "toughness": "Average",
+      "speed": "Hungry",
+      "stamina": "Is hurled onto the lawn past your defenses, then shuffles ahead.",
+      "description": "What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him.Is hurled onto the lawn past your defenses, then shuffles ahead.What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him."
+    },
+    "jurassic zombie": {
+      "name": "jurassic zombie",
+      "toughness": "Average",
+      "speed": "Basic",
+      "stamina": "Regular Garden-variety zombie.",
+      "description": "Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.Regular Garden-variety zombie.Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you."
+    },
+    "jurassic conehead": {
+      "name": "jurassic conehead",
+      "toughness": "Protected",
+      "speed": "Basic",
+      "stamina": "His traffic cone headpiece makes him twice as tough as normal zombies.",
+      "description": "After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.His traffic cone headpiece makes him twice as tough as normal zombies.After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive."
+    },
+    "jurassic buckethead": {
+      "name": "jurassic buckethead",
+      "toughness": "Hardened",
+      "speed": "Basic",
+      "stamina": "His bucket hat makes him extremely resistant to damage.",
+      "description": "There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.His bucket hat makes him extremely resistant to damage.There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't."
+    },
+    "jurassic flag zombie": {
+      "name": "jurassic flag zombie",
+      "toughness": "Average",
+      "speed": "Basic",
+      "stamina": "His flag marks the arrival of a huge pile or \"wave\" of zombies.",
+      "description": "A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.His flag marks the arrival of a huge pile or \"wave\" of zombies.A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important."
+    },
+    "amberhead zombie": {
+      "name": "amberhead zombie",
+      "toughness": "Machined",
+      "speed": "Basic",
+      "stamina": "Brickhead Zombie's brick head provides thorough brickheaded brickheadness.",
+      "description": "After consultation with various storybook wolves, it was determined that straw helmets and wood helmets were not up to snuff, and that brick helmets had to be seriously considered.Brickhead Zombie's brick head provides thorough brickheaded brickheadness.After consultation with various storybook wolves, it was determined that straw helmets and wood helmets were not up to snuff, and that brick helmets had to be seriously considered."
+    },
+    "jurassic rally zombie": {
+      "name": "jurassic rally zombie",
+      "toughness": "Protected",
+      "speed": "Speedy",
+      "stamina": "Rally Zombie and his flag marks the arrival of a large clot or \"pile\" of zombies.",
+      "description": "Rally Zombie splurged on the all-leather flag because, heck, he's worth it.Rally Zombie and his flag marks the arrival of a large clot or \"pile\" of zombies.Rally Zombie splurged on the all-leather flag because, heck, he's worth it."
+    },
+    "pompadour zombie": {
+      "name": "pompadour zombie",
+      "toughness": "Average",
+      "speed": "Basic",
+      "stamina": "Regular Garden-variety zombie.",
+      "description": "Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.Regular Garden-variety zombie.Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you."
+    },
+    "beach flag zombie": {
+      "name": "beach flag zombie",
+      "toughness": "Average",
+      "speed": "Basic",
+      "stamina": "His flag marks the arrival of a huge pile or \"wave\" of zombies.",
+      "description": "A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.His flag marks the arrival of a huge pile or \"wave\" of zombies.A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important."
+    },
+    "bikini zombie": {
+      "name": "bikini zombie",
+      "toughness": "Average",
+      "speed": "Basic",
+      "stamina": "Regular Garden-variety zombie.",
+      "description": "Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.Regular Garden-variety zombie.Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you."
+    },
+    "bikini conehead": {
+      "name": "bikini conehead",
+      "toughness": "Protected",
+      "speed": "Basic",
+      "stamina": "His traffic cone headpiece makes him twice as tough as normal zombies.",
+      "description": "After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.His traffic cone headpiece makes him twice as tough as normal zombies.After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive."
+    },
+    "bikini buckethead": {
+      "name": "bikini buckethead",
+      "toughness": "Hardened",
+      "speed": "Basic",
+      "stamina": "His bucket hat makes him extremely resistant to damage.",
+      "description": "There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.His bucket hat makes him extremely resistant to damage.There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't."
+    },
+    "imp mermaid zombie": {
+      "name": "imp mermaid zombie",
+      "toughness": "Average",
+      "speed": "Hungry",
+      "stamina": "Is hurled onto the lawn past your defenses, then shuffles ahead.",
+      "description": "What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him.Is hurled onto the lawn past your defenses, then shuffles ahead.What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him."
+    },
+    "brickhead zombie": {
+      "name": "brickhead zombie",
+      "toughness": "Machined",
+      "speed": "Basic",
+      "stamina": "Brickhead Zombie's brick head provides thorough brickheaded brickheadness.",
+      "description": "After consultation with various storybook wolves, it was determined that straw helmets and wood helmets were not up to snuff, and that brick helmets had to be seriously considered.Brickhead Zombie's brick head provides thorough brickheaded brickheadness.After consultation with various storybook wolves, it was determined that straw helmets and wood helmets were not up to snuff, and that brick helmets had to be seriously considered."
+    },
+    "rally zombie": {
+      "name": "rally zombie",
+      "toughness": "Protected",
+      "speed": "Speedy",
+      "stamina": "Rally Zombie and his flag marks the arrival of a large clot or \"pile\" of zombies.",
+      "description": "Rally Zombie splurged on the all-leather flag because, heck, he's worth it.Rally Zombie and his flag marks the arrival of a large clot or \"pile\" of zombies.Rally Zombie splurged on the all-leather flag because, heck, he's worth it."
+    },
+    "roman zombie": {
+      "name": "roman zombie",
+      "toughness": "Average",
+      "speed": "Basic",
+      "stamina": "Regular Garden-variety zombie.",
+      "description": "Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.Regular Garden-variety zombie.Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you."
+    },
+    "roman conehead": {
+      "name": "roman conehead",
+      "toughness": "Protected",
+      "speed": "Basic",
+      "stamina": "His traffic cone headpiece makes him twice as tough as normal zombies.",
+      "description": "After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.His traffic cone headpiece makes him twice as tough as normal zombies.After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive."
+    },
+    "roman buckethead": {
+      "name": "roman buckethead",
+      "toughness": "Hardened",
+      "speed": "Basic",
+      "stamina": "His bucket hat makes him extremely resistant to damage.",
+      "description": "There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.His bucket hat makes him extremely resistant to damage.There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't."
+    },
+    "roman flag zombie": {
+      "name": "roman flag zombie",
+      "toughness": "Average",
+      "speed": "Basic",
+      "stamina": "His flag marks the arrival of a huge pile or \"wave\" of zombies.",
+      "description": "A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.His flag marks the arrival of a huge pile or \"wave\" of zombies.A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important."
+    },
+    "bust head zombie": {
+      "name": "bust head zombie",
+      "toughness": "Machined",
+      "speed": "Basic",
+      "stamina": "Brickhead Zombie's brick head provides thorough brickheaded brickheadness.",
+      "description": "After consultation with various storybook wolves, it was determined that straw helmets and wood helmets were not up to snuff, and that brick helmets had to be seriously considered.Brickhead Zombie's brick head provides thorough brickheaded brickheadness.After consultation with various storybook wolves, it was determined that straw helmets and wood helmets were not up to snuff, and that brick helmets had to be seriously considered."
+    },
+    "zcorp new hire": {
+      "name": "zcorp new hire",
+      "toughness": "Average",
+      "speed": "Basic",
+      "stamina": "Regular Garden-variety zombie.",
+      "description": "Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.Regular Garden-variety zombie.Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you."
+    },
+    "zcorp conehead": {
+      "name": "zcorp conehead",
+      "toughness": "Protected",
+      "speed": "Basic",
+      "stamina": "His traffic cone headpiece makes him twice as tough as normal zombies.",
+      "description": "After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.His traffic cone headpiece makes him twice as tough as normal zombies.After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive."
+    },
+    "zcorp buckethead": {
+      "name": "zcorp buckethead",
+      "toughness": "Hardened",
+      "speed": "Basic",
+      "stamina": "His bucket hat makes him extremely resistant to damage.",
+      "description": "There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.His bucket hat makes him extremely resistant to damage.There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't."
+    },
+    "zcorp flag zombie": {
+      "name": "zcorp flag zombie",
+      "toughness": "Average",
+      "speed": "Basic",
+      "stamina": "His flag marks the arrival of a huge pile or \"wave\" of zombies.",
+      "description": "A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.His flag marks the arrival of a huge pile or \"wave\" of zombies.A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important."
+    },
+    "zcorp contractor": {
+      "name": "zcorp contractor",
+      "toughness": "Average",
+      "speed": "Basic",
+      "stamina": "Regular Garden-variety zombie.",
+      "description": "Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.Regular Garden-variety zombie.Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you."
+    },
+    "zcorp contractor conehead": {
+      "name": "zcorp contractor conehead",
+      "toughness": "Protected",
+      "speed": "Basic",
+      "stamina": "His traffic cone headpiece makes him twice as tough as normal zombies.",
+      "description": "After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.His traffic cone headpiece makes him twice as tough as normal zombies.After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive."
+    },
+    "zcorp contractor buckethead": {
+      "name": "zcorp contractor buckethead",
+      "toughness": "Hardened",
+      "speed": "Basic",
+      "stamina": "His bucket hat makes him extremely resistant to damage.",
+      "description": "There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.His bucket hat makes him extremely resistant to damage.There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't."
+    },
+    "carnie zombie": {
+      "name": "carnie zombie",
+      "toughness": "Average",
+      "speed": "Basic",
+      "stamina": "Regular Garden-variety zombie.",
+      "description": "Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.Regular Garden-variety zombie.Basic Zombie hates the term \"Basic\". He doesn't  consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you."
+    },
+    "carnie conehead": {
+      "name": "carnie conehead",
+      "toughness": "Protected",
+      "speed": "Basic",
+      "stamina": "His traffic cone headpiece makes him twice as tough as normal zombies.",
+      "description": "After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.His traffic cone headpiece makes him twice as tough as normal zombies.After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive."
+    },
+    "carnie buckethead": {
+      "name": "carnie buckethead",
+      "toughness": "Hardened",
+      "speed": "Basic",
+      "stamina": "His bucket hat makes him extremely resistant to damage.",
+      "description": "There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.His bucket hat makes him extremely resistant to damage.There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't."
+    },
+    "carnie flag zombie": {
+      "name": "carnie flag zombie",
+      "toughness": "Average",
+      "speed": "Basic",
+      "stamina": "His flag marks the arrival of a huge pile or \"wave\" of zombies.",
+      "description": "A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.His flag marks the arrival of a huge pile or \"wave\" of zombies.A spelling impaired zombie named \"Brian,\" Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important."
+    },
+    "carnie imp split": {
+      "name": "carnie imp split",
+      "toughness": "Average",
+      "speed": "Hungry",
+      "stamina": "Is hurled onto the lawn past your defenses, then shuffles ahead.",
+      "description": "What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him.Is hurled onto the lawn past your defenses, then shuffles ahead.What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him."
+    },
+    "strongman gargantuar": {
+      "name": "strongman gargantuar",
+      "toughness": "Great",
+      "speed": "Hungry",
+      "stamina": "Gargantuar really is kind of a big deal.",
+      "description": "Gargantuar really is kind of a big deal.TOUGHNESSGreat"
+    },
+    "imp pear imp": {
+      "name": "imp pear imp",
+      "toughness": "Average",
+      "speed": "Hungry",
+      "stamina": "Is hurled onto the lawn past your defenses, then shuffles ahead.",
+      "description": "What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him.Is hurled onto the lawn past your defenses, then shuffles ahead.What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him."
+    }
+  }
+}
