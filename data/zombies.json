@@ -587,6 +587,617 @@
       "speed": "Hungry",
       "stamina": "Is hurled onto the lawn past your defenses, then shuffles ahead.",
       "description": "What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him.Is hurled onto the lawn past your defenses, then shuffles ahead.What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him."
+    },
+    "ra zombie": {
+      "name": "ra zombie",
+      "toughness": "Average",
+      "speed": "Basic",
+      "special": "tries to steal sun",
+      "description": "Ra Zombie isn't actually named after the Sun God Ra, though that's a common mistake. He just likes to say Ra a lot.. Tries to steal sun, just for safe keeping.. "
+    },
+    "camel zombies": {
+      "name": "camel zombies",
+      "toughness": "Protected",
+      "speed": "Creeper",
+      "special": "arrives in a group of three zombies or more",
+      "description": "Arrives in step with other Camel Zombies.. "
+    },
+    "explorer zombie": {
+      "name": "explorer zombie",
+      "toughness": "Solid",
+      "speed": "Hungry",
+      "damage": "cold attacks extinguish torch",
+      "description": "torch destroys a plant on contact. Carries a torch that can instantly destroy your plants.. "
+    },
+    "tomb raiser zombie": {
+      "name": "tomb raiser zombie",
+      "toughness": "Dense",
+      "speed": "Basic",
+      "special": "creates tombstones on the lawn",
+      "description": "Throws out bones to create tombstones.. "
+    },
+    "pharaoh zombie": {
+      "name": "pharaoh zombie",
+      "toughness": "Hardened",
+      "speed": "Basic",
+      "speed details": "moves like a hungry zombie once free",
+      "description": "The second cousin once removed of King Rot, he rose to power with his disappearing sarcophagus act, but met his untimely end in an unfortunate goat accident. His tale is told in great detail on the back of his sarcophagus, which no one will ever see.. His sarcophagus greatly protects him but slows down a rather fast zombie.. "
+    },
+    "torchlight zombie": {
+      "name": "torchlight zombie",
+      "toughness": "Protected",
+      "speed": "Flighty",
+      "description": "Carries a torch that instantly destroys plants and scorches the earth."
+    },
+    "zombot sphinx-inator": {
+      "name": "zombot sphinx-inator",
+      "toughness": "Undying",
+      "speed": "Hungry",
+      "special": "missile attack can create tombstones",
+      "description": "The destroyer of plants from the ancient sands.. "
+    },
+    "swashbuckler zombie": {
+      "name": "swashbuckler zombie",
+      "toughness": "Average",
+      "speed": "Basic",
+      "special": "lands four tiles into your lawn",
+      "description": "Swings in on a rope to lane midway onto your lawn.. "
+    },
+    "seagull zombie": {
+      "name": "seagull zombie",
+      "toughness": "Average",
+      "speed": "Speedy",
+      "special": "iceberg lettuce",
+      "description": "spikeweed.  and . passes over low plants like . Crosses watery gaps without a plank and flies over low plants.. "
+    },
+    "barrel roller zombie": {
+      "name": "barrel roller zombie",
+      "toughness": "Hardened",
+      "speed": "Basic",
+      "damage": "imps thrown from barrel when destroyed",
+      "description": "crushes plants with barrel. His rolling barrel crushes plants and provides excellent protection.. "
+    },
+    "pirate captain zombie": {
+      "name": "pirate captain zombie",
+      "toughness": "Dense",
+      "speed": "Stiff",
+      "special": "parrot pet steals plants",
+      "description": "His parrot can fly away with your plant and then return to him.. "
+    },
+    "zombie parrot": {
+      "name": "zombie parrot",
+      "toughness": "Average",
+      "speed": "Flighty",
+      "special": "can fly to plants in other lanes to take them away",
+      "description": "Quickly flies from the Captain to carry away a plant.. "
+    },
+    "pelican zombie": {
+      "name": "pelican zombie",
+      "toughness": "Average",
+      "speed": "Flighty",
+      "special": "floats over low plants",
+      "description": "Pelican Zombie crosses water without a plank and flies over low plants.. "
+    },
+    "zombot plank walker": {
+      "name": "zombot plank walker",
+      "toughness": "Undying",
+      "speed": "Hungry",
+      "special": "cannon can rain down imps past your defenses",
+      "description": "The plant plundering privateer of the high seas.. "
+    },
+    "prospector zombie": {
+      "name": "prospector zombie",
+      "toughness": "Average",
+      "speed": "Stiff",
+      "special": "appears on the left side of your lawn when dynamite explodes",
+      "description": "There once was a zombie who got old, spending all his day looking for gold. 'Til one day in the rain, he finally ate the brains\u2026 and, wait, where's his other shoe?. Launches over your defenses when his fuse blows down.. "
+    },
+    "pianist zombie": {
+      "name": "pianist zombie",
+      "toughness": "Hardened",
+      "speed": "Creeper",
+      "special": "causes cowboy zombies to switch lanes",
+      "damage": "crushes plants with piano",
+      "description": "Pianist Zombie only knows two songs, and they're both groaners.. His rolling piano crushes plants while his music causes dancing zombies to switch lanes.. "
+    },
+    "poncho zombie": {
+      "name": "poncho zombie",
+      "toughness": "Hardened",
+      "speed": "Basic",
+      "special": "randomly wears a protective metal grate",
+      "description": "Sometimes has a hidden armored plate.. "
+    },
+    "chicken wrangler zombie": {
+      "name": "chicken wrangler zombie",
+      "toughness": "Solid",
+      "speed": "Hungry",
+      "special": "summons zombie chickens when damaged",
+      "description": "After publishing the fourth study on Ornithology, and four years of research at the Hadron Collider, Chicken Wrangler Zombie has finally solved the riddle of what came first.. Releases a flock of chickens once his baling wire is broken.. "
+    },
+    "zombie chicken": {
+      "name": "zombie chicken",
+      "toughness": "Fragile",
+      "speed": "Flighty",
+      "description": "Once released onto the lawn chickens run at full speed to peck at your brains."
+    },
+    "zombie bull": {
+      "name": "zombie bull",
+      "toughness": "Hardened",
+      "speed": "Stiff",
+      "special": "Tall-nut blocks flying imp",
+      "description": "launches a low flying imp rider over plants. Can launch his zombie rider past most of your defenses.. "
+    },
+    "rodeo legend zombie": {
+      "name": "rodeo legend zombie",
+      "toughness": "Hardened",
+      "speed": "Hungry",
+      "description": "Rodeo Legend Zombie smashes a plant and launches his zombie rider past most of your defenses."
+    },
+    "zombot war wagon": {
+      "name": "zombot war wagon",
+      "toughness": "Undying",
+      "speed": "Hungry",
+      "special": "fires four missiles instead of one",
+      "description": "missile attacks can target mine carts. The stagecoach of destruction from the western wilds.. "
+    },
+    "blockhead zombie": {
+      "name": "blockhead zombie",
+      "toughness": "Machined",
+      "speed": "Basic",
+      "description": "The ice block on his head provides amazing protection from damage."
+    },
+    "hunter zombie": {
+      "name": "hunter zombie",
+      "toughness": "Dense",
+      "speed": "Creeper",
+      "description": "Zombie that can throw snow balls at range to cool down plants until they freeze into blocks."
+    },
+    "dodo rider zombie": {
+      "name": "dodo rider zombie",
+      "toughness": "Protected",
+      "speed": "Speedy",
+      "description": "Dodo bird with an imp rider. The dodo can flap and jump over barricades as well as troublesome plants."
+    },
+    "troglobite": {
+      "name": "troglobite",
+      "toughness": "Dense",
+      "speed": "Basic",
+      "damage": "crushes plants with frozen blocks",
+      "description": "Strong zombie that can push blocks of ice across the lawn.. "
+    },
+    "weasel hoarder": {
+      "name": "weasel hoarder",
+      "toughness": "Solid",
+      "speed": "Basic",
+      "special": "Releases zombie ice weasels when damaged",
+      "description": "Weasel Hoarder claims she's the one who wrote the song Pop! Goes the Weasel. And for eons now, she's been demanding royalties for it. But everyone just ignores her. They know what Weasel Hoarder can't even carry a tune, much less write a catchy ditty about the sound of vermin make when hugged a bit too tightly.. Zombie hiding in a log with a pack of snow weasels. Weasels are released when her log is shattered.. "
+    },
+    "ice weasel": {
+      "name": "ice weasel",
+      "toughness": "Fragile",
+      "speed": "Flighty",
+      "description": "Once released, weasels run full speed even over ice floes to nibble your brains."
+    },
+    "zombot tuskmaster 10,000 bc": {
+      "name": "zombot tuskmaster 10,000 bc",
+      "toughness": "Undying",
+      "speed": "Hungry",
+      "description": "dr. zomboss was real impressed with himself when he came up with the idea to build a weaponized woolly mammoth with the power to blast snow and ice out of its mechanical trunk. but what dr. zomboss didn't realize until it was too late he's allergic to mammoth fur. now he has to load up on allergy medication every time he wants to take the darn thing out for a spin. The mammoth mech with an ice blast from the past."
+    },
+    "lost pilot zombie": {
+      "name": "lost pilot zombie",
+      "toughness": "Protected",
+      "speed": "Basic",
+      "description": "Drops in past defenses."
+    },
+    "excavator zombie": {
+      "name": "excavator zombie",
+      "toughness": "Protected",
+      "speed": "Speedy",
+      "damage": "blocks incoming projectiles, but is vulnerable to lobbed shots",
+      "description": "Digs up plants and throws them behind him.. "
+    },
+    "parasol zombie": {
+      "name": "parasol zombie",
+      "toughness": "Protected",
+      "speed": "Hungry",
+      "description": "Her parasol provides protection from lobbed projectiles."
+    },
+    "bug zombie": {
+      "name": "bug zombie",
+      "toughness": "Solid",
+      "speed": "Speedy",
+      "description": "Bug carries zombie in over ground defenses and lifts him over barriers."
+    },
+    "imp porter": {
+      "name": "imp porter",
+      "toughness": "Protected",
+      "speed": "Basic",
+      "description": "Drops pack on Gold Tile; pack becomes tent from which zombies emerge."
+    },
+    "relic hunter zombie": {
+      "name": "relic hunter zombie",
+      "toughness": "Dense",
+      "speed": "Stiff",
+      "description": "Swings in past defenses."
+    },
+    "turquoise skull zombie": {
+      "name": "turquoise skull zombie",
+      "toughness": "Protected",
+      "speed": "Basic",
+      "damage": " stolen sun cannot be retrieved",
+      "description": "beam range is increased when more sun is stolen. tries to steal sun. destroys one plant on the 4 tiles in front of him after attempting to steal sun. Uses skull to steal sun, then unleashes energy in a destructive beam.. "
+    },
+    "zombot aerostatic gondola": {
+      "name": "zombot aerostatic gondola",
+      "toughness": "Undying",
+      "speed": "Hungry",
+      "special": "drops zombies and bags o' sand",
+      "description": "The floating fortress from the skies above.. "
+    },
+    "mecha-football zombie": {
+      "name": "mecha-football zombie",
+      "toughness": "Machined",
+      "speed": "Basic",
+      "special": "pushes plants left instead of eating",
+      "description": "Pushes plants across the lawn.. "
+    },
+    "disco-tron 3000": {
+      "name": "disco-tron 3000",
+      "toughness": "Machined",
+      "speed": "Basic",
+      "special": "summons Disco Jetpack Zombies",
+      "description": "After some initial problems with the sideburn suspension system, the Disco-tron 3000 went on to become the shufflin' dance-bot of doom it is today.. Drops in disco zombies when dropping the beat.. "
+    },
+    "robo-cone zombie": {
+      "name": "robo-cone zombie",
+      "toughness": "Machined",
+      "speed": "Stiff",
+      "description": "The armor-plated cone offers phenomenal protection for its pilot."
+    },
+    "shield zombie": {
+      "name": "shield zombie",
+      "toughness": "Protected",
+      "speed": "Basic",
+      "special": "creates a shield to protect from incoming attacks",
+      "description": "Shield Zombie developed his system using funds from a BiteStarter campaign. The push goal for pushing plants was not met.. Protect himself and nearby zombies with a force field.. "
+    },
+    "blastronaut zombie": {
+      "name": "blastronaut zombie",
+      "toughness": "Protected",
+      "speed": "Flighty",
+      "special": "tall blocking plants",
+      "description": "floats over low plants, boosts over most other plants. Blastronaut Zombie boosts to float over all but the tallest plants.. "
+    },
+    "bug bot imp": {
+      "name": "bug bot imp",
+      "toughness": "Average",
+      "speed": "Hungry",
+      "description": "Lands on the lawn past your defenses, then hops forward."
+    },
+    "gargantuar prime": {
+      "name": "gargantuar prime",
+      "toughness": "Great",
+      "speed": "Stiff",
+      "damage": "launches Bug Bot when damaged",
+      "special": "has it all heavy armor, laser eyes, smashing arms, and bug bot deployment system.randomly burns tiles with laser eyes",
+      "description": "crushes plants with arms. "
+    },
+    "zombot tomorrow-tron": {
+      "name": "zombot tomorrow-tron",
+      "toughness": "Undying",
+      "speed": "Hungry",
+      "special": "missile attacks can destroy Power Tiles",
+      "description": "The Power Tile crushing creation from the Far Future.. "
+    },
+    "knight zombie": {
+      "name": "knight zombie",
+      "toughness": "Machined",
+      "speed": "Basic",
+      "description": "His king appointed helm provides amazing protection from damage."
+    },
+    "jester zombie": {
+      "name": "jester zombie",
+      "toughness": "Protected",
+      "speed": "Basic",
+      "description": "Returns projectiles that are shot at him."
+    },
+    "wizard zombie": {
+      "name": "wizard zombie",
+      "toughness": "Dense",
+      "speed": "Creeper",
+      "description": "Transforms plants into passive sheep."
+    },
+    "imp dragon zombie": {
+      "name": "imp dragon zombie",
+      "toughness": "Average",
+      "speed": "Basic",
+      "special": "Immune to fire damage",
+      "description": "Spit past most your defenses, then claws forward.. "
+    },
+    "zombot dark dragon": {
+      "name": "zombot dark dragon",
+      "toughness": "Undying",
+      "speed": "Hungry",
+      "damage": "lobbed fireballs can hatch Imp Dragon Zombies",
+      "description": "fire breathing attacks destroy plants. The desolator of all, from dark times.. "
+    },
+    "punk zombie": {
+      "name": "punk zombie",
+      "toughness": "Solid",
+      "speed": "Hungry",
+      "weakness": "Magnet Shrooms",
+      "description": " pull off his head. Moshes plants back a space when his jam is playing.. "
+    },
+    "mc zom-b": {
+      "name": "mc zom-b",
+      "toughness": "Solid",
+      "speed": "Hungry",
+      "damage": "destroys plants in a 3x3 area",
+      "description": "Spins microphone to damage nearby plants when he's dropping his sick, sick rhymes.. "
+    },
+    "breakdancer zombie": {
+      "name": "breakdancer zombie",
+      "toughness": "Solid",
+      "speed": "Hungry",
+      "description": "Kicks zombies forward when transported by the power of rap."
+    },
+    "glitter zombie": {
+      "name": "glitter zombie",
+      "toughness": "Dense",
+      "speed": "Basic",
+      "description": "Trails glamorous rainbows that protect zombies behind her when she's feeling the beat."
+    },
+    "boombox zombie": {
+      "name": "boombox zombie",
+      "toughness": "Dense",
+      "speed": "Basic",
+      "special": "Boom box has no effect on ground plants and Phat Beets",
+      "description": "Holds aloft a boom box that tranquilizes all plants with its heartfelt tunes.. "
+    },
+    "arcade zombie": {
+      "name": "arcade zombie",
+      "toughness": "Dense",
+      "speed": "Hungry",
+      "damage": "crushes plants with arcade machine",
+      "description": "Pushes an arcade cabinet that spits out 8-Bit Zombies.. "
+    },
+    "8-bit zombie": {
+      "name": "8-bit zombie",
+      "toughness": "Average",
+      "speed": "Basic",
+      "description": "Pixelated zombie generated by super cool arcade machine. Comes in regular, cone, and bucket flavors."
+    },
+    "zombot multi-stage masher": {
+      "name": "zombot multi-stage masher",
+      "toughness": "Undying",
+      "speed": "Hungry",
+      "special": "Speakers do passive damage (except to ground plants and Phat Beet) and send out shockwave attacks",
+      "description": "An intimate evening with some of Dr. Zomboss' most recent and painful explorations.. "
+    },
+    "jurassic fossilhead": {
+      "name": "jurassic fossilhead",
+      "toughness": "Machined",
+      "speed": "Stiff",
+      "description": "Fossil skulls not only provide a huge amount of damage absorption, but are also extremely classy."
+    },
+    "jurassic bully": {
+      "name": "jurassic bully",
+      "toughness": "Hardened",
+      "speed": "Stiff",
+      "special": "immune to Primal Peashooter\u2019s knockback",
+      "description": "Jurassic Bully is slow, stupid, and smells bad. But hey, at least he's punctual.. A trudging, damage-resistant zombie who is immune to Primal Peashooter's knockback.. "
+    },
+    "jurassic rockpuncher": {
+      "name": "jurassic rockpuncher",
+      "toughness": "Machined",
+      "speed": "Stiff",
+      "damage": "immune to Primal Peashooter\u2019s knockback",
+      "description": "crushes plants with rocks tied to his hands. Jurassic Rockpuncher pummels plants with rocks tied to his hands.. "
+    },
+    "jurassic imp": {
+      "name": "jurassic imp",
+      "toughness": "Fragile",
+      "speed": "Speedy",
+      "description": "A weaker, smaller, much more vicious version of the typical Jurassic zombie."
+    },
+    "jurassic gargantuar": {
+      "name": "jurassic gargantuar",
+      "toughness": "Great",
+      "speed": "Stiff",
+      "special": "launches Jurassic Imp when damaged",
+      "damage": "crushes plants with bone",
+      "description": "Jurassic Gargantuar wonders how there can be zombies millions of years before the advent of humanity. He doesn't let it get in the way of his plant-bashing, though.. Prehistoric provider of Mesozoic malarkey.. "
+    },
+    "zombot dinotronic mechasaur": {
+      "name": "zombot dinotronic mechasaur",
+      "toughness": "Undying",
+      "speed": "Hungry",
+      "special": "summons dinosaurs",
+      "description": "A mechanical means of dinosaurian destruction.. "
+    },
+    "surfer zombie": {
+      "name": "surfer zombie",
+      "toughness": "Dense",
+      "speed": "Flighty",
+      "damage": "can crush a plant with his board",
+      "description": "Surfs past plants on the water, then carries board on land.. "
+    },
+    "octo zombie": {
+      "name": "octo zombie",
+      "toughness": "Hardened",
+      "speed": "Creeper",
+      "special": "bound plants are passive until their octopus is destroyed",
+      "description": "Throws octopi at your plants to bind them up.. "
+    },
+    "zombot sharktronic sub": {
+      "name": "zombot sharktronic sub",
+      "toughness": "Undying",
+      "speed": "Hungry",
+      "special": "summoned zombie sharks can consume plants",
+      "description": "mouth turbine can pull plants to it. The ravenous engine of carnage from the murky depths.. "
+    },
+    "all-star zombie": {
+      "name": "all-star zombie",
+      "toughness": "Hardened",
+      "speed": "Flighty",
+      "damage": "slows down and becomes a stiff zombie after tackling a plant",
+      "description": "charges like a flighty zombie upon entering the lawn and destroys the first plant he meets. A heavy-duty zombie who charges your defensive line.. "
+    },
+    "super-fan imp": {
+      "name": "super-fan imp",
+      "toughness": "Average",
+      "speed": "Speedy",
+      "description": "An all-too-enthusiastic imp who explodes with rah-rah-rah."
+    },
+    "sunday edition zombie": {
+      "name": "sunday edition zombie",
+      "toughness": "Machined",
+      "speed": "Hungry",
+      "special": "become a flighty zombie when enraged",
+      "description": "The newspaper protects zombie, who becomes enraged when it is destroyed.. "
+    },
+    "centurion zombie": {
+      "name": "centurion zombie",
+      "toughness": "Machined",
+      "speed": "Basic",
+      "description": "A higher grade of Roman Zombie."
+    },
+    "healer zombie": {
+      "name": "healer zombie",
+      "toughness": "Dense",
+      "speed": "Creeper",
+      "description": "hot tip take this one out as fast as you can if you don't want your life turned into a pit of abject misery and despair. Uses weird Roman magic to heal zombies.. "
+    },
+    "roman shield zombie": {
+      "name": "roman shield zombie",
+      "toughness": "Protected",
+      "speed": "Creeper",
+      "description": "A dull-witted, unusually shy Roman zombie who's also carrying a shield."
+    },
+    "zcorpion zombie": {
+      "name": "zcorpion zombie",
+      "toughness": "Machined",
+      "speed": "Basic",
+      "description": "A ballista from Ancient Rome, the Zcorpion Zombie launches an exploding vase at the nearest plant in its lane."
+    },
+    "roman imp": {
+      "name": "roman imp",
+      "toughness": "Average",
+      "speed": "Hungry",
+      "description": "Small. Impy. Wears a former lion."
+    },
+    "gladiator gargantuar": {
+      "name": "gladiator gargantuar",
+      "toughness": "Great",
+      "speed": "Stiff",
+      "description": "Wears a helmet. Throws an imp AND a net. Just a real piece of work."
+    },
+    "zombie medusa": {
+      "name": "zombie medusa",
+      "toughness": "Dense",
+      "speed": "Basic",
+      "description": "Zombie Medusa pushes petrified zombies in stone blocks as well as stoneifying zombies and zomboids that face her."
+    },
+    "roman caesar zombie": {
+      "name": "roman caesar zombie",
+      "toughness": "Hardened",
+      "speed": "Creeper",
+      "description": "Roman Caesar Zombie tosses imperial salad dressing onto plants, making them irresistibly delicious to zombies. He also promotes Roman Zombies, giving them stronger helmets."
+    },
+    "head office impgantuar": {
+      "name": "head office impgantuar",
+      "toughness": "Great",
+      "speed": "Hungry",
+      "description": "His giant noggin is a blunt instrument of smashing."
+    },
+    "gargimp legal": {
+      "name": "gargimp legal",
+      "toughness": "Average",
+      "speed": "Hungry",
+
+      "description": "gargimp legal delivers cease-and-desists the old-fashioned way with a baseball bat.Tiny but fierce, the Gargimp Legal department is the best and the beast in the business."
+    },
+    "zcorp consultant": {
+      "name": "zcorp consultant",
+      "toughness": "Hardened",
+      "speed": "Hungry",
+      "description": "ZCorp Consultant disrupts your paradigm and tableflips your bluesky/redocean."
+    },
+    "zcorp helpdesk": {
+      "name": "zcorp helpdesk",
+      "toughness": "Protected",
+      "speed": "Basic",
+      "description": "ZCorp HelpDesk drops in and throws an exploding laptop."
+    },
+    "zcorp chair racer": {
+      "name": "zcorp chair racer",
+      "toughness": "Hardened",
+      "speed": "Stiff",
+      "description": "ZCorp Chair Racer zooms in at high speed, collides with great impact, and catapults leftward with extraordinary grace."
+    },
+    "grinderhead zombie": {
+      "name": "grinderhead zombie",
+      "toughness": "Machined",
+      "speed": "Basic",
+      "description": "Grinderbox helmet provides extra defense against attack, houses a monkey."
+    },
+    "carnie cannon": {
+      "name": "carnie cannon",
+      "toughness": "Dense",
+      "speed": "Basic",
+      "description": "Launches daredevil carnie imps high above the crowds."
+    },
+    "magician zombie": {
+      "name": "magician zombie",
+      "toughness": "Hardened",
+      "speed": "Creeper",
+      "description": "Magician Zombie vanishes zombies and himself forward on the board, and he's got sneaky doves who'll try to fly off with your plants."
+    },
+    "firebreather zombie": {
+      "name": "firebreather zombie",
+      "toughness": "Protected",
+      "speed": "Basic",
+      "description": "Firebreather Zombie... wait for it... breathes fire. And plenty of it!"
+    },
+    "stiltwalker zombie": {
+      "name": "stiltwalker zombie",
+      "toughness": "Dense",
+      "speed": "Speedy",
+      "description": "Stiltwalker Zombie's stilts allow him to walk right over most plants."
+    },
+    "carnie imp twins": {
+      "name": "carnie imp twins",
+      "toughness": "Average",
+      "speed": "Hungry",
+      "description": "Two imps are generously provided for the price of one."
+    },
+    "zombot catastro-liope": {
+      "name": "zombot catastro-liope",
+      "toughness": "Undying",
+      "speed": "Hungry",
+      "special": "Despite the decline of circuses in recent years, I refuse to give up on a form of entertainment with so much history and plant-destroying potential, cackles Dr. Zomboss, all while tapping out a jaunty little tune on his keyboard.",
+      "description": "can launch Cannonball Imps. The mystery-filled circus-wagon of terrors and delights.. "
+    },
+    "cardio zombie": {
+      "name": "cardio zombie",
+      "toughness": "Hardened",
+      "speed": "Stiff",
+      "description": "Advances to a set spot on the board, then tosses buffing brains at other zombies until he's chased away or retreats on his own."
+    },
+    "cake tank": {
+      "name": "cake tank",
+      "toughness": "Hardened",
+      "speed": "Creeper",
+      "description": "#caketank advances to a set position on the lawn, then emits shocking birthday surprises as its various layers takes damage."
+    },
+    "treasure yeti": {
+      "name": "treasure yeti",
+      "toughness": "Dense",
+      "speed": "Basic",
+      "special": "carries treasure",
+      "speed details": "runs away after a short while",
+      "description": "The rare and wondrous Yeti carries his lunch box up and down Mount Brainer to his isolated mountain lodge.. A rare and curious creature, he always packs a lunch.. "
     }
   }
 }
