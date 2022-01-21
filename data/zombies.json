@@ -1198,6 +1198,128 @@
       "special": "carries treasure",
       "speed details": "runs away after a short while",
       "description": "The rare and wondrous Yeti carries his lunch box up and down Mount Brainer to his isolated mountain lodge.. A rare and curious creature, he always packs a lunch.. "
+    },
+    "mummified gargantuar": {
+      "name": "mummified gargantuar",
+      "description": "Gargantuar is a recurring character within the Plants vs. Zombies franchise. Gargantuars are identified easily by their large muscles, usually holding a large weapon, their huge structure, and aggressive faces, and usually have high health and ways to instantly kill plants. Gargantuars are some of the toughest non-boss zombies in the franchise, and sometimes have been used as bosses due to their strength."
+    },
+    "imp cannon": {
+      "name": "imp cannon",
+      "toughness": "dense",
+      "damage": "fires imps to mid-lawn",
+      "special": "explodes into a shower of imps if not destroyed quickly",
+      "description": "Shoots Pirate Imps past your defenses. Eventually it can explode and rain down imps."
+    },
+    "gargantuar pirate": {
+      "name": "gargantuar pirate",
+      "description": "Gargantuar is a recurring character within the Plants vs. Zombies franchise. Gargantuars are identified easily by their large muscles, usually holding a large weapon, their huge structure, and aggressive faces, and usually have high health and ways to instantly kill plants. Gargantuars are some of the toughest non-boss zombies in the franchise, and sometimes have been used as bosses due to their strength."
+    },
+    "wild west gargantuar": {
+      "name": "wild west gargantuar",
+      "description": "Gargantuar is a recurring character within the Plants vs. Zombies franchise. Gargantuars are identified easily by their large muscles, usually holding a large weapon, their huge structure, and aggressive faces, and usually have high health and ways to instantly kill plants. Gargantuars are some of the toughest non-boss zombies in the franchise, and sometimes have been used as bosses due to their strength."
+    },
+    "yeti imp": {
+      "name": "yeti imp",
+      "description": "Yeti Imp is an Imp variant in Plants vs. Zombies: Garden Warfare, Plants vs. Zombies: Garden Warfare 2, and Plants vs. Zombies: Battle for Neighborville. Similar to the Exploding Imp, Yeti Imps run at the player and explode on contact, however, the Yeti Imp can also freeze the player, making it very hard to cope with in large. His attack is called the Snotcicles."
+    },
+    "sloth gargantuar": {
+      "name": "sloth gargantuar",
+      "description": "Gargantuar is a recurring character within the Plants vs. Zombies franchise. Gargantuars are identified easily by their large muscles, usually holding a large weapon, their huge structure, and aggressive faces, and usually have high health and ways to instantly kill plants. Gargantuars are some of the toughest non-boss zombies in the franchise, and sometimes have been used as bosses due to their strength."
+    },
+    "porter gargantuar": {
+      "name": "porter gargantuar",
+      "description": "Gargantuar is a recurring character within the Plants vs. Zombies franchise. Gargantuars are identified easily by their large muscles, usually holding a large weapon, their huge structure, and aggressive faces, and usually have high health and ways to instantly kill plants. Gargantuars are some of the toughest non-boss zombies in the franchise, and sometimes have been used as bosses due to their strength."
+    },
+    "peasant zombie": {
+      "name": "peasant zombie",
+      "description": "No-data found. if you found something you can create a pull request on github"
+    },
+    "zombie king": {
+      "name": "zombie king",
+      "toughness": "hardened",
+      "speed": "does not move",
+      "absorbs": "1000 damage",
+      "first seen": "dark ages, night-16",
+      "description": "Grants knight helms to nearby peasant zombies.\nAs Shakespeare once wrote, `Uneasy lies the head that wears a crown.` And Zombie King couldn't agree more. It is incredibly difficult to get a good night's sleep with a crown on your head. That thing is all kinds of uncomfortable."
+    },
+    "announcer imp": {
+      "name": "announcer imp",
+      "description": "Imp is a recurring character within the Plants vs. Zombies franchise. Imps typically sneak into plant defenses in one way or another then go further at high speeds, but have lower health. Even in games where they can't sneak into defenses, they typically either have their low health, their speed, or some other way to represent their stealth."
+    },
+    "dark ages gargantuar": {
+      "name": "dark ages gargantuar",
+      "description": "Gargantuar is a recurring character within the Plants vs. Zombies franchise. Gargantuars are identified easily by their large muscles, usually holding a large weapon, their huge structure, and aggressive faces, and usually have high health and ways to instantly kill plants. Gargantuars are some of the toughest non-boss zombies in the franchise, and sometimes have been used as bosses due to their strength"
+    },
+    "hair metal gargantuar": {
+      "name": "hair metal gargantuar",
+      "description": "Gargantuar is a recurring character within the Plants vs. Zombies franchise. Gargantuars are identified easily by their large muscles, usually holding a large weapon, their huge structure, and aggressive faces, and usually have high health and ways to instantly kill plants. Gargantuars are some of the toughest non-boss zombies in the franchise, and sometimes have been used as bosses due to their strength"
+    },
+    "pompadour conehead zombie": {
+      "name": "pompadour conehead zombie",
+      "description": "No-data found. if you found something you can create a pull request on github"
+    },
+    "pompadour buckethead zombie": {
+      "name": "pompadour buckethead zombie",
+      "description": "No-data found. if you found something you can create a pull request on github"
+    },
+    "snorkel zombie": {
+      "name": "snorkel zombie",
+      "description": "No-data found. if you found something you can create a pull request on github"
+    },
+    "fisherman zombie": {
+      "name": "fisherman zombie",
+      "special-1": "Pulls plants to the right",
+      "special-2": " Plants next to him are tossed off the lawn",
+      "description": " Plants next to him are tossed off the lawn"
+    },
+    "deep sea gargantuar": {
+      "name": "deep sea gargantuar",
+      "description": "Gargantuar is a recurring character within the Plants vs. Zombies franchise. Gargantuars are identified easily by their large muscles, usually holding a large weapon, their huge structure, and aggressive faces, and usually have high health and ways to instantly kill plants. Gargantuars are some of the toughest non-boss zombies in the franchise, and sometimes have been used as bosses due to their strength."
+    },
+    "balloon zombie": {
+      "name": "Balloon Zombie",
+      "description": "Balloon Zombie is a recurring character within the Plants vs. Zombies franchise. Balloon Zombies use the red balloons on their backs to hover over plants to reach the player's house, with each game having a different method of dealing with the floating assault."
+    },
+    "newspaper zombie": {
+      "name": "Newspaper Zombie",
+      "description": "Newspaper Zombie is a recurring character within the Plants vs. Zombies franchise. Newspaper Zombies arrive reading a newspaper, protecting them from projectiles until it is destroyed, leading the Newspaper Zombie to rampage towards plants in rage."
+    },
+    "imp": {
+      "name": "Imp",
+      "description": "Imp is a recurring character within the Plants vs. Zombies franchise. Imps typically sneak into plant defenses in one way or another then go further at high speeds, but have lower health. Even in games where they can't sneak into defenses, they typically either have their low health, their speed, or some other way to represent their stealth."
+    },
+    "gargantuar": {
+      "name": "Gargantuar",
+      "description": "Gargantuar is a recurring character within the Plants vs. Zombies franchise. Gargantuars are identified easily by their large muscles, usually holding a large weapon, their huge structure, and aggressive faces, and usually have high health and ways to instantly kill plants. Gargantuars are some of the toughest non-boss zombies in the franchise, and sometimes have been used as bosses due to their strength."
+    },
+    "zombie monkey": {
+      "name": "zombie monkey",
+      "toughness": "solid",
+      "speed": "flighty",
+      "absorbs": "300 damage",
+      "description": "Zombie Monkey absorbs 300 damage per shot and does not degrade. When defeated, it has a 50% chance to drop a silver coin."
+    },
+    "carnie imp": {
+      "name": "carnie imp",
+      "toughness": "hardened",
+      "speed": "hungry",
+      "absorbs": "1300(hat)\n190(zombie) damage",
+      "description": "This Imp is one of the strongest Imps due to having armor. Try to stall him with defensives to take time defeating him, as well as slowing plants. Magnet-shrooms are viable to take down this Imp, as they can remove his helmet."
+    },
+    "zombie dove": {
+      "name": "Zombie Dove",
+      "toughness": "average",
+      "speed": "flighty",
+      "absorbs": "150 damage",
+      "description": "The Zombie Dove absorbs 150 damage per shot and does not degrade. It will be eliminated immediately if hit by Kernel-pult's butter, shrunk by Shrinking Violet or blown away by Blover or Hurrikale."
+    },
+    "vase gargantuar": {
+      "name": "vase gargantuar",
+      "description": "Gargantuar is a recurring character within the Plants vs. Zombies franchise. Gargantuars are identified easily by their large muscles, usually holding a large weapon, their huge structure, and aggressive faces, and usually have high health and ways to instantly kill plants. Gargantuars are some of the toughest non-boss zombies in the franchise, and sometimes have been used as bosses due to their strength."
+    },
+    "z-mech": {
+      "name": "Z-Mech",
+      "description": "Z-Mech is a recurring character within the Plants vs. Zombies franchise. Originally just the name for the machine Imps use in the shooter series, the name has been used elsewhere in association with this Imp, implying the Imp's name is Z-Mech as well."
     }
   }
 }
