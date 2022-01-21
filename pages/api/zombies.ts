@@ -1,4 +1,4 @@
-const zoombies_name = require("../../data/zoombies_name.json");
+const zombies_name = require("../../data/zombies_name.json");
 export default function handler(
   req: any,
   res: {
@@ -10,5 +10,5 @@ export default function handler(
   }
 ) {
   // Get data from your database
-  res.status(200).json(zoombies_name.names);
+  res.status(200).json(zombies_name.names);
 }
