@@ -1,6 +1,5 @@
 import Image from "next/image";
-import { FunctionComponent, MouseEvent, useEffect, useState } from "react";
-import styles from "../styles/AboutCard.module.css";
+import { FunctionComponent, useState } from "react";
 
 interface AboutCardProps {
   title: string;
@@ -26,7 +25,7 @@ const AboutCard: FunctionComponent<AboutCardProps> = ({
 
   return (
     <div
-      className={`flex dark:border-gray-300 dark:bg-inherit w-3/4 max-w-md rounded-lg p-2 md:my-3  min-h-fit border border-gray-600 items-center ${border} hover:cursor-default ${styles.aboutCard} ${className} my-1 transition-all [transition-duration:200ms] animate-none shadow-md dark:shadow-gray-700`}
+      className={`flex dark:border-gray-300 dark:bg-inherit w-3/4 max-w-md rounded-lg p-2 md:my-3  min-h-fit border border-gray-600 items-center ${border} hover:cursor-default ${className} my-1 transition-all [transition-duration:200ms] animate-none shadow-md dark:shadow-gray-700 hover:[transform:scale(1.015)]`}
       onMouseOver={onMouseOver}
       onMouseOut={() => setOnHover(false)}
     >
