@@ -51,16 +51,12 @@ class SearchBar extends React.Component {
         <div className="w-full h-fit">
           <ul>
             {hits.map((val, index) => {
-              // console.log(hits);
-              // return <div key={index}>{val}</div>;
               return (
                 <li
                   className="cursor-pointer"
                   key={index}
                   onClick={(e) => {
                     this.setState({ term: val });
-
-                    // console.log(val);
                   }}
                 >
                   {val}
