@@ -12,13 +12,33 @@ class SearchBar extends React.Component {
   onFormSubmit = (event: { preventDefault: () => void }) => {
     // event.preventDefault();
   };
+  link_fetch(data: string) {
+    const base_url = `http://localhost:3000/api/`;
+    var re_link: string = "";
+    plants.names.forEach((element) => {
+      if (data == element) {
+        re_link = `${base_url}plants/${data}`;
+      }
+    });
+    zombies.names.forEach((element) => {
+      if (data == element) {
+        re_link = `${base_url}zombies/${data}`;
+      }
+    });
+    areas.names.forEach((element) => {
+      if (data == element) {
+        re_link = `${base_url}areas/${data}`;
+      }
+    });
+    return re_link;
+  }
   render = () => {
     return (
       <>
         <form
           onSubmit={(e) => this.onFormSubmit(e)}
           className="bg-transparent h-fit sm:max-w-lg w-full p-2 px-5 "
-          action={`http://localhost:3000/api/plants/${this.state.term}`}
+          action={this.link_fetch(this.state.term)}
         >
           <input
             title="Search"
