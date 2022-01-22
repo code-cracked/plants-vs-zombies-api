@@ -48,6 +48,7 @@ const Home: NextPage = () => {
               alt="header_image"
             />
           </div>
+
           <SearchBar />
         </div>
         <div className="bottom-4 cursor-pointer">
