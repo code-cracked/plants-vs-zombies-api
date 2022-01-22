@@ -1,6 +1,6 @@
 {
   "data": {
-    "A.K.E.E.": {
+    "a.k.e.e.": {
       "name": "A.K.E.E.",
       "cost": 175,
       "recharge": 5,
@@ -10,7 +10,7 @@
       "description": "A.K.E.E.s lob projectiles that bounce from zombie to zombie.",
       "image": "/assets/plants/A.K.E.E..png"
     },
-    "Ail-mint": {
+    "ail-mint": {
       "name": "Ail-mint",
       "Sun cost": "0",
       "Recharge": "85 seconds",
@@ -19,7 +19,7 @@
       "Family": "Ail-mint",
       "image": "/assets/plants/Ail-mint.png"
     },
-    "Aloe": {
+    "aloe": {
       "name": "Aloe",
       "Sun cost": "75",
       "Recharge": "20 seconds",
@@ -27,7 +27,7 @@
       "Family": "Reinforce-mint",
       "image": "/assets/plants/Aloe.png"
     },
-    "Apple Mortar": {
+    "apple mortar": {
       "name": "Apple Mortar",
       "Sun cost": "250",
       "Recharge": "8 seconds",
@@ -37,7 +37,7 @@
       "Family": "Arma-mint",
       "image": "/assets/plants/Apple Mortar.png"
     },
-    "Arma-mint": {
+    "arma-mint": {
       "name": "Arma-mint",
       "Sun cost": "0",
       "Recharge": "85 seconds",
@@ -46,7 +46,7 @@
       "Family": "Arma-mint",
       "image": "/assets/plants/Arma-mint.png"
     },
-    "Banana Launcher": {
+    "banana launcher": {
       "name": "Banana Launcher",
       "Sun cost": "500",
       "Recharge": "5 seconds",
@@ -58,7 +58,7 @@
       "Family": "Arma-mint",
       "image": "/assets/plants/Banana Launcher.png"
     },
-    "Blastberry Vine": {
+    "blastberry vine": {
       "name": "Blastberry Vine",
       "Sun cost": "175",
       "Recharge": "10 seconds",
@@ -66,7 +66,7 @@
       "Family": "Arma-mint",
       "image": "/assets/plants/Blastberry Vine.png"
     },
-    "Bloomerang": {
+    "bloomerang": {
       "name": "Bloomerang",
       "cost": 175,
       "recharge": 5,
@@ -78,7 +78,7 @@
       "description": "Bloomerang is the first new plant the player receives in Plants vs. Zombies 2. He fires boomerang petals down his lane that can hit up to three targets twice (once when it moves forward and once when it returns.) It fires every 3 seconds.",
       "image": "/assets/plants/Bloomerang.png"
     },
-    "Blooming Heart": {
+    "blooming heart": {
       "name": "Blooming Heart",
       "Sun cost": "150",
       "Recharge": "5 seconds",
@@ -87,7 +87,7 @@
       "Family": "Ail-mint",
       "image": "/assets/plants/Blooming Heart.png"
     },
-    "Blover": {
+    "blover": {
       "name": "Blover",
       "cost": 50,
       "recharge": 5,
@@ -98,7 +98,7 @@
       "description": "Blovers blow away all zombies in air",
       "image": "/assets/plants/Blover.png"
     },
-    "Bombard-mint": {
+    "bombard-mint": {
       "name": "Bombard-mint",
       "Sun cost": "0",
       "Recharge": "85 seconds",
@@ -107,7 +107,7 @@
       "Family": "Bombard-mint",
       "image": "/assets/plants/Bombard-mint.png"
     },
-    "Bonk Choy": {
+    "bonk choy": {
       "name": "Bonk Choy",
       "cost": 150,
       "recharge": 5,
@@ -118,7 +118,7 @@
       "description": "Bonk Choys rapidly punch nearby enemies that are ahead or behind them.\nSpecial: can attack ahead or behind",
       "image": "/assets/plants/Bonk Choy.png"
     },
-    "Boom Balloon Flower": {
+    "boom balloon flower": {
       "name": "Boom Balloon Flower",
       "Sun cost": "350",
       "Recharge": "5",
@@ -128,7 +128,7 @@
       "Family": "Bombard-mint",
       "image": "/assets/plants/Boom Balloon Flower.png"
     },
-    "Bowling Bulb": {
+    "bowling bulb": {
       "name": "Bowling Bulb",
       "Sun cost": "200",
       "Recharge": "5 seconds",
@@ -139,7 +139,7 @@
       "Family": "Appease-mint",
       "image": "/assets/plants/Bowling Bulb.png"
     },
-    "Cabbage-pult": {
+    "cabbage-pult": {
       "name": "Cabbage-pult",
       "cost": 100,
       "recharge": 5,
@@ -149,7 +149,7 @@
       "description": "Cabbage-pults hurl cabbages at the enemy.",
       "image": "/assets/plants/Cabbage-pult.png"
     },
-    "Caulipower": {
+    "caulipower": {
       "name": "Caulipower",
       "Sun cost": "250 (300 in Chinese version)",
       "Recharge": "45 seconds",
@@ -159,7 +159,7 @@
       "Family": "Enchant-mint",
       "image": "/assets/plants/Caulipower.png"
     },
-    "Celery Stalker": {
+    "celery stalker": {
       "name": "Celery Stalker",
       "Sun cost": "50",
       "Recharge": "15 seconds",
@@ -170,7 +170,7 @@
       "Family": "Enforce-mint",
       "image": "/assets/plants/Celery Stalker.png"
     },
-    "Chard Guard": {
+    "chard guard": {
       "name": "Chard Guard",
       "cost": 75,
       "recharge": 15,
@@ -180,7 +180,7 @@
       "description": "Chard Guards are defensive blockers that can hurl zombies backwards.",
       "image": "/assets/plants/Chard Guard.png"
     },
-    "Cherry Bomb": {
+    "cherry bomb": {
       "name": "Cherry Bomb",
       "cost": 150,
       "recharge": 35,
@@ -191,7 +191,7 @@
       "description": "Cherry Bombs can blow up all zombies in an area. They have a short fuse so plant them near zombies.",
       "image": "/assets/plants/Cherry Bomb.png"
     },
-    "Chili Bean": {
+    "chili bean": {
       "name": "Chili Bean",
       "cost": 50,
       "recharge": 20,
@@ -201,7 +201,7 @@
       "description": "Chili Beans deliver a crippling bout of gastrointestinal distress.",
       "image": "/assets/plants/Chili Bean.png"
     },
-    "Citron": {
+    "citron": {
       "name": "Citron",
       "cost": 350,
       "recharge": 5,
@@ -211,7 +211,7 @@
       "description": "Citrons shoot powerful balls of plasma",
       "image": "/assets/plants/Citron.png"
     },
-    "Coconut Cannon": {
+    "coconut cannon": {
       "name": "Coconut Cannon",
       "cost": 400,
       "recharge": 5,
@@ -224,7 +224,7 @@
       "description": "Coconut Cannons fire down a single lane, causing a medium explosion upon impact.",
       "image": "/assets/plants/Coconut Cannon.png"
     },
-    "Cold Snapdragon": {
+    "cold snapdragon": {
       "name": "Cold Snapdragon",
       "Sun cost": "150, 250 (China)",
       "Recharge": "5 seconds",
@@ -234,7 +234,7 @@
       "Family": "Winter-mint",
       "image": "/assets/plants/Cold Snapdragon.png"
     },
-    "Conceal-mint": {
+    "conceal-mint": {
       "name": "Conceal-mint",
       "Sun cost": "0",
       "Recharge": "85 seconds",
@@ -242,7 +242,7 @@
       "Family": "Conceal-mint",
       "image": "/assets/plants/Conceal-mint.png"
     },
-    "Contain-mint": {
+    "contain-mint": {
       "name": "Contain-mint",
       "Sun cost": "0",
       "Recharge": "85",
@@ -251,7 +251,7 @@
       "Family": "Contain-mint",
       "image": "/assets/plants/Contain-mint.png"
     },
-    "Dartichoke": {
+    "dartichoke": {
       "name": "Dartichoke",
       "Sun cost": "225",
       "Recharge": "8.5 seconds",
@@ -262,7 +262,7 @@
       "Family": "Spear-mint",
       "image": "/assets/plants/Dartichoke.png"
     },
-    "Dazey Chain": {
+    "dazey chain": {
       "name": "Dazey Chain",
       "Sun cost": "150",
       "Recharge": "5 seconds",
@@ -270,7 +270,7 @@
       "Family": "Contain-mint",
       "image": "/assets/plants/Dazey Chain.png"
     },
-    "Draftodil": {
+    "draftodil": {
       "name": "Draftodil",
       "Sun cost": "100",
       "Recharge": "5 seconds",
@@ -281,7 +281,7 @@
       "Family": "Contain-mint",
       "image": "/assets/plants/Draftodil.png"
     },
-    "Dusk Lobber": {
+    "dusk lobber": {
       "name": "Dusk Lobber",
       "Sun cost": "150 (200 in China)",
       "Recharge": "10 seconds",
@@ -291,7 +291,7 @@
       "Family": "Conceal-mint",
       "image": "/assets/plants/Dusk Lobber.png"
     },
-    "E.M.Peach": {
+    "e.m.peach": {
       "name": "E.M.Peach",
       "cost": 25,
       "recharge": 25,
@@ -302,7 +302,7 @@
       "description": "E.M.Peaches explode and disable all machines in an area.",
       "image": "/assets/plants/E.M.Peach.png"
     },
-    "Electrici-tea": {
+    "electrici-tea": {
       "name": "Electrici-tea",
       "Sun cost": "125",
       "Recharge": "15 seconds",
@@ -314,7 +314,7 @@
       "Family": "Fila-mint",
       "image": "/assets/plants/Electrici-tea.png"
     },
-    "Enchant-mint": {
+    "enchant-mint": {
       "name": "Enchant-mint",
       "Sun cost": "0",
       "Recharge": "85 seconds",
@@ -322,7 +322,7 @@
       "Family": "Enchant-mint",
       "image": "/assets/plants/Enchant-mint.png"
     },
-    "Endurian": {
+    "endurian": {
       "name": "Endurian",
       "cost": 100,
       "recharge": 15,
@@ -332,7 +332,7 @@
       "description": "Endurians are defensive plants that deal damage to zombies attacking them.",
       "image": "/assets/plants/Endurian.png"
     },
-    "Enforce-mint": {
+    "enforce-mint": {
       "name": "Enforce-mint",
       "Sun cost": "0",
       "Recharge": "85 seconds",
@@ -340,7 +340,7 @@
       "Family": "Enforce-mint",
       "image": "/assets/plants/Enforce-mint.png"
     },
-    "Enlighten-mint": {
+    "enlighten-mint": {
       "name": "Enlighten-mint",
       "Sun cost": "0",
       "Recharge": "85 seconds",
@@ -348,7 +348,7 @@
       "Family": "Enlighten-mint",
       "image": "/assets/plants/Enlighten-mint.png"
     },
-    "Escape Root": {
+    "escape root": {
       "name": "Escape Root",
       "Sun cost": "50",
       "Recharge": "20 seconds",
@@ -356,7 +356,7 @@
       "Family": "Bombard-mint",
       "image": "/assets/plants/Escape Root.png"
     },
-    "Explode-O-Nut": {
+    "explode-o-nut": {
       "name": "Explode-O-Nut",
       "Sun cost": "50",
       "Recharge": "10 seconds",
@@ -365,7 +365,7 @@
       "Family": "Bombard-mint",
       "image": "/assets/plants/Explode-O-Nut.png"
     },
-    "Explode-o-Vine": {
+    "explode-o-vine": {
       "name": "Explode-o-Vine",
       "Sun cost": "150",
       "Recharge": "10 seconds",
@@ -374,7 +374,7 @@
       "Family": "Bombard-mint",
       "image": "/assets/plants/Explode-o-Vine.png"
     },
-    "Fila-mint": {
+    "fila-mint": {
       "name": "Fila-mint",
       "Sun cost": "0",
       "Recharge": "85 seconds",
@@ -383,7 +383,7 @@
       "Family": "Fila-mint",
       "image": "/assets/plants/Fila-mint.png"
     },
-    "Fume-shroom": {
+    "fume-shroom": {
       "name": "Fume-shroom",
       "Sun cost": "125",
       "Recharge": "5 seconds",
@@ -392,7 +392,7 @@
       "Family": "Ail-mint",
       "image": "/assets/plants/Fume-shroom.png"
     },
-    "Garlic": {
+    "garlic": {
       "name": "Garlic",
       "Sun cost": "50",
       "Recharge": "20 seconds",
@@ -403,7 +403,7 @@
       "Family": "Ail-mint",
       "image": "/assets/plants/Garlic.png"
     },
-    "Ghost Pepper": {
+    "ghost pepper": {
       "name": "Ghost Pepper",
       "Sun cost": "75, 100 (China)",
       "Recharge": "15 seconds",
@@ -412,7 +412,7 @@
       "Family": "Pepper-mint",
       "image": "/assets/plants/Ghost Pepper.png"
     },
-    "Gloom Vine": {
+    "gloom vine": {
       "name": "Gloom Vine",
       "Sun cost": "125",
       "Recharge": "5 seconds",
@@ -423,7 +423,7 @@
       "Family": "Conceal-mint",
       "image": "/assets/plants/Gloom Vine.png"
     },
-    "Gold Bloom": {
+    "gold bloom": {
       "name": "Gold Bloom",
       "Sun cost": "0",
       "Recharge": "75 seconds",
@@ -431,7 +431,7 @@
       "Family": "Enlighten-mint",
       "image": "/assets/plants/Gold Bloom.png"
     },
-    "Gold Leaf": {
+    "gold leaf": {
       "name": "Gold Leaf",
       "cost": 50,
       "recharge": 30,
@@ -440,7 +440,7 @@
       "description": "Gold Leaves create a Gold Tile on planting.",
       "image": "/assets/plants/Gold Leaf.png"
     },
-    "Grapeshot": {
+    "grapeshot": {
       "name": "Grapeshot",
       "Sun cost": "150",
       "Recharge": "35 seconds",
@@ -452,7 +452,7 @@
       "Family": "Bombard-mint",
       "image": "/assets/plants/Grapeshot.png"
     },
-    "Grave Buster": {
+    "grave buster": {
       "name": "Grave Buster",
       "cost": 0,
       "recharge": 10,
@@ -463,7 +463,7 @@
       "description": "Grave Busters consume graves they're planted on.",
       "image": "/assets/plants/Grave Buster.png"
     },
-    "Grimrose": {
+    "grimrose": {
       "name": "Grimrose",
       "Sun cost": "75",
       "Recharge": "20 seconds",
@@ -472,7 +472,7 @@
       "Family": "Conceal-mint",
       "image": "/assets/plants/Grimrose.png"
     },
-    "Gumnut": {
+    "gumnut": {
       "name": "Gumnut",
       "Sun cost": "125",
       "Recharge": "12",
@@ -482,7 +482,7 @@
       "Family": "Reinforce-mint",
       "image": "/assets/plants/Gumnut.png"
     },
-    "Headbutter Lettuce": {
+    "headbutter lettuce": {
       "name": "Headbutter Lettuce",
       "Sun cost": "175",
       "Recharge": "7 seconds",
@@ -492,7 +492,7 @@
       "Family": "Enforce-mint",
       "image": "/assets/plants/Headbutter Lettuce.png"
     },
-    "Heath Seeker": {
+    "heath seeker": {
       "name": "Heath Seeker",
       "Sun cost": "125",
       "Recharge": "20",
@@ -502,7 +502,7 @@
       "Family": "Spear-mint",
       "image": "/assets/plants/Heath Seeker.png"
     },
-    "Hocus Crocus": {
+    "hocus crocus": {
       "name": "Hocus Crocus",
       "Sun cost": "200",
       "Recharge": "20 seconds",
@@ -511,7 +511,7 @@
       "Family": "Enchant-mint",
       "image": "/assets/plants/Hocus Crocus.png"
     },
-    "Holly Barrier": {
+    "holly barrier": {
       "name": "Holly Barrier",
       "Sun cost": "150",
       "Recharge": "15 seconds",
@@ -522,7 +522,7 @@
       "Family": "Reinforce-mint",
       "image": "/assets/plants/Holly Barrier.png"
     },
-    "Homing Thistle": {
+    "homing thistle": {
       "name": "Homing Thistle",
       "Sun cost": "250",
       "Recharge": "15 seconds",
@@ -531,7 +531,7 @@
       "Family": "Spear-mint",
       "image": "/assets/plants/Homing Thistle.png"
     },
-    "Hot Potato": {
+    "hot potato": {
       "name": "Hot Potato",
       "cost": 0,
       "recharge": 10,
@@ -541,7 +541,7 @@
       "description": "Hot Potatoes melt the ice blocks they're planted on.",
       "image": "/assets/plants/Hot Potato.png"
     },
-    "Iceberg Lettuce": {
+    "iceberg lettuce": {
       "name": "Iceberg Lettuce",
       "cost": 0,
       "recharge": 20,
@@ -552,7 +552,7 @@
       "description": "Iceberg Lettuces freeze a zombie when stepped on.",
       "image": "/assets/plants/Iceberg Lettuce.png"
     },
-    "Imp Pear": {
+    "imp pear": {
       "name": "Imp Pear",
       "Sun cost": "0",
       "Recharge": "5 seconds",
@@ -561,7 +561,7 @@
       "Family": "Ail-mint",
       "image": "/assets/plants/Imp Pear.png"
     },
-    "Infi-nut": {
+    "infi-nut": {
       "name": "Infi-nut",
       "cost": 75,
       "recharge": 15,
@@ -572,7 +572,7 @@
       "description": "Infi-nuts are weaker than Wall-nuts, but they regain health over time.",
       "image": "/assets/plants/Infi-nut.png"
     },
-    "Intensive Carrot": {
+    "intensive carrot": {
       "name": "Intensive Carrot",
       "Sun cost": "100",
       "Recharge": "20 seconds",
@@ -581,7 +581,7 @@
       "Family": "Enchant-mint",
       "image": "/assets/plants/Intensive Carrot.png"
     },
-    "Jack O%27 Lantern": {
+    "jack o%27 lantern": {
       "name": "Jack O%27 Lantern",
       "Sun cost": "225",
       "Recharge": "20 seconds",
@@ -592,7 +592,7 @@
       "Family": "Pepper-mint",
       "image": "/assets/plants/Jack O%27 Lantern.png"
     },
-    "Jalapeno": {
+    "jalapeno": {
       "name": "Jalapeno",
       "Sun cost": "125",
       "Recharge": "35 seconds",
@@ -603,7 +603,7 @@
       "Family": "Pepper-mint",
       "image": "/assets/plants/Jalapeno.png"
     },
-    "Kernel-pult": {
+    "kernel-pult": {
       "name": "Kernel-pult",
       "cost": 100,
       "recharge": 5,
@@ -613,7 +613,7 @@
       "description": "Kernel-pults fling corn kernels and butter at zombies.",
       "image": "/assets/plants/Kernel-pult.png"
     },
-    "Kiwibeast": {
+    "kiwibeast": {
       "name": "Kiwibeast",
       "Sun cost": "175",
       "Recharge": "15 seconds",
@@ -625,7 +625,7 @@
       "Family": "Enforce-mint",
       "image": "/assets/plants/Kiwibeast.png"
     },
-    "Laser Bean": {
+    "laser bean": {
       "name": "Laser Bean",
       "cost": 200,
       "recharge": 5,
@@ -636,7 +636,7 @@
       "description": "Laser Beans fire down a lane, hitting all zombies ahead of it.",
       "image": "/assets/plants/Laser Bean.png"
     },
-    "Lava Guava": {
+    "lava guava": {
       "name": "Lava Guava",
       "Sun cost": "75",
       "Recharge": "15 seconds",
@@ -650,7 +650,7 @@
       "Family": "Pepper-mint",
       "image": "/assets/plants/Lava Guava.png"
     },
-    "Lightning Reed": {
+    "lightning reed": {
       "name": "Lightning Reed",
       "cost": 125,
       "recharge": 5,
@@ -661,7 +661,7 @@
       "description": "Lightning Reeds shoot lightning at nearest zombie up to one lane away. The bolt will then arc and hit other zombies.",
       "image": "/assets/plants/Lightning Reed.png"
     },
-    "Lily Pad": {
+    "lily pad": {
       "name": "Lily Pad",
       "Sun cost": "25",
       "Recharge": "5 seconds",
@@ -669,7 +669,7 @@
       "Usage": "Can also be planted under non-aquatic plants",
       "image": "/assets/plants/Lily Pad.png"
     },
-    "Magnet-shroom": {
+    "magnet-shroom": {
       "name": "Magnet-shroom",
       "Sun cost": "100",
       "Recharge": "15 seconds",
@@ -678,7 +678,7 @@
       "Family": "Contain-mint",
       "image": "/assets/plants/Magnet-shroom.png"
     },
-    "Magnifying Grass": {
+    "magnifying grass": {
       "name": "Magnifying Grass",
       "cost": 50,
       "recharge": 5,
@@ -689,12 +689,12 @@
       "description": "Magnifying Grass turns sun into a bolt of colorful damage.",
       "image": "/assets/plants/Magnifying Grass.png"
     },
-    "Marigold": {
+    "marigold": {
       "name": "Marigold",
       "Sun cost": "N/A",
       "image": "/assets/plants/Marigold.png"
     },
-    "Melon-pult": {
+    "melon-pult": {
       "name": "Melon-pult",
       "cost": 325,
       "recharge": 5,
@@ -704,7 +704,7 @@
       "description": "Melon-pults do heavy damage to groups of zombies.",
       "image": "/assets/plants/Melon-pult.png"
     },
-    "Missile Toe": {
+    "missile toe": {
       "name": "Missile Toe",
       "Sun cost": "500",
       "400 (China)": "Recharge",
@@ -715,7 +715,7 @@
       "Family": "Winter-mint",
       "image": "/assets/plants/Missile Toe.png"
     },
-    "Moonflower": {
+    "moonflower": {
       "name": "Moonflower",
       "Sun cost": "50",
       "Recharge": "10 seconds (Mediocre in China)",
@@ -725,7 +725,7 @@
       "Family": "Conceal-mint",
       "image": "/assets/plants/Moonflower.png"
     },
-    "Murkadamia Nut": {
+    "murkadamia nut": {
       "name": "Murkadamia Nut",
       "Sun cost": "100",
       "Recharge": "10 seconds",
@@ -734,7 +734,7 @@
       "Family": "Conceal-mint",
       "image": "/assets/plants/Murkadamia Nut.png"
     },
-    "Nightshade": {
+    "nightshade": {
       "name": "Nightshade",
       "Sun cost": "75 (50 in Chinese version)",
       "Recharge": "5 seconds",
@@ -747,7 +747,7 @@
       "Family": "Conceal-mint",
       "image": "/assets/plants/Nightshade.png"
     },
-    "Olive Pit": {
+    "olive pit": {
       "name": "Olive Pit",
       "Sun cost": "175",
       "Recharge": "7 seconds",
@@ -756,7 +756,7 @@
       "Family": "Contain-mint",
       "image": "/assets/plants/Olive Pit.png"
     },
-    "Parsnip": {
+    "parsnip": {
       "name": "Parsnip",
       "Sun cost": "150",
       "125 (China)": "Recharge",
@@ -767,7 +767,7 @@
       "Family": "Enforce-mint",
       "image": "/assets/plants/Parsnip.png"
     },
-    "Pea Pod": {
+    "pea pod": {
       "name": "Pea Pod",
       "cost": 125,
       "recharge": 5,
@@ -778,7 +778,7 @@
       "description": "Pea Pods can be planted in the same space for up to 5 times the destruction.",
       "image": "/assets/plants/Pea Pod.png"
     },
-    "Pea Vine": {
+    "pea vine": {
       "name": "Pea Vine",
       "Sun cost": "125",
       "Recharge": "5",
@@ -787,7 +787,7 @@
       "Family": "Appease-mint",
       "image": "/assets/plants/Pea Vine.png"
     },
-    "Pea-nut": {
+    "pea-nut": {
       "name": "Pea-nut",
       "Sun cost": "150",
       "Recharge": "15 seconds",
@@ -796,7 +796,7 @@
       "Family": "Reinforce-mint",
       "image": "/assets/plants/Pea-nut.png"
     },
-    "Peashooter": {
+    "peashooter": {
       "name": "Peashooter",
       "cost": 100,
       "recharge": 5,
@@ -808,7 +808,7 @@
       "description": "Peashooter is your first line of defense which shoots peas to attack zombies. \nPlant feature: green plant, pea family",
       "image": "/assets/plants/Peashooter.png"
     },
-    "Pepper-mint": {
+    "pepper-mint": {
       "name": "Pepper-mint",
       "Sun cost": "0",
       "Recharge": "85 seconds",
@@ -817,7 +817,7 @@
       "Family": "Pepper-mint",
       "image": "/assets/plants/Pepper-mint.png"
     },
-    "Pepper-pult": {
+    "pepper-pult": {
       "name": "Pepper-pult",
       "cost": 200,
       "recharge": 20,
@@ -828,14 +828,14 @@
       "description": "Pepper-pults lob flaming peppers at zombies and keeps nearby plants warm.",
       "image": "/assets/plants/Pepper-pult.png"
     },
-    "Perfume-shroom": {
+    "perfume-shroom": {
       "name": "Perfume-shroom",
       "Sun cost": "150",
       "Recharge": "30 seconds",
       "Usage": "Hypnotizes all dinosaurs in a lane",
       "image": "/assets/plants/Perfume-shroom.png"
     },
-    "Potato Mine": {
+    "potato mine": {
       "name": "Potato Mine",
       "cost": 25,
       "recharge": 20,
@@ -845,7 +845,7 @@
       "description": "Potato Mines explode on contact, but they take time to arm. Plant them ahead of zombies.",
       "image": "/assets/plants/Potato Mine.png"
     },
-    "Power Lily": {
+    "power lily": {
       "name": "Power Lily",
       "Sun cost": "175",
       "Recharge": "60 seconds",
@@ -853,7 +853,7 @@
       "Special": "Creates one Plant Food",
       "image": "/assets/plants/Power Lily.png"
     },
-    "Power Vine": {
+    "power vine": {
       "name": "Power Vine",
       "Sun cost": "150",
       "Recharge": "5 seconds",
@@ -862,7 +862,7 @@
       "Family": "Fila-mint",
       "image": "/assets/plants/Power Vine.png"
     },
-    "Primal Peashooter": {
+    "primal peashooter": {
       "name": "Primal Peashooter",
       "Sun cost": "175",
       "Recharge": "5 seconds",
@@ -871,7 +871,7 @@
       "Family": "Appease-mint",
       "image": "/assets/plants/Primal Peashooter.png"
     },
-    "Primal Potato Mine": {
+    "primal potato mine": {
       "name": "Primal Potato Mine",
       "Sun cost": "50 (25 in Chinese version)",
       "Recharge": "25 seconds",
@@ -882,7 +882,7 @@
       "Family": "Bombard-mint",
       "image": "/assets/plants/Primal Potato Mine.png"
     },
-    "Primal Sunflower": {
+    "primal sunflower": {
       "name": "Primal Sunflower",
       "Sun cost": "75",
       "Recharge": "5 seconds",
@@ -890,7 +890,7 @@
       "Family": "Enlighten-mint",
       "image": "/assets/plants/Primal Sunflower.png"
     },
-    "Primal Wall-nut": {
+    "primal wall-nut": {
       "name": "Primal Wall-nut",
       "Sun cost": "75",
       "Recharge": "Fast",
@@ -898,7 +898,7 @@
       "Family": "Reinforce-mint",
       "image": "/assets/plants/Primal Wall-nut.png"
     },
-    "Puff-shroom": {
+    "puff-shroom": {
       "name": "Puff-shroom",
       "Sun cost": "0",
       "Recharge": "5 seconds",
@@ -908,7 +908,7 @@
       "Family": "Ail-mint",
       "image": "/assets/plants/Puff-shroom.png"
     },
-    "Puffball": {
+    "puffball": {
       "name": "Puffball",
       "Sun cost": "150",
       "Recharge": "20 seconds",
@@ -917,7 +917,7 @@
       "Family": "Ail-mint",
       "image": "/assets/plants/Puffball.png"
     },
-    "Pumpkin": {
+    "pumpkin": {
       "name": "Pumpkin",
       "Sun cost": "150",
       "Recharge": "12 seconds",
@@ -926,7 +926,7 @@
       "Family": "Reinforce-mint",
       "image": "/assets/plants/Pumpkin.png"
     },
-    "Pyre Vine": {
+    "pyre vine": {
       "name": "Pyre Vine",
       "Sun cost": "125",
       "Recharge": "10 seconds",
@@ -935,7 +935,7 @@
       "Family": "Pepper-mint",
       "image": "/assets/plants/Pyre Vine.png"
     },
-    "Red Stinger": {
+    "red stinger": {
       "name": "Red Stinger",
       "cost": 150,
       "recharge": 5,
@@ -946,7 +946,7 @@
       "description": "Red Stingers fire shots at full force when close to home, and become more defensive further from it.",
       "image": "/assets/plants/Red Stinger.png"
     },
-    "Reinforce-mint": {
+    "reinforce-mint": {
       "name": "Reinforce-mint",
       "Sun cost": "0",
       "Recharge": "85 seconds",
@@ -955,7 +955,7 @@
       "Family": "Reinforce-mint",
       "image": "/assets/plants/Reinforce-mint.png"
     },
-    "Repeater": {
+    "repeater": {
       "name": "Repeater",
       "cost": 200,
       "recharge": 5,
@@ -965,7 +965,7 @@
       "description": "Repeater fires two peas at a time.",
       "image": "/assets/plants/Repeater.png"
     },
-    "Rotobaga": {
+    "rotobaga": {
       "name": "Rotobaga",
       "cost": 150,
       "recharge": 5,
@@ -976,7 +976,7 @@
       "description": "Rotobagas shoot projectiles along the four diagonals, in each direction that has a target",
       "image": "/assets/plants/Rotobaga.png"
     },
-    "Sap-fling": {
+    "sap-fling": {
       "name": "Sap-fling",
       "Sun cost": "75 (150 in Chinese Version)",
       "Recharge": "5 seconds",
@@ -987,7 +987,7 @@
       "Family": "Contain-mint",
       "image": "/assets/plants/Sap-fling.png"
     },
-    "Shadow Peashooter": {
+    "shadow peashooter": {
       "name": "Shadow Peashooter",
       "Sun cost": "125",
       "200 (Chinese version)": "Recharge",
@@ -997,7 +997,7 @@
       "Family": "Conceal-mint",
       "image": "/assets/plants/Shadow Peashooter.png"
     },
-    "Shadow-shroom": {
+    "shadow-shroom": {
       "name": "Shadow-shroom",
       "Sun cost": "50",
       "Recharge": "10 seconds (Mediocre in China)",
@@ -1006,7 +1006,7 @@
       "Family": "Conceal-mint",
       "image": "/assets/plants/Shadow-shroom.png"
     },
-    "Shine Vine": {
+    "shine vine": {
       "name": "Shine Vine",
       "Sun cost": "75",
       "Recharge": "5",
@@ -1016,7 +1016,7 @@
       "Family": "Enlighten-mint",
       "image": "/assets/plants/Shine Vine.png"
     },
-    "Shrinking Violet": {
+    "shrinking violet": {
       "name": "Shrinking Violet",
       "Sun cost": "50",
       "Recharge": "15 seconds",
@@ -1026,7 +1026,7 @@
       "Family": "Enchant-mint",
       "image": "/assets/plants/Shrinking Violet.png"
     },
-    "Snapdragon": {
+    "snapdragon": {
       "name": "Snapdragon",
       "cost": 150,
       "recharge": 5,
@@ -1037,7 +1037,7 @@
       "description": "Snapdragons breathe fire that causes damage in 6 adjacent tiles.",
       "image": "/assets/plants/Snapdragon.png"
     },
-    "Solar Sage": {
+    "solar sage": {
       "name": "Solar Sage",
       "Sun cost": "0",
       "Recharge": "20",
@@ -1045,7 +1045,7 @@
       "Family": "Enlighten-mint",
       "image": "/assets/plants/Solar Sage.png"
     },
-    "Solar Tomato": {
+    "solar tomato": {
       "name": "Solar Tomato",
       "Sun cost": "100",
       "Recharge": "25 seconds",
@@ -1055,7 +1055,7 @@
       "Family": "Enlighten-mint",
       "image": "/assets/plants/Solar Tomato.png"
     },
-    "Spikerock": {
+    "spikerock": {
       "name": "Spikerock",
       "cost": 250,
       "recharge": 5,
@@ -1067,7 +1067,7 @@
       "description": "Spikerocks destroy multiple rolling zombies and damage zombies that walk over it.",
       "image": "/assets/plants/Spikerock.png"
     },
-    "Spikeweed": {
+    "spikeweed": {
       "name": "Spikeweed",
       "cost": 100,
       "recharge": 5,
@@ -1079,7 +1079,7 @@
       "description": "Spikeweeds destroy one rolling zombie and hurt any zombies that step on them.",
       "image": "/assets/plants/Spikeweed.png"
     },
-    "Split Pea": {
+    "split pea": {
       "name": "Split Pea",
       "cost": 125,
       "recharge": 5,
@@ -1089,7 +1089,7 @@
       "description": "Split Peas shoot peas forward and backwards.",
       "image": "/assets/plants/Split Pea.png"
     },
-    "Spore-shroom": {
+    "spore-shroom": {
       "name": "Spore-shroom",
       "Sun cost": "150",
       "Recharge": "5 seconds",
@@ -1098,7 +1098,7 @@
       "Family": "Ail-mint",
       "image": "/assets/plants/Spore-shroom.png"
     },
-    "Spring Bean": {
+    "spring bean": {
       "name": "Spring Bean",
       "cost": 50,
       "recharge": 20,
@@ -1109,7 +1109,7 @@
       "description": "Spring Beans bounce back zombies that get too close. Will bounce them into water if nearby.",
       "image": "/assets/plants/Spring Bean.png"
     },
-    "Squash": {
+    "squash": {
       "name": "Squash",
       "Sun cost": "50, 125 (China)",
       "Recharge": "20 seconds",
@@ -1121,7 +1121,7 @@
       "Family": "Enforce-mint",
       "image": "/assets/plants/Squash.png"
     },
-    "Stallia": {
+    "stallia": {
       "name": "Stallia",
       "cost": 0,
       "recharge": 20,
@@ -1133,7 +1133,7 @@
       "description": "Stallias slow down zombies with a puff of perfume.",
       "image": "/assets/plants/Stallia.png"
     },
-    "Starfruit": {
+    "starfruit": {
       "name": "Starfruit",
       "Sun cost": "150",
       "Recharge": "5 seconds",
@@ -1144,7 +1144,7 @@
       "Family": "Appease-mint",
       "image": "/assets/plants/Starfruit.png"
     },
-    "Stickybomb Rice": {
+    "stickybomb rice": {
       "name": "Stickybomb Rice",
       "Sun cost": "225",
       "Recharge": "10 seconds",
@@ -1153,7 +1153,7 @@
       "Family": "Arma-mint",
       "image": "/assets/plants/Stickybomb Rice.png"
     },
-    "Stunion": {
+    "stunion": {
       "name": "Stunion",
       "cost": 25,
       "recharge": 20,
@@ -1164,7 +1164,7 @@
       "description": "Stunions breathe a stunning cloud of gas on nearby zombies in the lane.",
       "image": "/assets/plants/Stunion.png"
     },
-    "Sun Bean": {
+    "sun bean": {
       "name": "Sun Bean",
       "Sun cost": "50",
       "Recharge": "20 seconds",
@@ -1173,7 +1173,7 @@
       "Family": "Enlighten-mint",
       "image": "/assets/plants/Sun Bean.png"
     },
-    "Sun-shroom": {
+    "sun-shroom": {
       "name": "Sun-shroom",
       "Sun cost": "25",
       "Recharge": "5 seconds",
@@ -1181,7 +1181,7 @@
       "Family": "Enlighten-mint",
       "image": "/assets/plants/Sun-shroom.png"
     },
-    "Sunflower": {
+    "sunflower": {
       "name": "Sunflower",
       "cost": 50,
       "recharge": 5,
@@ -1190,7 +1190,7 @@
       "description": "Sunflower is a primary plant which produces more sun for you. Plant as many of them as possible!\nSun production: Medium\nPlant feature: yellow plant, infinite sun",
       "image": "/assets/plants/Sunflower.png"
     },
-    "Sweet Potato": {
+    "sweet potato": {
       "name": "Sweet Potato",
       "Sun cost": "150 (300 in China)",
       "Recharge": "20 seconds",
@@ -1198,7 +1198,7 @@
       "Family": "Reinforce-mint",
       "image": "/assets/plants/Sweet Potato.png"
     },
-    "Tall-nut": {
+    "tall-nut": {
       "name": "Tall-nut",
       "cost": 125,
       "recharge": 20,
@@ -1208,7 +1208,7 @@
       "description": "Tall-nuts are heavy-duty wall plants that block low flying zombies.",
       "image": "/assets/plants/Tall-nut.png"
     },
-    "Tangle Kelp": {
+    "tangle kelp": {
       "name": "Tangle Kelp",
       "Sun cost": "25",
       "Recharge": "20 seconds",
@@ -1217,7 +1217,7 @@
       "Family": "Enforce-mint",
       "image": "/assets/plants/Tangle Kelp.png"
     },
-    "Teleportato Mine": {
+    "teleportato mine": {
       "name": "Teleportato Mine",
       "Sun cost": "75",
       "Recharge": "20 seconds",
@@ -1228,7 +1228,7 @@
       "Family": "Bombard-mint",
       "image": "/assets/plants/Teleportato Mine.png"
     },
-    "Threepeater": {
+    "threepeater": {
       "name": "Threepeater",
       "cost": 300,
       "recharge": 5,
@@ -1238,7 +1238,7 @@
       "description": "Threepeaters shoot peas in three lanes.",
       "image": "/assets/plants/Threepeater.png"
     },
-    "Thyme Warp": {
+    "thyme warp": {
       "name": "Thyme Warp",
       "Sun cost": "75",
       "Recharge": "60 seconds",
@@ -1247,7 +1247,7 @@
       "Special": "Rewound zombies have restored health",
       "image": "/assets/plants/Thyme Warp.png"
     },
-    "Tiger Grass": {
+    "tiger grass": {
       "name": "Tiger Grass",
       "Sun cost": "150",
       "Recharge": "7 seconds",
@@ -1256,7 +1256,7 @@
       "Family": "Enforce-mint",
       "image": "/assets/plants/Tiger Grass.png"
     },
-    "Tile Turnip": {
+    "tile turnip": {
       "name": "Tile Turnip",
       "cost": "0(First Tile Turnip) , 250 (price shown in almanc)",
       "recharge": 10,
@@ -1264,7 +1264,7 @@
       "description": "Tile Turnips create a Power Tile on planting.",
       "image": "/assets/plants/Tile Turnip.png"
     },
-    "Toadstool": {
+    "toadstool": {
       "name": "Toadstool",
       "Sun cost": "200",
       "Recharge": "5 seconds",
@@ -1274,7 +1274,7 @@
       "Family": "Enlighten-mint",
       "image": "/assets/plants/Toadstool.png"
     },
-    "Tumbleweed": {
+    "tumbleweed": {
       "name": "Tumbleweed",
       "Sun cost": "50",
       "Recharge": "5.5 seconds",
@@ -1284,7 +1284,7 @@
       "Family": "Appease-mint",
       "image": "/assets/plants/Tumbleweed.png"
     },
-    "Twin Sunflower": {
+    "twin sunflower": {
       "name": "Twin Sunflower",
       "cost": 125,
       "recharge": 10,
@@ -1293,7 +1293,7 @@
       "description": "Twin Sunflowers give twice as much sun as a normal sunflower.",
       "image": "/assets/plants/Twin Sunflower.png"
     },
-    "Wall-nut": {
+    "wall-nut": {
       "name": "Wall-nut",
       "cost": 50,
       "recharge": 20,
@@ -1303,7 +1303,7 @@
       "description": "Wall-nuts have hard shells which you can use to protect your other plants.",
       "image": "/assets/plants/Wall-nut.png"
     },
-    "Wasabi Whip": {
+    "wasabi whip": {
       "name": "Wasabi Whip",
       "Sun cost": "150",
       "Recharge": "5 seconds",
@@ -1314,7 +1314,7 @@
       "Family": "Enforce-mint",
       "image": "/assets/plants/Wasabi Whip.png"
     },
-    "Winter Melon": {
+    "winter melon": {
       "name": "Winter Melon",
       "cost": 500,
       "recharge": 5,
@@ -1325,7 +1325,7 @@
       "description": "Winter Melons do heavy damage and chills groups of zombies.",
       "image": "/assets/plants/Winter Melon.png"
     },
-    "Winter-mint": {
+    "winter-mint": {
       "name": "Winter-mint",
       "Sun cost": "0",
       "Recharge": "85 seconds",
@@ -1333,7 +1333,7 @@
       "Family": "Winter-mint",
       "image": "/assets/plants/Winter-mint.png"
     },
-    "Witch Hazel": {
+    "witch hazel": {
       "name": "Witch Hazel",
       "Sun cost": "200",
       "Recharge": "30 seconds",
@@ -1342,7 +1342,7 @@
       "Family": "Enchant-mint",
       "image": "/assets/plants/Witch Hazel.png"
     },
-    "Zoybean Pod": {
+    "zoybean pod": {
       "name": "Zoybean Pod",
       "Sun cost": "200",
       "Recharge": "20 seconds",

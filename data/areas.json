@@ -1,72 +1,72 @@
 {
   "data": {
-    "Player's House": {
+    "player's house": {
       "name": "Player's House",
       "levels": 5,
       "difficulty": 0,
       "image": "/assets/areas/Player's House.png"
     },
-    "Ancient Egypt": {
+    "ancient egypt": {
       "name": "Ancient Egypt",
       "levels": 25,
       "difficulty": 2,
       "image": "/assets/areas/Ancient Egypt.png"
     },
-    "Pirate Seas": {
+    "pirate seas": {
       "name": "Pirate Seas",
       "levels": 25,
       "difficulty": 2,
       "image": "/assets/areas/Pirate Seas.png"
     },
-    "Wild West": {
+    "wild west": {
       "name": "Wild West",
       "levels": 25,
       "difficulty": 3,
       "image": "/assets/areas/Wild West.png"
     },
-    "Frostbite Caves": {
+    "frostbite caves": {
       "name": "Frostbite Caves",
       "levels": 30,
       "difficulty": 3,
       "image": "/assets/areas/Frostbite Caves.png"
     },
-    "Lost City": {
+    "lost city": {
       "name": "Lost City",
       "levels": 32,
       "difficulty": 3,
       "image": "/assets/areas/Lost City.png"
     },
-    "Far Future": {
+    "far future": {
       "name": "Far Future",
       "levels": 25,
       "difficulty": 3,
       "image": "/assets/areas/Far Future.png"
     },
-    "Dark Ages": {
+    "dark ages": {
       "name": "Dark Ages",
       "levels": 20,
       "difficulty": 4,
       "image": "/assets/areas/Dark Ages.png"
     },
-    "Neon Mixtape Tour": {
+    "neon mixtape tour": {
       "name": "Neon Mixtape Tour",
       "levels": 32,
       "difficulty": 4,
       "image": "/assets/areas/Neon Mixtape Tour.png"
     },
-    "Jurassic Marsh": {
+    "jurassic marsh": {
       "name": "Jurassic Marsh",
       "levels": 32,
       "difficulty": 4,
       "image": "/assets/areas/Jurassic Marsh.png"
     },
-    "Big Wave Beach": {
+    "big wave beach": {
       "name": "Big Wave Beach",
       "levels": 32,
       "difficulty": 5,
       "image": "/assets/areas/Big Wave Beach.png"
     },
-    "Modern Day": {
+    "modern day": {
       "name": "Modern Day",
       "levels": 34,
       "difficulty": 5,
