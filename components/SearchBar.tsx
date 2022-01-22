@@ -49,21 +49,20 @@ class SearchBar extends React.Component {
           />
         </form>
         <div className="w-full h-fit">
-          <ul>
-            {hits.map((val, index) => {
-              return (
-                <li
-                  className="cursor-pointer"
-                  key={index}
-                  onClick={(e) => {
-                    this.setState({ term: val });
-                  }}
-                >
-                  {val}
-                </li>
-              );
-            })}
-          </ul>
+          {hits.map((val, index) => {
+            return (
+              <div
+                className="cursor-pointer"
+                key={index}
+                onClick={(e) => {
+                  this.setState({ term: val });
+                  hits = [];
+                }}
+              >
+                {val}
+              </div>
+            );
+          })}
         </div>
       </>
     );
