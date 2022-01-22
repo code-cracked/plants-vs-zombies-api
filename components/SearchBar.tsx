@@ -46,7 +46,7 @@ class SearchBar extends React.Component {
           <input
             title="Search"
             type="search"
-            className={`bg-inherit border border-slate-400 dark:border-slate-800 w-full text-sm p-2 hover:shadow-md shadow-black  h-11 px-5 outline-none focus-visible:dark:bg-slate-800 hover:dark:bg-slate-800 transition sm:max-w-lg ${
+            className={`bg-inherit border border-neutral-400 dark:border-neutral-800 w-full text-sm p-2 hover:shadow-md shadow-black  h-11 px-5 outline-none focus-visible:dark:bg-neutral-800 hover:dark:bg-neutral-800 transition sm:max-w-lg ${
               hits.length > 0 ? "rounded-t-3xl rounded-b-none" : "rounded-full"
             }`}
             autoComplete="True"
@@ -72,11 +72,11 @@ class SearchBar extends React.Component {
               this.setState({ term: e.target.value });
             }}
           />
-          <div className=" border-slate-400 dark:border-slate-800 ">
+          <div className=" border-neutral-400 dark:border-neutral-800 ">
             {hits.map((val, index) => {
               return (
                 <div
-                  className="cursor-pointer bg-inherit  w-full text-sm p-2  min-h-fit h-11 px-5 outline-none focus-visible:dark:bg-slate-800 hover:dark:bg-slate-800 transition sm:max-w-lg border-l border-r border-inherit last:border-b last:rounded-b-3xl hover:bg-neutral-200"
+                  className="cursor-pointer bg-inherit  w-full text-sm p-2  min-h-fit h-11 px-5 outline-none focus-visible:dark:bg-neutral-800 hover:dark:bg-neutral-800 transition sm:max-w-lg border-l border-r border-inherit last:border-b last:rounded-b-3xl hover:bg-neutral-200"
                   key={index}
                   onClick={(e) => {
                     this.setState({ term: val });
