@@ -42,17 +42,32 @@ class SearchBar extends React.Component {
                 }
               });
               if (e.target.value.length === 0) {
-                hits = []
+                hits = [];
               }
               this.setState({ term: e.target.value });
             }}
           />
         </form>
         <div className="w-full h-fit">
-          {hits.map((val, index) => {
-            console.log(hits);
-            return <div key={index}>{val}</div>;
-          })}
+          <ul>
+            {hits.map((val, index) => {
+              // console.log(hits);
+              // return <div key={index}>{val}</div>;
+              return (
+                <li
+                  className="cursor-pointer"
+                  key={index}
+                  onClick={(e) => {
+                    this.setState({ term: val });
+
+                    // console.log(val);
+                  }}
+                >
+                  {val}
+                </li>
+              );
+            })}
+          </ul>
         </div>
       </>
     );
