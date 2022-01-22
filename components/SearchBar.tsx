@@ -10,9 +10,13 @@ let hits: string[] = [];
 class SearchBar extends React.Component {
   state = { term: "" };
   onFormSubmit = (event: { preventDefault: () => void }) => {
+    if (this.state.term == "" || hits.length == 0) {
+      event.preventDefault();
+    }
     // event.preventDefault();
   };
   link_fetch(data: string) {
+    data = hits[0];
     const base_url = `http://localhost:3000/api/`;
     var re_link: string = "";
     plants.names.forEach((element) => {
