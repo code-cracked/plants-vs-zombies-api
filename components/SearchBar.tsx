@@ -46,7 +46,9 @@ class SearchBar extends React.Component {
           <input
             title="Search"
             type="search"
-            className="bg-inherit border border-slate-400 dark:border-slate-700 w-full text-sm p-2 hover:shadow-md shadow-black rounded-full h-11 px-5 outline-none focus-visible:dark:bg-slate-700 hover:dark:bg-slate-700 transition sm:max-w-lg"
+            className={`bg-inherit border border-slate-400 dark:border-slate-800 w-full text-sm p-2 hover:shadow-md shadow-black  h-11 px-5 outline-none focus-visible:dark:bg-slate-800 hover:dark:bg-slate-800 transition sm:max-w-lg ${
+              hits.length > 0 ? "rounded-t-3xl rounded-b-none" : "rounded-full"
+            }`}
             autoComplete="True"
             value={this.state.term}
             placeholder="🔍 Search Here"
@@ -70,23 +72,23 @@ class SearchBar extends React.Component {
               this.setState({ term: e.target.value });
             }}
           />
+          <div className=" border-slate-400 dark:border-slate-800 ">
+            {hits.map((val, index) => {
+              return (
+                <div
+                  className="cursor-pointer bg-inherit  w-full text-sm p-2  min-h-fit h-11 px-5 outline-none focus-visible:dark:bg-slate-800 hover:dark:bg-slate-800 transition sm:max-w-lg border-l border-r border-inherit last:border-b last:rounded-b-3xl hover:bg-neutral-200"
+                  key={index}
+                  onClick={(e) => {
+                    this.setState({ term: val });
+                    hits = [];
+                  }}
+                >
+                  {val}
+                </div>
+              );
+            })}
+          </div>
         </form>
-        <div className="w-full h-fit">
-          {hits.map((val, index) => {
-            return (
-              <div
-                className="cursor-pointer"
-                key={index}
-                onClick={(e) => {
-                  this.setState({ term: val });
-                  hits = [];
-                }}
-              >
-                {val}
-              </div>
-            );
-          })}
-        </div>
       </>
     );
   };
