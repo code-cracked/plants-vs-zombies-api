@@ -41,6 +41,9 @@ class SearchBar extends React.Component {
                   }
                 }
               });
+              if (e.target.value.length === 0) {
+                hits = []
+              }
               this.setState({ term: e.target.value });
             }}
           />
