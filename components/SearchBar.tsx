@@ -6,27 +6,38 @@ import areas from "../data/areas_name.json";
 
 const autoCompleteTags = [...plants.names, ...zombies.names, ...areas.names];
 let hits: string[] = [];
-
+import Router from "next/router";
 class SearchBar extends React.Component {
-  state = { term: "" };
+  sendProps = () => {
+    var need_url: string = this.link_fetch(this.state.term);
+    var search_term: string = this.state.last_hit;
+    Router.push({ pathname: "/search", query: { search_term, need_url } });
+  };
+  isCharacterALetter(char: string) {
+    return /[a-zA-Z]/.test(char[0]);
+  }
+  state = { term: "", last_hit: "" };
   onFormSubmit = (event: { preventDefault: () => void }) => {
     if (this.state.term == "") {
       event.preventDefault();
       return;
     }
-    let count = 0;
-    autoCompleteTags.forEach((element) => {
-      if (element === this.state.term) {
-        count++;
-      }
-      if (count === 0) {
+
+    if (this.state.term.startsWith("q") || this.state.term.startsWith("x")) {
+      event.preventDefault();
+      return;
+    } else {
+      if (!this.isCharacterALetter(this.state.term[0])) {
         event.preventDefault();
+        return;
       }
-    });
+    }
+    this.sendProps();
+    event.preventDefault();
   };
   link_fetch(data: string) {
     if (hits.length === 0) {
-      data = this.state.term;
+      data = this.state.last_hit;
     } else {
       data = hits[0];
     }
@@ -47,6 +58,8 @@ class SearchBar extends React.Component {
         re_link = `${base_url}areas/${data}`;
       }
     });
+    this.setState({ term: this.state.last_hit });
+
     return re_link;
   }
   render = () => {
@@ -55,7 +68,8 @@ class SearchBar extends React.Component {
         <form
           onSubmit={(e) => this.onFormSubmit(e)}
           className="bg-transparent h-fit sm:max-w-lg w-full p-2 px-5 "
-          action={this.link_fetch(this.state.term)}
+          // action={this.link_fetch(this.state.term)}
+          action="http://localhost:3000/search"
         >
           <input
             title="Search"
@@ -80,6 +94,9 @@ class SearchBar extends React.Component {
                   }
                 }
               });
+              if (hits.length != 0) {
+                this.setState({ last_hit: hits[0] });
+              }
               if (e.target.value.length === 0) {
                 hits = [];
               }
@@ -93,7 +110,7 @@ class SearchBar extends React.Component {
                   className="cursor-pointer bg-inherit  w-full text-sm p-2  min-h-fit h-11 px-5 outline-none focus-visible:dark:bg-neutral-800 hover:dark:bg-neutral-800 transition sm:max-w-lg border-l border-r border-inherit last:border-b last:rounded-b-3xl hover:bg-neutral-200"
                   key={index}
                   onClick={(e) => {
-                    this.setState({ term: val });
+                    this.setState({ term: val, last_hit: val });
                     hits = [];
                   }}
                 >
