@@ -24,6 +24,11 @@ const Home: NextPage = () => {
       </Head>
       <div className="sticky top-0 h-14 bg-inherit">
         <nav className="mb-2  bg-opacity-80 flex flex-row justify-end h-full items-center">
+          <Link href={"/terms"}>
+            <a className="h-full hover:bg-neutral-200 hover:dark:bg-slate-900 hover:text-cyan-500 flex items-center px-8 hover:no-underline">
+              Terms
+            </a>
+          </Link>
           <Link href={"/docs"}>
             <a className="h-full hover:bg-neutral-200 hover:dark:bg-slate-900 hover:text-cyan-500 flex items-center px-8 hover:no-underline">
               Docs
@@ -38,7 +43,9 @@ const Home: NextPage = () => {
         <div
           className={`flex flex-col w-3/4 h-3/4 items-center justify-center`}
         >
-          <div className={`relative w-full max-w-sm bottom-[3.125rem] m-[1.25rem,0rem]`}>
+          <div
+            className={`relative w-full max-w-sm bottom-[3.125rem] m-[1.25rem,0rem]`}
+          >
             <Image
               src={"/assets/header_image.png"}
               layout="responsive"
