@@ -203,8 +203,11 @@ const Docs: NextPage = () => {
             specific plant
             <div>
               Example:{" "}
-              <a href="https://pvz-2-api.vercel.app/api/plants/Aloe">
-                https://pvz-2-api.vercel.app/api/plants/Aloe
+              <a
+                target={"_blank"}
+                href="https://pvz-2-api.vercel.app/api/plants/aloe"
+              >
+                https://pvz-2-api.vercel.app/api/plants/aloe
               </a>
             </div>
           </div>
@@ -284,8 +287,11 @@ const Docs: NextPage = () => {
             specific area-name
             <div>
               Example:{" "}
-              <a href="https://pvz-2-api.vercel.app/api/areas/Player's%20House">
-                https://pvz-2-api.vercel.app/api/areas/Player's%20House
+              <a
+                target={"_blank"}
+                href="https://pvz-2-api.vercel.app/api/areas/player's%20house"
+              >
+                https://pvz-2-api.vercel.app/api/areas/player's%20house
               </a>
             </div>
           </div>
@@ -368,7 +374,10 @@ const Docs: NextPage = () => {
             specific zombie.
             <div>
               Example:{" "}
-              <a href="https://pvz-2-api.vercel.app/api/zombies/basic%20zombie">
+              <a
+                target={"_blank"}
+                href="https://pvz-2-api.vercel.app/api/zombies/basic%20zombie"
+              >
                 https://pvz-2-api.vercel.app/api/zombies/basic%20zombie
               </a>
             </div>
