@@ -28,7 +28,7 @@ const Search = () => {
     });
     return res;
   };
-
+  return <h1>Coming Soon...</h1>;
   // <DataCard data={dataTags()} />;
 };
 export default Search;
