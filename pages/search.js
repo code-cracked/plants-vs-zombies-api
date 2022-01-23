@@ -29,6 +29,6 @@ const Search = () => {
     return res;
   };
 
-  <DataCard data={dataTags()} />;
+  // <DataCard data={dataTags()} />;
 };
 export default Search;
