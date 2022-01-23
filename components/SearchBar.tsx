@@ -68,7 +68,6 @@ class SearchBar extends React.Component {
         type = "areas";
       }
     });
-    this.setState({ term: this.state.last_hit });
 
     return [re_link, type];
   }
@@ -78,8 +77,6 @@ class SearchBar extends React.Component {
         <form
           onSubmit={(e) => this.onFormSubmit(e)}
           className="bg-transparent h-fit sm:max-w-lg w-full p-2 px-5 "
-          // action={this.link_fetch(this.state.term)}
-          action="http://localhost:3000/search"
         >
           <input
             title="Search"

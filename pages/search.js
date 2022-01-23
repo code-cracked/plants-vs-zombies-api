@@ -1,4 +1,3 @@
-import { NextPage } from "next";
 import { useRouter } from "next/router";
 import plants from "../data/plants.json";
 import zombies from "../data/zombies.json";
@@ -13,7 +12,6 @@ const Search = () => {
     need_url,
     thing_type,
   };
-
   // Function: Get [name,type] => [[key,value],[key,value]]
   const dataTags = () => {
     const mapper = {
