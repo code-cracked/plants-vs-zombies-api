@@ -10,12 +10,26 @@ let hits: string[] = [];
 class SearchBar extends React.Component {
   state = { term: "" };
   onFormSubmit = (event: { preventDefault: () => void }) => {
-    if (this.state.term == "" || hits.length == 0) {
+    if (this.state.term == "") {
       event.preventDefault();
+      return;
     }
+    let count = 0;
+    autoCompleteTags.forEach((element) => {
+      if (element === this.state.term) {
+        count++;
+      }
+      if (count === 0) {
+        event.preventDefault();
+      }
+    });
   };
   link_fetch(data: string) {
-    data = hits[0];
+    if (hits.length === 0) {
+      data = this.state.term;
+    } else {
+      data = hits[0];
+    }
     const base_url = `./api/`;
     var re_link: string = "";
     plants.names.forEach((element) => {
