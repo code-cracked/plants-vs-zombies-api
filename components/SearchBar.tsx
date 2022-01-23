@@ -9,9 +9,14 @@ let hits: string[] = [];
 import Router from "next/router";
 class SearchBar extends React.Component {
   sendProps = () => {
-    var need_url: string = this.link_fetch(this.state.term);
+    let return_data = this.link_fetch(this.state.term);
+    var need_url: string = return_data[0];
+    var thing_type: string = return_data[1];
     var search_term: string = this.state.last_hit;
-    Router.push({ pathname: "/search", query: { search_term, need_url } });
+    Router.push({
+      pathname: "/search",
+      query: { search_term, need_url, thing_type },
+    });
   };
   isCharacterALetter(char: string) {
     return /[a-zA-Z]/.test(char[0]);
@@ -36,6 +41,7 @@ class SearchBar extends React.Component {
     event.preventDefault();
   };
   link_fetch(data: string) {
+    var type = "";
     if (hits.length === 0) {
       data = this.state.last_hit;
     } else {
@@ -43,24 +49,28 @@ class SearchBar extends React.Component {
     }
     const base_url = `./api/`;
     var re_link: string = "";
+
     plants.names.forEach((element) => {
       if (data == element) {
         re_link = `${base_url}plants/${data}`;
+        type = "plants";
       }
     });
     zombies.names.forEach((element) => {
       if (data == element) {
         re_link = `${base_url}zombies/${data}`;
+        type = "zombies";
       }
     });
     areas.names.forEach((element) => {
       if (data == element) {
         re_link = `${base_url}areas/${data}`;
+        type = "areas";
       }
     });
     this.setState({ term: this.state.last_hit });
 
-    return re_link;
+    return [re_link, type];
   }
   render = () => {
     return (
