@@ -3,7 +3,7 @@ import Head from "next/head";
 import Image from "next/image";
 import SearchBar from "../components/SearchBar";
 import AboutCard from "../components/AboutCard";
-import styles from "../styles/Home.module.css";
+// import styles from "../styles/Home.module.css";
 import Link from "next/link";
 
 const Home: NextPage = () => {
@@ -36,9 +36,9 @@ const Home: NextPage = () => {
         id="home-search"
       >
         <div
-          className={`flex flex-col w-3/4 h-3/4 items-center justify-center ${styles.searchContainer}`}
+          className={`flex flex-col w-3/4 h-3/4 items-center justify-center`}
         >
-          <div className={`relative w-full max-w-sm`}>
+          <div className={`relative w-full max-w-sm bottom-[3.125rem] m-[1.25rem,0rem]`}>
             <Image
               src={"/assets/header_image.png"}
               layout="responsive"
@@ -48,6 +48,7 @@ const Home: NextPage = () => {
               alt="header_image"
             />
           </div>
+
           <SearchBar />
         </div>
         <div className="bottom-4 cursor-pointer">
@@ -74,7 +75,7 @@ const Home: NextPage = () => {
           About us
         </h2>
         <div
-          className={` flex items-center flex-col w-full justify-evenly ${styles.aboutContainer} h-fit sm:px-12`}
+          className={` flex items-center flex-col w-full justify-evenly min-h-[91vh] h-fit sm:px-12`}
         >
           <AboutCard
             title={"Ridiculously fast."}
