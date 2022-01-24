@@ -17,12 +17,17 @@ const About: NextPage = () => {
               Home
             </a>
           </Link>
+          <Link href={"/docs"}>
+            <a className="h-full hover:bg-neutral-200 hover:dark:bg-slate-900 flex items-center px-8 hover:no-underline">
+              Docs
+            </a>
+          </Link>
         </nav>
       </div>
-      <div className=" ml-36 mt-3">
+      <div className="mx-auto max-w-4xl mt-8 xl:p-10 lg:p-8 md:p-6 sm:p-3">
         <h1 className="font-bold text-4xl">About</h1>
-        <h3 className="font-semibold text-xl my-4 mx-7">What is this?</h3>
-        <p className="mx-10">
+        <h3 className="font-semibold text-xl my-4 ml-7">What is this?</h3>
+        <p className="ml-10">
           This website provides a RESTful{" "}
           <abbr title="Plants vs Zombies API">PVZ API </abbr> interface to
           highly detailed objects built from thousands of lines of data related
@@ -38,14 +43,14 @@ const About: NextPage = () => {
         </p>
         <div>
           <h3 className="font-semibold text-xl mt-14 ml-7">What is an API?</h3>
-          <p className="mx-10 mt-4">
+          <p className="ml-10 mt-4">
             An API (Application Programming Interface) is a contract that allow
             developers to interact with an application through a set of
             interfaces. In this case, the application is a database of thousands
             of Plants vs Zombies-related objects, and the interfaces are URL
             links.<br></br>
           </p>
-          <p className="mx-10 mt-1">
+          <p className="ml-10 mt-1">
             A RESTful API is an API that conforms to a set of loose conventions
             based on HTTP verbs, errors, and hyperlinks.
           </p>
@@ -55,17 +60,17 @@ const About: NextPage = () => {
             Aren't there any <abbr title="Plants vs Zombies API">PVZ API</abbr>{" "}
             already?
           </h3>
-          <p className="mx-10 mt-3">
+          <p className="ml-10 mt-3">
             As far as we know there is no other API for Plants VS Zombies-2
             though there are some websites exist. We aim to provide a single
             source of data that any number of other websites can consume and
             use.
           </p>
-          <p className="mx-10 mt-1">
+          <p className="ml-10 mt-1">
             We update often which prevents bugs and addition of new data about
             plants,zombies and areas after each update
           </p>
-          <p className="mx-10 mt-1">
+          <p className="ml-10 mt-1">
             Often, and especially when new Plants vs Zombies-2 updates are
             released, some <abbr title="Plants Vs Zombies-2">PVZ </abbr>{" "}
             websites take weeks to update as people have to enter the same
@@ -82,8 +87,8 @@ const About: NextPage = () => {
           <h3 className="font-semibold text-xl mt-14 ml-7">
             How much information is stored here?
           </h3>
-          <p className="mx-10 mt-3">A lot</p>
-          <p className="mx-10 mt-3">
+          <p className="ml-10 mt-3">A lot</p>
+          <p className="ml-10 mt-3">
             We currently have hundreds of individual items in our database,
             including:<br></br>
             <br></br>
@@ -174,8 +179,16 @@ const About: NextPage = () => {
             </a>{" "}
             for contributors that you are welcome to join! . To join the
             organisation you can send a message to{" "}
-            <span className="text-orange-600">Dani_Cyber#3019</span> or{" "}
-            <span className="text-yellow-300">CodeRxJesseJ#8889</span> on{" "}
+            <span className="py-1 px-2 rounded-full bg-gray-200 dark:bg-neutral-800">
+              <span className="text-orange-400">Dani_Cyber</span>
+              <span className="text-red-500 ">#3019</span>
+            </span>{" "}
+            or{" "}
+            <span className="py-1 px-2 rounded-full bg-gray-200 dark:bg-neutral-800">
+              <span className="text-orange-400">CodeRxJesseJ</span>
+              <span className="text-red-500 ">#8889</span>
+            </span>{" "}
+            on{" "}
             <a href="https://discord.com/" target={"_blank"}>
               discord
             </a>

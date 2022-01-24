@@ -33,6 +33,11 @@ const Docs: NextPage = () => {
               Home
             </a>
           </Link>
+          <Link href={"/about"}>
+            <a className="h-full hover:bg-neutral-200 hover:dark:bg-slate-900 flex items-center px-8 hover:no-underline">
+              About
+            </a>
+          </Link>
         </nav>
       </div>
       <div className="flex flex-wrap">
