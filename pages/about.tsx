@@ -62,18 +62,20 @@ const About: NextPage = () => {
             use.
           </p>
           <p className="mx-10 mt-1">
-            We updates often which prevents bugs and addition of new data about
+            We update often which prevents bugs and addition of new data about
             plants,zombies and areas after each update
           </p>
           <p className="mx-10 mt-1">
-            Often, and especially when new Plants vs Zombies updates are
-            released, those websites take weeks to update as people have to
-            enter the same information in all those different places. This
-            solves that problem. If all those sites consumed their data from
-            here, they would have the exact same information that is updated at
-            exactly the same time, with no errors between each website. The
-            overall benefit is a better collaboration and consistency across all
-            the different Pokémon websites and applications. It's good for all!
+            Often, and especially when new Plants vs Zombies-2 updates are
+            released, some <abbr title="Plants Vs Zombies-2">PVZ </abbr>{" "}
+            websites take weeks to update as people have to enter the same
+            information in all those different places. This solves that problem.
+            If all those sites consumed their data from here, they would have
+            the exact same information that is updated at exactly the same time,
+            with no errors between each website. The overall benefit is a better
+            collaboration and consistency across all the different{" "}
+            <abbr title="Plants Vs Zombies-2">PVZ </abbr> websites and
+            applications. It's good for all!
           </p>
         </div>
         <div>
@@ -86,8 +88,107 @@ const About: NextPage = () => {
             including:<br></br>
             <br></br>
             <h1 className="font-medium text-lg">Plants Data:</h1>
-            <ul className="ml-7">
-              <li>Names</li>
+            <ul className="ml-7 list-disc">
+              <li>Name</li>
+              <li>Sun Cost</li>
+              <li>Recharge</li>
+              <li>Damage</li>
+              <li>Range</li>
+              <li>Family</li>
+              <li>Description</li>
+              <li>Image</li>
+            </ul>
+            <h1 className="font-medium text-lg mt-4">Zombies Data:</h1>
+            <ul className="ml-7 list-disc">
+              <li>Name</li>
+              <li>Toughness</li>
+              <li>Speed</li>
+              <li>Stamina</li>
+              <li>Description</li>
+              <li>Image</li>
+            </ul>
+            <h1 className="font-medium text-lg mt-4">Areas Data:</h1>
+            <ul className="ml-7 list-disc">
+              <li>Name</li>
+              <li>Levels</li>
+              <li>Difficulty</li>
+              <li>Image</li>
+            </ul>
+            <p className="mt-3">
+              And that's just scratching the surface! To see all the different
+              types of data we have, check out the docs.
+            </p>
+          </p>
+        </div>
+        <div className="mt-14   ml-7">
+          <h1 className="font-semibold text-xl">The API is missing stuff!</h1>
+          <p className="ml-3">
+            We know! Feel free to contribute to open issues on{" "}
+            <a
+              href="https://github.com/code-cracked/plants-vs-zombies-api/issues/new"
+              target={"_blank"}
+            >
+              GitHub
+            </a>
+            .
+          </p>
+          <p className="ml-3">
+            Suggestions and contributions are welcome for sure. contact and chat
+            with the developers in
+            <a
+              href="https://github.com/code-cracked/plants-vs-zombies-api"
+              target={"_blank"}
+            >
+              GITHUB
+            </a>
+          </p>
+        </div>
+        <div className="mt-14 ml-7">
+          <h1 className="font-semibold text-xl">So who built this?</h1>
+          <p className="ml-3">
+            <abbr title="Plants vs Zombies API">PVZ API</abbr> was created
+            together by
+            <a href="https://github.com/Dani-Hacker" target={"_blank"}>
+              Daniel Jebarson
+            </a>{" "}
+            and{" "}
+            <a href="https://github.com/jessej-samuel" target={"_blank"}>
+              Jessej Samuel
+            </a>{" "}
+            as a weekend project but it quickly became more than a weekend's
+            worth of work. In January of 2022 we made a release on{" "}
+            <a
+              href="https://github.com/code-cracked/plants-vs-zombies-api/releases/tag/1.0.0"
+              target={"_blank"}
+            >
+              V1
+            </a>
+            . Though majority of the frontend development was done by Jessej
+            Samuel and the backend was done by Daniel Jebarson, both of us
+            contributed to full stack development.
+          </p>
+          <p className="ml-3 mt-3">
+            We also have a{" "}
+            <a href="https://github.com/code-cracked" target={"_blank"}>
+              GitHub organisation
+            </a>{" "}
+            for contributors that you are welcome to join! . To join the
+            organisation you can send a message to{" "}
+            <span className="text-orange-600">Dani_Cyber#3019</span> or{" "}
+            <span className="text-yellow-300">CodeRxJesseJ#8889</span> on{" "}
+            <a href="https://discord.com/" target={"_blank"}>
+              discord
+            </a>
+          </p>
+        </div>
+        <div className="mt-14 ml-7">
+          <h1 className="font-semibold text-xl">
+            Where did you get all of this data?
+          </h1>
+          <p className="ml-3 mt-3">
+            We gathered the information on this site from various resources:
+            <ul className="ml-9 list-disc mt-3">
+              <li>ok</li>
             </ul>
           </p>
         </div>
