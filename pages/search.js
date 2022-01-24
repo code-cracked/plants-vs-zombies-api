@@ -2,6 +2,8 @@ import { useRouter } from "next/router";
 import plants from "../data/plants.json";
 import zombies from "../data/zombies.json";
 import areas from "../data/areas.json";
+import DataCard from '../components/DataCard'
+
 const Search = () => {
   const router = useRouter();
   const {
@@ -26,7 +28,10 @@ const Search = () => {
     });
     return res;
   };
-  return <h1>Coming Soon...</h1>;
-  // <DataCard data={dataTags()} />;
+  return (
+    <div className="flex flex-row justify-center items-center h-screen">
+      <DataCard data={dataTags()} />
+    </div>
+  );
 };
 export default Search;
