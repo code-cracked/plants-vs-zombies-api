@@ -2,7 +2,7 @@
   "data": {
     "a.k.e.e.": {
       "name": "A.K.E.E.",
-      "cost": 175,
+      "Sun cost": 175,
       "recharge": 5,
       "damage": "0/50/40/30 damage per shot (the first, second, third and fourth zombies)",
       "range": "Lobbed/Multi-Hit",

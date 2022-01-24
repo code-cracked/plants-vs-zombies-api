@@ -33,6 +33,11 @@ const Docs: NextPage = () => {
               Home
             </a>
           </Link>
+          <Link href={"/about"}>
+            <a className="h-full hover:bg-neutral-200 hover:dark:bg-slate-900 flex items-center px-8 hover:no-underline">
+              About
+            </a>
+          </Link>
         </nav>
       </div>
       <div className="flex flex-wrap">
@@ -71,6 +76,16 @@ const Docs: NextPage = () => {
                 <li className="hover:border-l hover:font-[400] border-blue-600 hover:pl-2">
                   <a className="w-full hover:no-underline" href="#area_info">
                     Area Data
+                  </a>
+                </li>
+                <li className="hover:border-l hover:font-[400] border-blue-600 hover:pl-2">
+                  <a className="w-full hover:no-underline" href="#zombies">
+                    Zombies
+                  </a>
+                </li>
+                <li className="hover:border-l hover:font-[400] border-blue-600 hover:pl-2">
+                  <a className="w-full hover:no-underline" href="#zombie_info">
+                    Zombie Data
                   </a>
                 </li>
               </ul>
@@ -190,11 +205,14 @@ const Docs: NextPage = () => {
               Plant to be searched
             </span>{" "}
             . Then the above link returns a json file of information about the
-            specific p
+            specific plant
             <div>
               Example:{" "}
-              <a href="https://pvz-2-api.vercel.app/api/plants/Aloe">
-                https://pvz-2-api.vercel.app/api/plants/Aloe
+              <a
+                target={"_blank"}
+                href="https://pvz-2-api.vercel.app/api/plants/aloe"
+              >
+                https://pvz-2-api.vercel.app/api/plants/aloe
               </a>
             </div>
           </div>
@@ -271,14 +289,105 @@ const Docs: NextPage = () => {
               Area to be searched
             </span>{" "}
             . Then the above link returns a json file of information about the
-            specific
+            specific area-name
             <div>
               Example:{" "}
-              <a href="https://pvz-2-api.vercel.app/api/areas/Player's%20House">
-                https://pvz-2-api.vercel.app/api/areas/Player's%20House
+              <a
+                target={"_blank"}
+                href="https://pvz-2-api.vercel.app/api/areas/player's%20house"
+              >
+                https://pvz-2-api.vercel.app/api/areas/player's%20house
               </a>
             </div>
           </div>
+
+          <div className="my py-4 border-b" id="zombies">
+            <h1 className="font-semibold text-2xl my-4">
+              Zombies{" "}
+              <span className="text-gray-700 dark:text-gray-400 font-light">
+                (endpoint)
+              </span>
+            </h1>
+            <p>
+              Inorder to get the zombies-names with the help of PVZ API use the
+              below http-address
+            </p>
+            <div className="flex border flex-row max-w-lg my-4 rounded">
+              <div className="p-1 w-full">
+                <p className="dark:opacity-80">
+                  https://pvz-2-api.vercel.app/api/zombies
+                </p>
+              </div>
+              <div className="bg-gray-200">
+                <CopyToClipboard
+                  text="https://pvz-2-api.vercel.app/api/zombies"
+                  onCopy={(e) => {
+                    // console.log("Copied!");
+                    notify();
+                  }}
+                >
+                  <button className="hover:scale-105  h-full p-1">
+                    <ContentCopyIcon className="text-black" />
+                  </button>
+                </CopyToClipboard>
+              </div>
+            </div>
+            The above link returns a list of all zombies name in Plants vs
+            Zombies
+          </div>
+          <div className="my py-4 border-b" id="zombie_info">
+            <h1 className="font-semibold text-2xl my-4">
+              Zombie Information{" "}
+              <span className="text-gray-700 dark:text-gray-400 font-light">
+                (endpoint)
+              </span>
+            </h1>
+            <p>
+              Inorder to get the specific zombie-information with the help of
+              PVZ API use the below http-address
+            </p>
+            <div className="flex border flex-row max-w-lg my-4 rounded">
+              <div className="p-1 w-full">
+                <p className="dark:opacity-80">
+                  https://pvz-2-api.vercel.app/api/zombies/[
+                  <span className="text-orange-500">zombie_name</span>]
+                </p>
+              </div>
+              <div className="bg-gray-200">
+                <CopyToClipboard
+                  text="https://pvz-2-api.vercel.app/api/areas/[zombie_name]"
+                  onCopy={(e) => {
+                    console.log("Copied!");
+                    notify();
+                  }}
+                >
+                  <button className="hover:scale-105  h-full p-1">
+                    <ContentCopyIcon className="text-black" />
+                  </button>
+                </CopyToClipboard>
+              </div>
+            </div>
+            Replace{" "}
+            <span className="rounded p-1 opacity-90 font-mono">
+              zombie_name
+            </span>{" "}
+            with{" "}
+            <span className="rounded p-1 opacity-90 font-mono">
+              Zombie to be searched
+            </span>{" "}
+            . Then the above link returns a json file of information about the
+            specific zombie.
+            <div>
+              Example:{" "}
+              <a
+                target={"_blank"}
+                href="https://pvz-2-api.vercel.app/api/zombies/basic%20zombie"
+              >
+                https://pvz-2-api.vercel.app/api/zombies/basic%20zombie
+              </a>
+            </div>
+          </div>
+
           <div>
             <h1 className="font-semibold text-2xl my-4">Found bugs?</h1>
             <a
