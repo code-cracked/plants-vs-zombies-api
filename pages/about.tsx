@@ -188,8 +188,59 @@ const About: NextPage = () => {
           <p className="ml-3 mt-3">
             We gathered the information on this site from various resources:
             <ul className="ml-9 list-disc mt-3">
-              <li>ok</li>
+              <li>
+                We scraped data from{" "}
+                <a
+                  href="https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies-2"
+                  target={"_blank"}
+                >
+                  Plants vs Zombies-2 official{" "}
+                </a>{" "}
+                and{" "}
+                <a
+                  href="https://plantsvszombies.fandom.com/wiki/Main_Page"
+                  target={"_blank"}
+                >
+                  Plants vs Zombies-2 fandom
+                </a>{" "}
+                website which are considered to be trustful. Keep in mind that
+                this data might be subject to changes and to corrections.
+              </li>
             </ul>
+          </p>
+        </div>
+        <div className="mt-14 ml-7">
+          <h1 className="font-semibold text-xl">
+            What's the technology stack?
+          </h1>
+          <p className="ml-3 mt-3">
+            Up until January, the API and website were built together in a
+            single{" "}
+            <a href="https://www.javascript.com/" target={"_blank"}>
+              JavaScript
+            </a>{" "}
+            project using the{" "}
+            <a href="https://nextjs.org/" target={"_blank"}>
+              Next JS
+            </a>{" "}
+            framework and made itself a database that sends data as its own use
+            in rendering image. Next REST Framework was used to expose the data
+            through a RESTful API.
+          </p>
+          <p className="ml-3 mt-3">
+            {" "}
+            The entire stack was deployed at{" "}
+            <a href="https://vercel.com/" target={"_blank"}>
+              Vercel
+            </a>{" "}
+            for free and the code lives in its own GITHUIB repository{" "}
+            <a
+              href="https://github.com/code-cracked/plants-vs-zombies-api"
+              target={"_blank"}
+            >
+              code-cracked/plants-vs-zombies-api
+            </a>
+            .
           </p>
         </div>
       </div>
