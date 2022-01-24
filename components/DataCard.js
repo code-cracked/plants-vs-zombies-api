@@ -26,7 +26,8 @@ class DataCard extends Component {
               width={200}
               height={200}
               layout="intrinsic"
-              className="w-36"
+							className="w-36"
+							alt={this.state.imageLink.split('/')[-1]}
             />
           </div>
           <div className="bg-green-400 min-h-fit  w-full rounded-r-md flex flex-1 ">
