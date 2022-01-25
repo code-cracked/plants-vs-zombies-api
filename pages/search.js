@@ -3,6 +3,7 @@ import plants from "../data/plants.json";
 import zombies from "../data/zombies.json";
 import areas from "../data/areas.json";
 import DataCard from "../components/DataCard";
+import SearchBar from "../components/SearchBar";
 
 const Search = () => {
   const router = useRouter();
@@ -42,9 +43,12 @@ const Search = () => {
   };
 
   return (
-    <div className="flex flex-row justify-center items-center h-screen">
-      <DataCard data={dataTags()} />
-    </div>
+    <>
+      <div className="flex flex-col justify-center items-center h-screen">
+        <SearchBar />
+        <DataCard data={dataTags()} />
+      </div>
+    </>
   );
 };
 
