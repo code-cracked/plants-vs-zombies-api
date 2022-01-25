@@ -1,6 +1,76 @@
+![Header](https://github.com/code-cracked/plants-vs-zombies-api/blob/main/public/assets/header_image.png)
+
+# <h1 align="center">Plants-vs-Zombies-API</h1>
+
+*An API built with with NextTS and Tailwind CSS to help website builders build their websites about Plants-vs-Zombies-2 easily!*
+
+**Data's:** *Name • Special • Weakness • Range • Image • Description • Cost • Duration • Tile...*
+
+***
+
+
+## Deployment
+
+Plants-vs-Zombies API is deployed at [Vercel](https://vercel.com/) and can be accessed by clicking [here](https://pvz-2-api.vercel.app/)
+
+
+## Features
+
+- UI changes according to modes
+- Error free data
+- Unlimited requests
+- No authorization.
+- Fast and secure
+
+
+## Technologies
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+[![Next](https://img.shields.io/badge/Next-12.0.1-blue)](#)
+
+[![Java Script](https://img.shields.io/badge/Java%20Script-16.3.1-lightgrey)](#)
+
+[![TailWind](https://img.shields.io/badge/Tailwind-V3.0.15-red)](#)
+
+
+
+## Contributors
+- [Daniel Jebarson](https://github.com/Dani-Hacker)
+- [Jessej Samuel](https://github.com/jessej-samuel)
+
+
+## Contributing?
+ ✓ Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+ 
+ ✓ To contribute open an issue and leave a comment on what you want to contribute. It doesn't matter whether it is small or big.
+ 
+ ✓ After the contribution your name will be added to the contributor list.
+ 
+ ✓ Your name will be in the order in contribution list according to the size of contributions.
+
+
+
+
+## License
+
+Plants-vs-Zombies API is an MIT Licensed web application.
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/jessej-samuel/spotipy/blob/master/LICENSE)
+
+## Docs
+
+> You can read the [docs](https://pvz-2-api.vercel.app/docs) to understand how to use the API. If the docs is not clear feel free to open an [issue](https://github.com/code-cracked/plants-vs-zombies-api/issues/new) in github and ask your questions or doubts.
+
+> Suggestions are also welcome
+
+
+## Support 
+
+If you think that this API helped you in making website or some other development please give your support by giving star to the repo in github 😋
+
+
+## Installing Guide
 
 First, install the npm packages and then run the development server:
 
@@ -34,3 +104,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
