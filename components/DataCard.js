@@ -5,18 +5,10 @@ class DataCard extends Component {
   state = { data: null, imageLink: "/assets/areas/Pirate Seas.png" };
 
   componentDidMount() {
-    console.log("Setting state!");
     this.setState({ data: this.props.data });
-    console.log(this.props.data);
+    
   }
-  // componentDidUpdate() {
-  //   //Get image link
-  //   this.props.data.forEach((pair) => {
-  //     if (pair[0].toLowerCase() === "image") {
-  //       this.setState({ imageLink: pair[1] });
-  //     }
-  //   });
-  // }
+
   render() {
     return (
       <div className="flex flex-col p-2 w-3/4 max-w-2xl">

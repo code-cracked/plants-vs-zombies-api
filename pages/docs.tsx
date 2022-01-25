@@ -153,7 +153,6 @@ const Docs: NextPage = () => {
                 <CopyToClipboard
                   text="https://pvz-2-api.vercel.app/api/plants"
                   onCopy={(e) => {
-                    console.log("Copied!");
                     notify();
                   }}
                 >
@@ -188,7 +187,6 @@ const Docs: NextPage = () => {
                 <CopyToClipboard
                   text="https://pvz-2-api.vercel.app/api/plants/[plant_name]"
                   onCopy={(e) => {
-                    console.log("Copied!");
                     notify();
                   }}
                 >
@@ -238,7 +236,6 @@ const Docs: NextPage = () => {
                 <CopyToClipboard
                   text="https://pvz-2-api.vercel.app/api/areas"
                   onCopy={(e) => {
-                    // console.log("Copied!");
                     notify();
                   }}
                 >
@@ -273,7 +270,6 @@ const Docs: NextPage = () => {
                 <CopyToClipboard
                   text="https://pvz-2-api.vercel.app/api/areas/[area_name]"
                   onCopy={(e) => {
-                    console.log("Copied!");
                     notify();
                   }}
                 >
@@ -324,7 +320,6 @@ const Docs: NextPage = () => {
                 <CopyToClipboard
                   text="https://pvz-2-api.vercel.app/api/zombies"
                   onCopy={(e) => {
-                    // console.log("Copied!");
                     notify();
                   }}
                 >
@@ -359,7 +354,6 @@ const Docs: NextPage = () => {
                 <CopyToClipboard
                   text="https://pvz-2-api.vercel.app/api/areas/[zombie_name]"
                   onCopy={(e) => {
-                    console.log("Copied!");
                     notify();
                   }}
                 >
