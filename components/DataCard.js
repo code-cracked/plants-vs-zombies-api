@@ -26,27 +26,30 @@ class DataCard extends Component {
               width={200}
               height={200}
               layout="intrinsic"
-							className="w-36"
-							alt={this.state.imageLink.split('/')[-1]}
+              className="w-36"
+              alt={this.state.imageLink.split("/")[-1]}
             />
           </div>
           <div className="bg-green-400 min-h-fit  w-full rounded-r-md flex flex-1 ">
             <div className="items-start flex flex-wrap h-fit">
-							{this.props.data.map((pair) => {
-								if (pair[0].toLowerCase().startsWith("desc")) {
-									return (
-										<div className="w-fit flex m-1 h-fit rounded-md">
-                    <div className="rounded-l-md bg-neutral-400 dark:bg-neutral-900 px-2 py-1 text-xs">
-                      {pair[0]}
+              {this.props.data.map((pair) => {
+                if (pair[0].toLowerCase().startsWith("desc")) {
+                  return (
+                    <div className="w-fit flex m-1 h-fit rounded-md">
+                      <div className="rounded-l-md bg-neutral-400 dark:bg-neutral-900 px-2 py-1 text-xs">
+                        {pair[0]}
+                      </div>
+                      <div className="rounded-r-md bg-neutral-300 dark:bg-neutral-800 py-1 px-2 text-xs">
+                        {pair[1]}
+                      </div>
                     </div>
-                    <div className="rounded-r-md bg-neutral-300 dark:bg-neutral-800 py-1 px-2 text-xs">
-                      {pair[1]}
-                    </div>
-                  </div>
-									)
-								}
+                  );
+                }
                 return (
-                  <div className="w-fit flex m-1 h-fit rounded-full">
+                  <div
+                    className="w-fit flex m-1 h-fit rounded-full"
+                    key={pair[0]}
+                  >
                     <div className="rounded-l-full bg-neutral-400 dark:bg-neutral-900 px-2 py-1 text-xs">
                       {pair[0]}
                     </div>
