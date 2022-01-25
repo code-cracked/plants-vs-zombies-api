@@ -5,6 +5,7 @@ import SearchBar from "../components/SearchBar";
 import AboutCard from "../components/AboutCard";
 // import styles from "../styles/Home.module.css";
 import Link from "next/link";
+import { GitHub } from "@material-ui/icons";
 
 const Home: NextPage = () => {
   return (
@@ -22,18 +23,27 @@ const Home: NextPage = () => {
         <meta property="twitter:image" content="/assets/twttr_banner.png" />
         <meta name="revisit-after" content="1 days" />
       </Head>
-      <div className="sticky top-0 h-14 bg-inherit">
-        <nav className="mb-2  bg-opacity-80 flex flex-row justify-end h-full items-center">
-          <Link href={"/about"}>
-            <a className="h-full hover:bg-neutral-200 hover:dark:bg-slate-900 hover:text-cyan-500 flex items-center px-8 hover:no-underline">
-              About
+      <div className="sticky top-0 h-14 bg-black flex justify-end z-50">
+        <nav className="mb-2  bg-opacity-80 grid grid-cols-3 justify-end h-full items-center w-fit">
+          <div className="text-right text-cyan-50  hover:text-cyan-500">
+            <a href="https://github.com/code-cracked/plants-vs-zombies-api" target="_blank" rel="norefferer">
+              <GitHub />
             </a>
-          </Link>
-          <Link href={"/docs"}>
-            <a className="h-full hover:bg-neutral-200 hover:dark:bg-slate-900 hover:text-cyan-500 flex items-center px-8 hover:no-underline">
-              Docs
-            </a>
-          </Link>
+          </div>
+          <div>
+            <Link href={"/about"}>
+              <a className="h-full text-cyan-50  hover:text-cyan-500 flex items-center px-8 hover:no-underline">
+                About
+              </a>
+            </Link>
+          </div>
+          <div>
+            <Link href={"/docs"}>
+              <a className="h-full text-cyan-50  hover:text-cyan-500 flex items-center px-8 hover:no-underline">
+                Docs
+              </a>
+            </Link>
+          </div>
         </nav>
       </div>
       <div
