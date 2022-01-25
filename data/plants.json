@@ -581,8 +581,8 @@
       "Family": "Enchant-mint",
       "image": "/assets/plants/Intensive Carrot.png"
     },
-    "jack o' lantern": {
-      "name": "Jack O' Lantern",
+    "jack o%27 lantern": {
+      "name": "Jack O%27 Lantern",
       "Sun cost": "225",
       "Recharge": "20 seconds",
       "Damage": "300 damage per shot per second",
@@ -590,7 +590,7 @@
       "Special": "Fire recharges over time",
       "Weakness": "(Immune to fire)",
       "Family": "Pepper-mint",
-      "image": "/assets/plants/Jack O' Lantern.png"
+      "image": "/assets/plants/Jack O%27 Lantern.png"
     },
     "jalapeno": {
       "name": "Jalapeno",
