@@ -11,7 +11,7 @@ class DataCard extends Component {
 
   render() {
     return (
-      <div className="flex flex-col p-2 w-3/4 max-w-2xl">
+      <div className="flex flex-col p-2 w-3/4 max-w-2xl hover:scale-105 transition-all">
         <div className="flex h-fit rounded-md  bg-green-500 dark:bg-neutral-900 justify-center dark:border dark:border-green-500">
           <div className="bg-transparent w-36 mx-1 flex flex-col justify-center p-4 items-center">
             <Image
