@@ -44,11 +44,8 @@ const Search = () => {
 
   return (
     <>
-      <div className="flex justify-center">
-        <SearchBar></SearchBar>
-      </div>
-
       <div className="flex flex-col justify-center items-center h-screen">
+        <SearchBar />
         <DataCard data={dataTags()} />
       </div>
     </>

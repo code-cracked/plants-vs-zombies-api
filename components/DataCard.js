@@ -19,8 +19,8 @@ class DataCard extends Component {
   // }
   render() {
     return (
-      <div className="flex flex-col p-2 w-3/4 max-w-2xl">
-        <div className="flex h-fit rounded-md  bg-green-500 justify-center ">
+      <div className="flex flex-col p-2 w-3/4 max-w-2xl hover:shadow-sm hover:shadow-red-400 hover:animate-zoomy">
+        <div className="flex h-fit rounded-md  bg-green-500 dark:bg-neutral-700 justify-center ">
           <div className="bg-transparent w-36 mx-1 flex flex-col justify-center p-4 items-center">
             <Image
               src={this.props.data[this.props.data.length - 1][1] || null}
@@ -54,7 +54,7 @@ class DataCard extends Component {
                     className="w-fit flex m-1 h-fit rounded-full"
                     key={pair[0]}
                   >
-                    <div className="rounded-l-full bg-neutral-400 dark:bg-neutral-900 px-2 py-1 text-xs">
+                    <div className="rounded-l-full bg-neutral-400 dark:bg-green-500 px-2 py-1 text-xs">
                       {pair[0]}
                     </div>
                     <div className="rounded-r-full bg-neutral-300 dark:bg-neutral-800 py-1 px-2 text-xs">
