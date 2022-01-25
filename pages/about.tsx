@@ -35,6 +35,7 @@ const About: NextPage = () => {
           <a
             href="https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies-2"
             target={"_blank"}
+            rel="noreferrer"
           >
             Plants vs Zombies-2
           </a>
@@ -132,6 +133,7 @@ const About: NextPage = () => {
             <a
               href="https://github.com/code-cracked/plants-vs-zombies-api/issues/new"
               target={"_blank"}
+              rel="noreferrer"
             >
               GitHub
             </a>
@@ -143,6 +145,7 @@ const About: NextPage = () => {
             <a
               href="https://github.com/code-cracked/plants-vs-zombies-api"
               target={"_blank"}
+              rel="noreferrer"
             >
               GITHUB
             </a>
@@ -153,11 +156,19 @@ const About: NextPage = () => {
           <p className="ml-3">
             <abbr title="Plants vs Zombies API">PVZ API</abbr> was created
             together by
-            <a href="https://github.com/Dani-Hacker" target={"_blank"}>
+            <a
+              href="https://github.com/Dani-Hacker"
+              target={"_blank"}
+              rel="noreferrer"
+            >
               Daniel Jebarson
             </a>{" "}
             and{" "}
-            <a href="https://github.com/jessej-samuel" target={"_blank"}>
+            <a
+              href="https://github.com/jessej-samuel"
+              target={"_blank"}
+              rel="noreferrer"
+            >
               Jessej Samuel
             </a>{" "}
             as a weekend project but it quickly became more than a weekend's
@@ -165,6 +176,7 @@ const About: NextPage = () => {
             <a
               href="https://github.com/code-cracked/plants-vs-zombies-api/releases/tag/1.0.0"
               target={"_blank"}
+              rel="noreferrer"
             >
               V1
             </a>
@@ -174,7 +186,11 @@ const About: NextPage = () => {
           </p>
           <p className="ml-3 mt-3">
             We also have a{" "}
-            <a href="https://github.com/code-cracked" target={"_blank"}>
+            <a
+              href="https://github.com/code-cracked"
+              target={"_blank"}
+              rel="noreferrer"
+            >
               GitHub organisation
             </a>{" "}
             for contributors that you are welcome to join! . To join the
@@ -189,7 +205,7 @@ const About: NextPage = () => {
               <span className="text-red-500 ">#8889</span>
             </span>{" "}
             on{" "}
-            <a href="https://discord.com/" target={"_blank"}>
+            <a href="https://discord.com/" target={"_blank"} rel="noreferrer">
               discord
             </a>
           </p>
@@ -206,6 +222,7 @@ const About: NextPage = () => {
                 <a
                   href="https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies-2"
                   target={"_blank"}
+                  rel="noreferrer"
                 >
                   Plants vs Zombies-2 official{" "}
                 </a>{" "}
@@ -213,6 +230,7 @@ const About: NextPage = () => {
                 <a
                   href="https://plantsvszombies.fandom.com/wiki/Main_Page"
                   target={"_blank"}
+                  rel="noreferrer"
                 >
                   Plants vs Zombies-2 fandom
                 </a>{" "}
@@ -229,11 +247,15 @@ const About: NextPage = () => {
           <p className="ml-3 mt-3">
             Up until January, the API and website were built together in a
             single{" "}
-            <a href="https://www.javascript.com/" target={"_blank"}>
+            <a
+              href="https://www.javascript.com/"
+              target={"_blank"}
+              rel="noreferrer"
+            >
               JavaScript
             </a>{" "}
             project using the{" "}
-            <a href="https://nextjs.org/" target={"_blank"}>
+            <a href="https://nextjs.org/" target={"_blank"} rel="noreferrer">
               Next JS
             </a>{" "}
             framework and made itself a database that sends data as its own use
@@ -243,13 +265,14 @@ const About: NextPage = () => {
           <p className="ml-3 mt-3">
             {" "}
             The entire stack was deployed at{" "}
-            <a href="https://vercel.com/" target={"_blank"}>
+            <a href="https://vercel.com/" target={"_blank"} rel="noreferrer">
               Vercel
             </a>{" "}
             for free and the code lives in its own GITHUIB repository{" "}
             <a
               href="https://github.com/code-cracked/plants-vs-zombies-api"
               target={"_blank"}
+              rel="noreferrer"
             >
               code-cracked/plants-vs-zombies-api
             </a>

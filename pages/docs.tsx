@@ -210,6 +210,7 @@ const Docs: NextPage = () => {
               Example:{" "}
               <a
                 target={"_blank"}
+                rel="noreferrer"
                 href="https://pvz-2-api.vercel.app/api/plants/aloe"
               >
                 https://pvz-2-api.vercel.app/api/plants/aloe
@@ -294,6 +295,7 @@ const Docs: NextPage = () => {
               Example:{" "}
               <a
                 target={"_blank"}
+                rel="noreferrer"
                 href="https://pvz-2-api.vercel.app/api/areas/player's%20house"
               >
                 https://pvz-2-api.vercel.app/api/areas/player's%20house
@@ -381,6 +383,7 @@ const Docs: NextPage = () => {
               Example:{" "}
               <a
                 target={"_blank"}
+                rel="noreferrer"
                 href="https://pvz-2-api.vercel.app/api/zombies/basic%20zombie"
               >
                 https://pvz-2-api.vercel.app/api/zombies/basic%20zombie
