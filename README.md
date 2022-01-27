@@ -41,7 +41,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 ## Contributors
-- [Daniel Jebarson](https://github.com/Dani-Hacker)
+- [Daniel Jebarson](https://github.com/daniel-jebarson)
 - [Jessej Samuel](https://github.com/jessej-samuel)
 
 
