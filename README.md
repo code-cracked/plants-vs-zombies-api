@@ -29,13 +29,15 @@ Plants-vs-Zombies API is deployed at [Vercel](https://vercel.com/) and can be ac
 ## Technologies
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+<br />
+<br />
+<span>
 [![NextJS](https://img.shields.io/badge/Next-12.0.1-blue)](#)
-
+</span><span>
 [![Java Script](https://img.shields.io/badge/Java%20Script-16.3.1-lightgrey)](#)
-
+</span><span>
 [![TailWind](https://img.shields.io/badge/Tailwind-V3.0.15-red)](#)
-
+</span>
 
 
 ## Contributors
