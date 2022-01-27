@@ -157,7 +157,7 @@ const About: NextPage = () => {
             <abbr title="Plants vs Zombies API">PVZ API</abbr> was created
             together by
             <a
-              href="https://github.com/Dani-Hacker"
+              href="https://github.com/daniel-jebarson"
               target={"_blank"}
               rel="noreferrer"
             >
