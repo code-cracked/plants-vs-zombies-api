@@ -31,7 +31,7 @@ class DataCard extends Component {
               {this.props.data.map((pair) => {
                 if (pair[0].toLowerCase().startsWith("desc")) {
                   return (
-                    <div className="w-fit flex m-1 h-fit rounded-md dark:text-black">
+                    <div className="w-fit flex m-1 h-fit rounded-md dark:text-black" key={pair[0]}>
                       <div className="rounded-l-md bg-neutral-400 dark:bg-green-500 px-2 py-1 text-xs">
                         {pair[0]}
                       </div>
