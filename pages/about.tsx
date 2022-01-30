@@ -182,7 +182,16 @@ const About: NextPage = () => {
             </a>
             . Though majority of the frontend development was done by Jessej
             Samuel and the backend was done by Daniel Jebarson, both of us
-            contributed to full stack development.
+            contributed to full stack development. We also thank{" "}
+            <a
+              href="https://github.com/ShrihariMohan"
+              target={"_blank"}
+              rel="noreferrer"
+            >
+              ShrihariMohan
+            </a>{" "}
+            for helping us in arrow keys up and down events to navigate the
+            searched result .
           </p>
           <p className="ml-3 mt-3">
             We also have a{" "}
