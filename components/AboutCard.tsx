@@ -40,19 +40,16 @@ const AboutCard: FunctionComponent<AboutCardProps> = ({
       </div>
       <div className="flex flex-col h-fit  justify-around">
         <div
-          className={`text-base sm:text-lg md:text-2xl md:m-3 font-medium ${
-            onHover ? color : "dark:text-gray-200 text-gray-900"
-          }`}
+          className={`text-base sm:text-lg md:text-2xl md:m-3 font-medium ${onHover ? color : "dark:text-gray-200 text-gray-900"
+            }`}
         >
           {title}
         </div>
-        <hr className="border-gray-500 " />
         <div
-          className={`text-sm sm:text-base md:text-lg md:m-3  ${
-            onHover
+          className={`text-sm sm:text-base md:text-lg md:m-3  ${onHover
               ? "dark:text-gray-300 text-gray-700"
               : "dark:text-gray-400 text-gray-900"
-          } `}
+            } `}
         >
           {detail}
         </div>
