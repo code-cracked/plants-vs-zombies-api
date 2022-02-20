@@ -6,8 +6,10 @@ import AboutCard from "../components/AboutCard";
 // import styles from "../styles/Home.module.css";
 import Link from "next/link";
 import { GitHub } from "@material-ui/icons";
+import ThemeSwitcher from "../components/ThemeSwitcher";
 
 const Home: NextPage = () => {
+
   return (
     <>
       <Head>
@@ -23,31 +25,43 @@ const Home: NextPage = () => {
         <meta property="twitter:image" content="/assets/twttr_banner.png" />
         <meta name="revisit-after" content="1 days" />
       </Head>
-      <div className="sticky top-0 h-14 bg-black flex justify-end z-50">
-        <nav className="mb-2  bg-opacity-80 grid grid-cols-3 justify-end h-full items-center w-fit">
-          <div className="text-right text-cyan-50  hover:text-cyan-500">
-            <a href="https://github.com/code-cracked/plants-vs-zombies-api" target="_blank" rel="norefferer">
-              <GitHub />
-            </a>
+      <div className="sticky bg-transparent backdrop-blur-xl shadow-sm top-0 h-14 z-50 dark:shadow-slate-900" >
+        <nav className="mb-2 bg-opacity-80 flex justify-between  h-full items-center">
+          <div className="font-semibold text-lg m-0 ml-2 p-2 rounded-md flex  items-center">
+
+            <p className=" bg-gradient-to-r from-green-500 to-orange-500 text-transparent bg-clip-text ">
+              Pvz2 API
+            </p>
           </div>
-          <div>
-            <Link href={"/about"}>
-              <a className="h-full text-cyan-50  hover:text-cyan-500 flex items-center px-8 hover:no-underline">
-                About
-              </a>
-            </Link>
+          <div className="flex items-center justify-between">
+
+            <div className="mx-2">
+              <Link href={"/about"}>
+                <a className="h-full text-black dark:text-white hover:text-cyan-500 flex items-center  hover:no-underline">
+                  About
+                </a>
+              </Link>
+            </div>
+            <div className="mr-2">
+              <Link href={"/docs"}>
+                <a className="h-full  text-black dark:text-white hover:text-cyan-500 flex items-center  hover:no-underline">
+                  Docs
+                </a>
+              </Link>
+            </div>
           </div>
-          <div>
-            <Link href={"/docs"}>
-              <a className="h-full text-cyan-50  hover:text-cyan-500 flex items-center px-8 hover:no-underline">
-                Docs
+          <div className="flex items-center">
+            <div className="mr-2 dark:text-white hover:text-cyan-500 ">
+              <a className="h-full  text-black dark:text-white hover:text-cyan-500 flex items-center  hover:no-underline" href="https://github.com/code-cracked/plants-vs-zombies-api" target="_blank" rel="norefferer">
+                <GitHub className="mx-1" fontSize="medium" style={{ color: 'blueviolet' }} />
               </a>
-            </Link>
+            </div>
+            <ThemeSwitcher />
           </div>
         </nav>
       </div>
       <div
-        className="bg-gray-50 dark:bg-inherit h-screen w-full flex justify-center flex-col items-center"
+        className="bg-gray-50 dark:bg-black  h-screen w-full flex justify-center flex-col items-center"
         id="home-search"
       >
         <div
@@ -124,6 +138,7 @@ const Home: NextPage = () => {
             border="hover:border-green-700 dark:hover:border-green-500 hover:shadow-md dark:hover:shadow-green-700 hover:shadow-green-400"
             className="sm:self-start"
           />
+          <p className="text-sm text-center text-gray-600 bottom-0"> Made with 💚 on PvZ</p>
         </div>
       </div>
     </>
