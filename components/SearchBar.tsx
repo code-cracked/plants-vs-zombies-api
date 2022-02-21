@@ -6,19 +6,18 @@ import zombies from "../data/zombies_name.json";
 import areas from "../data/areas_name.json";
 
 type IState = {
-  term: string,
-  last_hit: string,
-  cursor: number
-}
-type IProps = {}
+  term: string;
+  last_hit: string;
+  cursor: number;
+};
+type IProps = {};
 
 const autoCompleteTags = [...plants.names, ...zombies.names, ...areas.names];
 let hits: string[] = [];
 class SearchBar extends React.Component<IProps, IState> {
-
   constructor(props: IProps) {
-    super(props)
-    this.state = { term: '', last_hit: '', cursor: 0 }
+    super(props);
+    this.state = { term: "", last_hit: "", cursor: 0 };
   }
 
   sendProps = () => {
@@ -89,13 +88,10 @@ class SearchBar extends React.Component<IProps, IState> {
 
   handleOnChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     let filled = false;
-    const term = e.target.value
+    const term = e.target.value;
     hits = [];
     autoCompleteTags.forEach((tag) => {
-      if (
-        tag.toLowerCase().startsWith(term.toLowerCase()) &&
-        !filled
-      ) {
+      if (tag.toLowerCase().startsWith(term.toLowerCase()) && !filled) {
         hits.push(tag);
         if (hits.length === 3) {
           filled = true;
@@ -109,39 +105,38 @@ class SearchBar extends React.Component<IProps, IState> {
       hits = [];
     }
     this.setState({ term });
-    !term && this.setState({ cursor: 0 })
+    !term && this.setState({ cursor: 0 });
+  };
 
-  }
-
-  handleOnClickOnSelectedItem = (e: React.MouseEvent<HTMLDivElement>, val: string) => {
+  handleOnClickOnSelectedItem = (
+    e: React.MouseEvent<HTMLDivElement>,
+    val: string
+  ) => {
     this.setState({ term: val, last_hit: val }, () => this.onFormSubmit(e));
     hits = [];
-  }
+  };
 
   handleKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
-    const { cursor } = this.state
+    const { cursor } = this.state;
     // arrow up/down button should select next/previous div element
-    if (e.key === 'ArrowUp' && cursor > 0) {
-      this.setState(prevState => ({
-        cursor: prevState.cursor - 1
-      }))
-
-    } else if (e.key === 'ArrowDown' && cursor < hits.length - 1) {
-      this.setState(prevState => ({
-        cursor: prevState.cursor + 1
-      }))
+    if (e.key === "ArrowUp" && cursor > 0) {
+      this.setState((prevState) => ({
+        cursor: prevState.cursor - 1,
+      }));
+    } else if (e.key === "ArrowDown" && cursor < hits.length - 1) {
+      this.setState((prevState) => ({
+        cursor: prevState.cursor + 1,
+      }));
     }
     // Enter button to query the result
-    else if (e.key === 'Enter') {
+    else if (e.key === "Enter") {
       if (hits.length > 0) {
-        const val = hits[this.state.cursor]
+        const val = hits[this.state.cursor];
         this.setState({ term: val, last_hit: val }, () => this.onFormSubmit(e));
         hits = [];
       }
-
     }
-  }
-
+  };
 
   render = () => {
     return (
@@ -150,11 +145,13 @@ class SearchBar extends React.Component<IProps, IState> {
           onSubmit={(e) => this.onFormSubmit(e)}
           className="bg-transparent h-fit sm:max-w-lg w-full p-2 px-5 "
         >
-          <input onKeyDown={this.handleKeyDown}
+          <input
+            onKeyDown={this.handleKeyDown}
             title="Search"
             type="search"
-            className={`bg-inherit border border-neutral-400 dark:border-neutral-800 w-full text-sm p-2 hover:shadow-md shadow-black  h-11 px-5 outline-none focus-visible:dark:bg-neutral-800 hover:dark:bg-neutral-800 transition sm:max-w-lg  ${hits.length > 0 ? "rounded-t-3xl rounded-b-none" : "rounded-full"
-              }`}
+            className={`bg-inherit border border-neutral-400 dark:border-neutral-800 w-full text-sm p-2 hover:shadow-md shadow-black  h-11 px-5 outline-none focus-visible:dark:bg-neutral-800 hover:dark:bg-neutral-800 transition sm:max-w-lg  ${
+              hits.length > 0 ? "rounded-t-3xl rounded-b-none" : "rounded-full"
+            }`}
             autoComplete="True"
             value={this.state.term}
             placeholder="🔍 Search Here"
@@ -164,9 +161,14 @@ class SearchBar extends React.Component<IProps, IState> {
             {hits.map((val, index) => {
               return (
                 <div
-                  className={`cursor-pointer bg-inherit  w-full text-sm p-2  min-h-fit h-11 px-5 outline-none focus-visible:dark:bg-neutral-800  
+                  className={`cursor-pointer bg-inherit  w-full text-sm p-2  min-h-fit h-11 px-5 outline-none 
+                  focus-visible:bg-neutral-100 focus-visible:dark:bg-neutral-800  
                   transition sm:max-w-lg border-l border-r 
-                  border-inherit last:border-b last:rounded-b-3xl ${this.state.cursor == index ? 'dark:bg-neutral-800 bg-neutral-200' : ''}"`}
+                  border-inherit last:border-b last:rounded-b-3xl ${
+                    this.state.cursor == index
+                      ? "dark:bg-neutral-800 bg-neutral-200"
+                      : ""
+                  }"`}
                   key={val}
                   onClick={(e) => this.handleOnClickOnSelectedItem(e, val)}
                 >
