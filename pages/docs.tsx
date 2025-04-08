@@ -352,7 +352,7 @@ const Docs: NextPage = () => {
               </div>
               <div className="bg-gray-200">
                 <CopyToClipboard
-                  text="https://pvz-2-api.vercel.app/api/areas/[zombie_name]"
+                  text="https://pvz-2-api.vercel.app/api/zombies/[zombie_name]"
                   onCopy={(e) => {
                     notify();
                   }}
